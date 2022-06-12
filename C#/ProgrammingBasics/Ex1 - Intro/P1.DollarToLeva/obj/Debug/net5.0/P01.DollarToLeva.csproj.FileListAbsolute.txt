@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P1.DollarToLeva\bin\Debug\net5.0\P01.DollarToLeva.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P1.DollarToLeva\bin\Debug\net5.0\P01.DollarToLeva.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P1.DollarToLeva\bin\Debug\net5.0\P01.DollarToLeva.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P1.DollarToLeva\bin\Debug\net5.0\P01.DollarToLeva.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P1.DollarToLeva\bin\Debug\net5.0\P01.DollarToLeva.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P1.DollarToLeva\bin\Debug\net5.0\ref\P01.DollarToLeva.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P1.DollarToLeva\bin\Debug\net5.0\P01.DollarToLeva.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P1.DollarToLeva\obj\Debug\net5.0\P01.DollarToLeva.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P1.DollarToLeva\obj\Debug\net5.0\P01.DollarToLeva.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P1.DollarToLeva\obj\Debug\net5.0\P01.DollarToLeva.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P1.DollarToLeva\obj\Debug\net5.0\P01.DollarToLeva.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P1.DollarToLeva\obj\Debug\net5.0\P01.DollarToLeva.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P1.DollarToLeva\obj\Debug\net5.0\ref\P01.DollarToLeva.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P1.DollarToLeva\obj\Debug\net5.0\P01.DollarToLeva.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P1.DollarToLeva\obj\Debug\net5.0\P01.DollarToLeva.genruntimeconfig.cache

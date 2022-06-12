@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P02.NumsOneToTen\bin\Debug\net5.0\P02.NumsOneToTen.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P02.NumsOneToTen\bin\Debug\net5.0\P02.NumsOneToTen.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P02.NumsOneToTen\bin\Debug\net5.0\P02.NumsOneToTen.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P02.NumsOneToTen\bin\Debug\net5.0\P02.NumsOneToTen.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P02.NumsOneToTen\bin\Debug\net5.0\P02.NumsOneToTen.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P02.NumsOneToTen\bin\Debug\net5.0\ref\P02.NumsOneToTen.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P02.NumsOneToTen\bin\Debug\net5.0\P02.NumsOneToTen.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P02.NumsOneToTen\obj\Debug\net5.0\P02.NumsOneToTen.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P02.NumsOneToTen\obj\Debug\net5.0\P02.NumsOneToTen.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P02.NumsOneToTen\obj\Debug\net5.0\P02.NumsOneToTen.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P02.NumsOneToTen\obj\Debug\net5.0\P02.NumsOneToTen.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P02.NumsOneToTen\obj\Debug\net5.0\P02.NumsOneToTen.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P02.NumsOneToTen\obj\Debug\net5.0\ref\P02.NumsOneToTen.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P02.NumsOneToTen\obj\Debug\net5.0\P02.NumsOneToTen.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P02.NumsOneToTen\obj\Debug\net5.0\P02.NumsOneToTen.genruntimeconfig.cache

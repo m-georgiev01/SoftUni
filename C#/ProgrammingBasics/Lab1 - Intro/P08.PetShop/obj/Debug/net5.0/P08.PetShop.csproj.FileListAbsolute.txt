@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P08.PetShop\bin\Debug\net5.0\P08.PetShop.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P08.PetShop\bin\Debug\net5.0\P08.PetShop.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P08.PetShop\bin\Debug\net5.0\P08.PetShop.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P08.PetShop\bin\Debug\net5.0\P08.PetShop.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P08.PetShop\bin\Debug\net5.0\P08.PetShop.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P08.PetShop\bin\Debug\net5.0\ref\P08.PetShop.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P08.PetShop\bin\Debug\net5.0\P08.PetShop.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P08.PetShop\obj\Debug\net5.0\P08.PetShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P08.PetShop\obj\Debug\net5.0\P08.PetShop.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P08.PetShop\obj\Debug\net5.0\P08.PetShop.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P08.PetShop\obj\Debug\net5.0\P08.PetShop.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P08.PetShop\obj\Debug\net5.0\P08.PetShop.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P08.PetShop\obj\Debug\net5.0\ref\P08.PetShop.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P08.PetShop\obj\Debug\net5.0\P08.PetShop.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P08.PetShop\obj\Debug\net5.0\P08.PetShop.genruntimeconfig.cache

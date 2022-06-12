@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P2.RadiansToDegrees\bin\Debug\net5.0\P02.RadiansToDegrees.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P2.RadiansToDegrees\bin\Debug\net5.0\P02.RadiansToDegrees.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P2.RadiansToDegrees\bin\Debug\net5.0\P02.RadiansToDegrees.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P2.RadiansToDegrees\bin\Debug\net5.0\P02.RadiansToDegrees.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P2.RadiansToDegrees\bin\Debug\net5.0\P02.RadiansToDegrees.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P2.RadiansToDegrees\bin\Debug\net5.0\ref\P02.RadiansToDegrees.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P2.RadiansToDegrees\bin\Debug\net5.0\P02.RadiansToDegrees.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P2.RadiansToDegrees\obj\Debug\net5.0\P02.RadiansToDegrees.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P2.RadiansToDegrees\obj\Debug\net5.0\P02.RadiansToDegrees.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P2.RadiansToDegrees\obj\Debug\net5.0\P02.RadiansToDegrees.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P2.RadiansToDegrees\obj\Debug\net5.0\P02.RadiansToDegrees.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P2.RadiansToDegrees\obj\Debug\net5.0\P02.RadiansToDegrees.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P2.RadiansToDegrees\obj\Debug\net5.0\ref\P02.RadiansToDegrees.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P2.RadiansToDegrees\obj\Debug\net5.0\P02.RadiansToDegrees.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex1 - Intro\P2.RadiansToDegrees\obj\Debug\net5.0\P02.RadiansToDegrees.genruntimeconfig.cache

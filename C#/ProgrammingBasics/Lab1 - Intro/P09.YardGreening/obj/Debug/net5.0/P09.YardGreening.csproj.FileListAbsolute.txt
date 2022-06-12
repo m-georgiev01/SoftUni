@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P09.YardGreening\bin\Debug\net5.0\P09.YardGreening.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P09.YardGreening\bin\Debug\net5.0\P09.YardGreening.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P09.YardGreening\bin\Debug\net5.0\P09.YardGreening.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P09.YardGreening\bin\Debug\net5.0\P09.YardGreening.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P09.YardGreening\bin\Debug\net5.0\P09.YardGreening.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P09.YardGreening\bin\Debug\net5.0\ref\P09.YardGreening.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P09.YardGreening\bin\Debug\net5.0\P09.YardGreening.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P09.YardGreening\obj\Debug\net5.0\P09.YardGreening.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P09.YardGreening\obj\Debug\net5.0\P09.YardGreening.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P09.YardGreening\obj\Debug\net5.0\P09.YardGreening.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P09.YardGreening\obj\Debug\net5.0\P09.YardGreening.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P09.YardGreening\obj\Debug\net5.0\P09.YardGreening.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P09.YardGreening\obj\Debug\net5.0\ref\P09.YardGreening.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P09.YardGreening\obj\Debug\net5.0\P09.YardGreening.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P09.YardGreening\obj\Debug\net5.0\P09.YardGreening.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P03.RectangleArea\bin\Debug\net5.0\P03.RectangleArea.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P03.RectangleArea\bin\Debug\net5.0\P03.RectangleArea.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P03.RectangleArea\bin\Debug\net5.0\P03.RectangleArea.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P03.RectangleArea\bin\Debug\net5.0\P03.RectangleArea.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P03.RectangleArea\bin\Debug\net5.0\P03.RectangleArea.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P03.RectangleArea\bin\Debug\net5.0\ref\P03.RectangleArea.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P03.RectangleArea\bin\Debug\net5.0\P03.RectangleArea.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P03.RectangleArea\obj\Debug\net5.0\P03.RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P03.RectangleArea\obj\Debug\net5.0\P03.RectangleArea.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P03.RectangleArea\obj\Debug\net5.0\P03.RectangleArea.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P03.RectangleArea\obj\Debug\net5.0\P03.RectangleArea.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P03.RectangleArea\obj\Debug\net5.0\P03.RectangleArea.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P03.RectangleArea\obj\Debug\net5.0\ref\P03.RectangleArea.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P03.RectangleArea\obj\Debug\net5.0\P03.RectangleArea.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P03.RectangleArea\obj\Debug\net5.0\P03.RectangleArea.genruntimeconfig.cache

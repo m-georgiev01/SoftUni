@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P07.ProjectsCreation\bin\Debug\net5.0\P07.ProjectsCreation.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P07.ProjectsCreation\bin\Debug\net5.0\P07.ProjectsCreation.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P07.ProjectsCreation\bin\Debug\net5.0\P07.ProjectsCreation.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P07.ProjectsCreation\bin\Debug\net5.0\P07.ProjectsCreation.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P07.ProjectsCreation\bin\Debug\net5.0\P07.ProjectsCreation.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P07.ProjectsCreation\bin\Debug\net5.0\ref\P07.ProjectsCreation.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P07.ProjectsCreation\bin\Debug\net5.0\P07.ProjectsCreation.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P07.ProjectsCreation\obj\Debug\net5.0\P07.ProjectsCreation.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P07.ProjectsCreation\obj\Debug\net5.0\P07.ProjectsCreation.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P07.ProjectsCreation\obj\Debug\net5.0\P07.ProjectsCreation.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P07.ProjectsCreation\obj\Debug\net5.0\P07.ProjectsCreation.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P07.ProjectsCreation\obj\Debug\net5.0\P07.ProjectsCreation.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P07.ProjectsCreation\obj\Debug\net5.0\ref\P07.ProjectsCreation.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P07.ProjectsCreation\obj\Debug\net5.0\P07.ProjectsCreation.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P07.ProjectsCreation\obj\Debug\net5.0\P07.ProjectsCreation.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P04.InchToCm\bin\Debug\net5.0\P04.InchToCm.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P04.InchToCm\bin\Debug\net5.0\P04.InchToCm.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P04.InchToCm\bin\Debug\net5.0\P04.InchToCm.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P04.InchToCm\bin\Debug\net5.0\P04.InchToCm.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P04.InchToCm\bin\Debug\net5.0\P04.InchToCm.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P04.InchToCm\bin\Debug\net5.0\ref\P04.InchToCm.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P04.InchToCm\bin\Debug\net5.0\P04.InchToCm.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P04.InchToCm\obj\Debug\net5.0\P04.InchToCm.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P04.InchToCm\obj\Debug\net5.0\P04.InchToCm.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P04.InchToCm\obj\Debug\net5.0\P04.InchToCm.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P04.InchToCm\obj\Debug\net5.0\P04.InchToCm.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P04.InchToCm\obj\Debug\net5.0\P04.InchToCm.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P04.InchToCm\obj\Debug\net5.0\ref\P04.InchToCm.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P04.InchToCm\obj\Debug\net5.0\P04.InchToCm.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Lab1 - Intro\P04.InchToCm\obj\Debug\net5.0\P04.InchToCm.genruntimeconfig.cache
