@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P05.Journey\bin\Debug\net5.0\P05.Journey.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P05.Journey\bin\Debug\net5.0\P05.Journey.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P05.Journey\bin\Debug\net5.0\P05.Journey.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P05.Journey\bin\Debug\net5.0\P05.Journey.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P05.Journey\bin\Debug\net5.0\P05.Journey.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P05.Journey\bin\Debug\net5.0\ref\P05.Journey.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P05.Journey\bin\Debug\net5.0\P05.Journey.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P05.Journey\obj\Debug\net5.0\P05.Journey.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P05.Journey\obj\Debug\net5.0\P05.Journey.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P05.Journey\obj\Debug\net5.0\P05.Journey.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P05.Journey\obj\Debug\net5.0\P05.Journey.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P05.Journey\obj\Debug\net5.0\P05.Journey.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P05.Journey\obj\Debug\net5.0\ref\P05.Journey.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P05.Journey\obj\Debug\net5.0\P05.Journey.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P05.Journey\obj\Debug\net5.0\P05.Journey.genruntimeconfig.cache

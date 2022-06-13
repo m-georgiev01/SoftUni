@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P07.HotelRoom\bin\Debug\net5.0\P07.HotelRoom.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P07.HotelRoom\bin\Debug\net5.0\P07.HotelRoom.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P07.HotelRoom\bin\Debug\net5.0\P07.HotelRoom.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P07.HotelRoom\bin\Debug\net5.0\P07.HotelRoom.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P07.HotelRoom\bin\Debug\net5.0\P07.HotelRoom.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P07.HotelRoom\bin\Debug\net5.0\ref\P07.HotelRoom.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P07.HotelRoom\bin\Debug\net5.0\P07.HotelRoom.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P07.HotelRoom\obj\Debug\net5.0\P07.HotelRoom.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P07.HotelRoom\obj\Debug\net5.0\P07.HotelRoom.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P07.HotelRoom\obj\Debug\net5.0\P07.HotelRoom.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P07.HotelRoom\obj\Debug\net5.0\P07.HotelRoom.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P07.HotelRoom\obj\Debug\net5.0\P07.HotelRoom.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P07.HotelRoom\obj\Debug\net5.0\P07.HotelRoom.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P07.HotelRoom\obj\Debug\net5.0\ref\P07.HotelRoom.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P07.HotelRoom\obj\Debug\net5.0\P07.HotelRoom.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P07.HotelRoom\obj\Debug\net5.0\P07.HotelRoom.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P01.Cinema\bin\Debug\net5.0\P01.Cinema.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P01.Cinema\bin\Debug\net5.0\P01.Cinema.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P01.Cinema\bin\Debug\net5.0\P01.Cinema.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P01.Cinema\bin\Debug\net5.0\P01.Cinema.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P01.Cinema\bin\Debug\net5.0\P01.Cinema.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P01.Cinema\bin\Debug\net5.0\ref\P01.Cinema.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P01.Cinema\bin\Debug\net5.0\P01.Cinema.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P01.Cinema\obj\Debug\net5.0\P01.Cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P01.Cinema\obj\Debug\net5.0\P01.Cinema.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P01.Cinema\obj\Debug\net5.0\P01.Cinema.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P01.Cinema\obj\Debug\net5.0\P01.Cinema.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P01.Cinema\obj\Debug\net5.0\P01.Cinema.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P01.Cinema\obj\Debug\net5.0\ref\P01.Cinema.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P01.Cinema\obj\Debug\net5.0\P01.Cinema.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P01.Cinema\obj\Debug\net5.0\P01.Cinema.genruntimeconfig.cache

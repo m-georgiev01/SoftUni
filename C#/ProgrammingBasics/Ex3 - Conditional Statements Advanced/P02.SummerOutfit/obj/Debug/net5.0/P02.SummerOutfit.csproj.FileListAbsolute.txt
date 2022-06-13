@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P02.SummerOutfit\bin\Debug\net5.0\P02.SummerOutfit.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P02.SummerOutfit\bin\Debug\net5.0\P02.SummerOutfit.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P02.SummerOutfit\bin\Debug\net5.0\P02.SummerOutfit.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P02.SummerOutfit\bin\Debug\net5.0\P02.SummerOutfit.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P02.SummerOutfit\bin\Debug\net5.0\P02.SummerOutfit.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P02.SummerOutfit\bin\Debug\net5.0\ref\P02.SummerOutfit.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P02.SummerOutfit\bin\Debug\net5.0\P02.SummerOutfit.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P02.SummerOutfit\obj\Debug\net5.0\P02.SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P02.SummerOutfit\obj\Debug\net5.0\P02.SummerOutfit.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P02.SummerOutfit\obj\Debug\net5.0\P02.SummerOutfit.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P02.SummerOutfit\obj\Debug\net5.0\P02.SummerOutfit.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P02.SummerOutfit\obj\Debug\net5.0\P02.SummerOutfit.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P02.SummerOutfit\obj\Debug\net5.0\ref\P02.SummerOutfit.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P02.SummerOutfit\obj\Debug\net5.0\P02.SummerOutfit.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P02.SummerOutfit\obj\Debug\net5.0\P02.SummerOutfit.genruntimeconfig.cache

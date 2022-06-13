@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P06.OperationsBetweenNumbers\bin\Debug\net5.0\P06.OperationsBetweenNumbers.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P06.OperationsBetweenNumbers\bin\Debug\net5.0\P06.OperationsBetweenNumbers.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P06.OperationsBetweenNumbers\bin\Debug\net5.0\P06.OperationsBetweenNumbers.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P06.OperationsBetweenNumbers\bin\Debug\net5.0\P06.OperationsBetweenNumbers.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P06.OperationsBetweenNumbers\bin\Debug\net5.0\P06.OperationsBetweenNumbers.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P06.OperationsBetweenNumbers\bin\Debug\net5.0\ref\P06.OperationsBetweenNumbers.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P06.OperationsBetweenNumbers\bin\Debug\net5.0\P06.OperationsBetweenNumbers.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P06.OperationsBetweenNumbers\obj\Debug\net5.0\P06.OperationsBetweenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P06.OperationsBetweenNumbers\obj\Debug\net5.0\P06.OperationsBetweenNumbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P06.OperationsBetweenNumbers\obj\Debug\net5.0\P06.OperationsBetweenNumbers.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P06.OperationsBetweenNumbers\obj\Debug\net5.0\P06.OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P06.OperationsBetweenNumbers\obj\Debug\net5.0\P06.OperationsBetweenNumbers.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P06.OperationsBetweenNumbers\obj\Debug\net5.0\ref\P06.OperationsBetweenNumbers.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P06.OperationsBetweenNumbers\obj\Debug\net5.0\P06.OperationsBetweenNumbers.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P06.OperationsBetweenNumbers\obj\Debug\net5.0\P06.OperationsBetweenNumbers.genruntimeconfig.cache

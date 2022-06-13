@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P08.OnTimeForTheExam\bin\Debug\net5.0\P08.OnTimeForTheExam.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P08.OnTimeForTheExam\bin\Debug\net5.0\P08.OnTimeForTheExam.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P08.OnTimeForTheExam\bin\Debug\net5.0\P08.OnTimeForTheExam.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P08.OnTimeForTheExam\bin\Debug\net5.0\P08.OnTimeForTheExam.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P08.OnTimeForTheExam\bin\Debug\net5.0\P08.OnTimeForTheExam.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P08.OnTimeForTheExam\bin\Debug\net5.0\ref\P08.OnTimeForTheExam.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P08.OnTimeForTheExam\bin\Debug\net5.0\P08.OnTimeForTheExam.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P08.OnTimeForTheExam\obj\Debug\net5.0\P08.OnTimeForTheExam.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P08.OnTimeForTheExam\obj\Debug\net5.0\P08.OnTimeForTheExam.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P08.OnTimeForTheExam\obj\Debug\net5.0\P08.OnTimeForTheExam.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P08.OnTimeForTheExam\obj\Debug\net5.0\P08.OnTimeForTheExam.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P08.OnTimeForTheExam\obj\Debug\net5.0\P08.OnTimeForTheExam.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P08.OnTimeForTheExam\obj\Debug\net5.0\ref\P08.OnTimeForTheExam.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P08.OnTimeForTheExam\obj\Debug\net5.0\P08.OnTimeForTheExam.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P08.OnTimeForTheExam\obj\Debug\net5.0\P08.OnTimeForTheExam.genruntimeconfig.cache

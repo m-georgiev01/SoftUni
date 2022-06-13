@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P04.FishingBoat\bin\Debug\net5.0\P04.FishingBoat.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P04.FishingBoat\bin\Debug\net5.0\P04.FishingBoat.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P04.FishingBoat\bin\Debug\net5.0\P04.FishingBoat.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P04.FishingBoat\bin\Debug\net5.0\P04.FishingBoat.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P04.FishingBoat\bin\Debug\net5.0\P04.FishingBoat.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P04.FishingBoat\bin\Debug\net5.0\ref\P04.FishingBoat.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P04.FishingBoat\bin\Debug\net5.0\P04.FishingBoat.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P04.FishingBoat\obj\Debug\net5.0\P04.FishingBoat.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P04.FishingBoat\obj\Debug\net5.0\P04.FishingBoat.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P04.FishingBoat\obj\Debug\net5.0\P04.FishingBoat.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P04.FishingBoat\obj\Debug\net5.0\P04.FishingBoat.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P04.FishingBoat\obj\Debug\net5.0\P04.FishingBoat.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P04.FishingBoat\obj\Debug\net5.0\ref\P04.FishingBoat.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P04.FishingBoat\obj\Debug\net5.0\P04.FishingBoat.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P04.FishingBoat\obj\Debug\net5.0\P04.FishingBoat.genruntimeconfig.cache

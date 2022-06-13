@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\SoftUni\\C#\\ProgrammingBasics\\Ex1 - Intro\\P1.DollarToLeva\\P01.DollarToLeva.csproj": {}
+    "D:\\GitHub\\SoftUni\\C#\\ProgrammingBasics\\Ex1 - Intro\\P01.DollarToLeva\\P01.DollarToLeva.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\SoftUni\\C#\\ProgrammingBasics\\Ex1 - Intro\\P1.DollarToLeva\\P01.DollarToLeva.csproj": {
+    "D:\\GitHub\\SoftUni\\C#\\ProgrammingBasics\\Ex1 - Intro\\P01.DollarToLeva\\P01.DollarToLeva.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\SoftUni\\C#\\ProgrammingBasics\\Ex1 - Intro\\P1.DollarToLeva\\P01.DollarToLeva.csproj",
+        "projectUniqueName": "D:\\GitHub\\SoftUni\\C#\\ProgrammingBasics\\Ex1 - Intro\\P01.DollarToLeva\\P01.DollarToLeva.csproj",
         "projectName": "P01.DollarToLeva",
-        "projectPath": "D:\\GitHub\\SoftUni\\C#\\ProgrammingBasics\\Ex1 - Intro\\P1.DollarToLeva\\P01.DollarToLeva.csproj",
+        "projectPath": "D:\\GitHub\\SoftUni\\C#\\ProgrammingBasics\\Ex1 - Intro\\P01.DollarToLeva\\P01.DollarToLeva.csproj",
         "packagesPath": "C:\\Users\\craft\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\SoftUni\\C#\\ProgrammingBasics\\Ex1 - Intro\\P1.DollarToLeva\\obj\\",
+        "outputPath": "D:\\GitHub\\SoftUni\\C#\\ProgrammingBasics\\Ex1 - Intro\\P01.DollarToLeva\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\craft\\AppData\\Roaming\\NuGet\\NuGet.Config",

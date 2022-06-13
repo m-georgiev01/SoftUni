@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P03.NewHouse\bin\Debug\net5.0\P03.NewHouse.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P03.NewHouse\bin\Debug\net5.0\P03.NewHouse.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P03.NewHouse\bin\Debug\net5.0\P03.NewHouse.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P03.NewHouse\bin\Debug\net5.0\P03.NewHouse.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P03.NewHouse\bin\Debug\net5.0\P03.NewHouse.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P03.NewHouse\bin\Debug\net5.0\ref\P03.NewHouse.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P03.NewHouse\bin\Debug\net5.0\P03.NewHouse.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P03.NewHouse\obj\Debug\net5.0\P03.NewHouse.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P03.NewHouse\obj\Debug\net5.0\P03.NewHouse.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P03.NewHouse\obj\Debug\net5.0\P03.NewHouse.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P03.NewHouse\obj\Debug\net5.0\P03.NewHouse.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P03.NewHouse\obj\Debug\net5.0\P03.NewHouse.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P03.NewHouse\obj\Debug\net5.0\ref\P03.NewHouse.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P03.NewHouse\obj\Debug\net5.0\P03.NewHouse.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Ex3 - Conditional Statements Advanced\P03.NewHouse\obj\Debug\net5.0\P03.NewHouse.genruntimeconfig.cache

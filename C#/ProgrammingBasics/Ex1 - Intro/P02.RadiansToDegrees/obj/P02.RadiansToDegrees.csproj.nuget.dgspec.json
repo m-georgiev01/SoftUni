@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\SoftUni\\C#\\ProgrammingBasics\\Ex1 - Intro\\P2.RadiansToDegrees\\P02.RadiansToDegrees.csproj": {}
+    "D:\\GitHub\\SoftUni\\C#\\ProgrammingBasics\\Ex1 - Intro\\P02.RadiansToDegrees\\P02.RadiansToDegrees.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\SoftUni\\C#\\ProgrammingBasics\\Ex1 - Intro\\P2.RadiansToDegrees\\P02.RadiansToDegrees.csproj": {
+    "D:\\GitHub\\SoftUni\\C#\\ProgrammingBasics\\Ex1 - Intro\\P02.RadiansToDegrees\\P02.RadiansToDegrees.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\SoftUni\\C#\\ProgrammingBasics\\Ex1 - Intro\\P2.RadiansToDegrees\\P02.RadiansToDegrees.csproj",
+        "projectUniqueName": "D:\\GitHub\\SoftUni\\C#\\ProgrammingBasics\\Ex1 - Intro\\P02.RadiansToDegrees\\P02.RadiansToDegrees.csproj",
         "projectName": "P02.RadiansToDegrees",
-        "projectPath": "D:\\GitHub\\SoftUni\\C#\\ProgrammingBasics\\Ex1 - Intro\\P2.RadiansToDegrees\\P02.RadiansToDegrees.csproj",
+        "projectPath": "D:\\GitHub\\SoftUni\\C#\\ProgrammingBasics\\Ex1 - Intro\\P02.RadiansToDegrees\\P02.RadiansToDegrees.csproj",
         "packagesPath": "C:\\Users\\craft\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\SoftUni\\C#\\ProgrammingBasics\\Ex1 - Intro\\P2.RadiansToDegrees\\obj\\",
+        "outputPath": "D:\\GitHub\\SoftUni\\C#\\ProgrammingBasics\\Ex1 - Intro\\P02.RadiansToDegrees\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\craft\\AppData\\Roaming\\NuGet\\NuGet.Config",
