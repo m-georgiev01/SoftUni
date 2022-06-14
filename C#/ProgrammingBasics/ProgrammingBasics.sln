@@ -121,7 +121,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07.HotelRoom", "Ex3 - Cond
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P08.OnTimeForTheExam", "Ex3 - Conditional Statements Advanced\P08.OnTimeForTheExam\P08.OnTimeForTheExam.csproj", "{5641C7B0-20F4-4419-B4CA-4CC867480BF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09.SkiTrip", "P09.SkiTrip\P09.SkiTrip.csproj", "{8BA1DF96-5A2B-46BA-954B-25B3909B1D82}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09.SkiTrip", "Ex3 - Conditional Statements Advanced\P09.SkiTrip\P09.SkiTrip.csproj", "{8BA1DF96-5A2B-46BA-954B-25B3909B1D82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
