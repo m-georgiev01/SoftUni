@@ -199,17 +199,31 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P07.Moving", "Ex5 - While l
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab6 - Nested loops", "Lab6 - Nested loops", "{B8D4DFA0-4170-4C02-8D4E-B3DE8B2664FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.Clock", "Lab6 - Nested loops\P01.Clock\P01.Clock.csproj", "{01E81C4D-7574-456D-9390-987F59461B8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01.Clock", "Lab6 - Nested loops\P01.Clock\P01.Clock.csproj", "{01E81C4D-7574-456D-9390-987F59461B8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.MultiplicationTable", "Lab6 - Nested loops\P02.MultiplicationTable\P02.MultiplicationTable.csproj", "{1C56E576-3B0E-4E4F-BF40-3D72E6CA63F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02.MultiplicationTable", "Lab6 - Nested loops\P02.MultiplicationTable\P02.MultiplicationTable.csproj", "{1C56E576-3B0E-4E4F-BF40-3D72E6CA63F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03.Combinations", "Lab6 - Nested loops\P03.Combinations\P03.Combinations.csproj", "{CF72375F-799C-4D21-9A43-C399A2838DC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03.Combinations", "Lab6 - Nested loops\P03.Combinations\P03.Combinations.csproj", "{CF72375F-799C-4D21-9A43-C399A2838DC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04.SumOfTwoNumbers", "Lab6 - Nested loops\P04.SumOfTwoNumbers\P04.SumOfTwoNumbers.csproj", "{97A3192D-DB02-49BE-86CD-F6E3C62178EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P04.SumOfTwoNumbers", "Lab6 - Nested loops\P04.SumOfTwoNumbers\P04.SumOfTwoNumbers.csproj", "{97A3192D-DB02-49BE-86CD-F6E3C62178EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05.Travelling", "Lab6 - Nested loops\P05.Travelling\P05.Travelling.csproj", "{640CB949-3486-46D5-9778-4CAD8AA83418}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P05.Travelling", "Lab6 - Nested loops\P05.Travelling\P05.Travelling.csproj", "{640CB949-3486-46D5-9778-4CAD8AA83418}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06.Building", "Lab6 - Nested loops\P06.Building\P06.Building.csproj", "{8183480E-2E7E-47A4-88DB-B0669CE66B2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P06.Building", "Lab6 - Nested loops\P06.Building\P06.Building.csproj", "{8183480E-2E7E-47A4-88DB-B0669CE66B2F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ex6 - Nested loops", "Ex6 - Nested loops", "{4C07F6DC-E8E8-44C3-941F-1D7B764A7F6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.NumberPyramid", "Ex6 - Nested loops\P01.NumberPyramid\P01.NumberPyramid.csproj", "{FE89BCF0-8BF1-4873-B1C5-54EC1599A1E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.EqualSumsEvenOddPosition", "Ex6 - Nested loops\P02.EqualSumsEvenOddPosition\P02.EqualSumsEvenOddPosition.csproj", "{50FA9512-43E3-44CC-89B4-7F1303DA2DB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03.SumPrimeNonPrime", "Ex6 - Nested loops\P03.SumPrimeNonPrime\P03.SumPrimeNonPrime.csproj", "{F553B235-ADAF-45B7-B0B2-5CA5FF8AD170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04.TrainTheTrainers", "Ex6 - Nested loops\P04.TrainTheTrainers\P04.TrainTheTrainers.csproj", "{65F75D03-5D2D-42C5-B51A-D18AE4AF28F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05.SpecialNumbers", "Ex6 - Nested loops\P05.SpecialNumbers\P05.SpecialNumbers.csproj", "{9F7C15D4-2E71-4D5C-9343-0C4D5554ACCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06.CinemaTickets", "Ex6 - Nested loops\P06.CinemaTickets\P06.CinemaTickets.csproj", "{7458CB37-31BF-4109-8243-A8066D12B7AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -589,6 +603,30 @@ Global
 		{8183480E-2E7E-47A4-88DB-B0669CE66B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8183480E-2E7E-47A4-88DB-B0669CE66B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8183480E-2E7E-47A4-88DB-B0669CE66B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE89BCF0-8BF1-4873-B1C5-54EC1599A1E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE89BCF0-8BF1-4873-B1C5-54EC1599A1E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE89BCF0-8BF1-4873-B1C5-54EC1599A1E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE89BCF0-8BF1-4873-B1C5-54EC1599A1E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50FA9512-43E3-44CC-89B4-7F1303DA2DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50FA9512-43E3-44CC-89B4-7F1303DA2DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50FA9512-43E3-44CC-89B4-7F1303DA2DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50FA9512-43E3-44CC-89B4-7F1303DA2DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F553B235-ADAF-45B7-B0B2-5CA5FF8AD170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F553B235-ADAF-45B7-B0B2-5CA5FF8AD170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F553B235-ADAF-45B7-B0B2-5CA5FF8AD170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F553B235-ADAF-45B7-B0B2-5CA5FF8AD170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65F75D03-5D2D-42C5-B51A-D18AE4AF28F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F75D03-5D2D-42C5-B51A-D18AE4AF28F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F75D03-5D2D-42C5-B51A-D18AE4AF28F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F75D03-5D2D-42C5-B51A-D18AE4AF28F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F7C15D4-2E71-4D5C-9343-0C4D5554ACCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F7C15D4-2E71-4D5C-9343-0C4D5554ACCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F7C15D4-2E71-4D5C-9343-0C4D5554ACCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F7C15D4-2E71-4D5C-9343-0C4D5554ACCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7458CB37-31BF-4109-8243-A8066D12B7AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7458CB37-31BF-4109-8243-A8066D12B7AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7458CB37-31BF-4109-8243-A8066D12B7AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7458CB37-31BF-4109-8243-A8066D12B7AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -687,6 +725,12 @@ Global
 		{97A3192D-DB02-49BE-86CD-F6E3C62178EB} = {B8D4DFA0-4170-4C02-8D4E-B3DE8B2664FC}
 		{640CB949-3486-46D5-9778-4CAD8AA83418} = {B8D4DFA0-4170-4C02-8D4E-B3DE8B2664FC}
 		{8183480E-2E7E-47A4-88DB-B0669CE66B2F} = {B8D4DFA0-4170-4C02-8D4E-B3DE8B2664FC}
+		{FE89BCF0-8BF1-4873-B1C5-54EC1599A1E4} = {4C07F6DC-E8E8-44C3-941F-1D7B764A7F6D}
+		{50FA9512-43E3-44CC-89B4-7F1303DA2DB6} = {4C07F6DC-E8E8-44C3-941F-1D7B764A7F6D}
+		{F553B235-ADAF-45B7-B0B2-5CA5FF8AD170} = {4C07F6DC-E8E8-44C3-941F-1D7B764A7F6D}
+		{65F75D03-5D2D-42C5-B51A-D18AE4AF28F1} = {4C07F6DC-E8E8-44C3-941F-1D7B764A7F6D}
+		{9F7C15D4-2E71-4D5C-9343-0C4D5554ACCB} = {4C07F6DC-E8E8-44C3-941F-1D7B764A7F6D}
+		{7458CB37-31BF-4109-8243-A8066D12B7AE} = {4C07F6DC-E8E8-44C3-941F-1D7B764A7F6D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7463C435-5F0E-4D00-BF51-C83EAFBA4088}
