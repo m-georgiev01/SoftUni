@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P03.OscarsWeekInCinema\bin\Debug\net5.0\P03.OscarsWeekInCinema.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P03.OscarsWeekInCinema\bin\Debug\net5.0\P03.OscarsWeekInCinema.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P03.OscarsWeekInCinema\bin\Debug\net5.0\P03.OscarsWeekInCinema.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P03.OscarsWeekInCinema\bin\Debug\net5.0\P03.OscarsWeekInCinema.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P03.OscarsWeekInCinema\bin\Debug\net5.0\P03.OscarsWeekInCinema.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P03.OscarsWeekInCinema\bin\Debug\net5.0\ref\P03.OscarsWeekInCinema.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P03.OscarsWeekInCinema\bin\Debug\net5.0\P03.OscarsWeekInCinema.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P03.OscarsWeekInCinema\obj\Debug\net5.0\P03.OscarsWeekInCinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P03.OscarsWeekInCinema\obj\Debug\net5.0\P03.OscarsWeekInCinema.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P03.OscarsWeekInCinema\obj\Debug\net5.0\P03.OscarsWeekInCinema.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P03.OscarsWeekInCinema\obj\Debug\net5.0\P03.OscarsWeekInCinema.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P03.OscarsWeekInCinema\obj\Debug\net5.0\P03.OscarsWeekInCinema.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P03.OscarsWeekInCinema\obj\Debug\net5.0\ref\P03.OscarsWeekInCinema.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P03.OscarsWeekInCinema\obj\Debug\net5.0\P03.OscarsWeekInCinema.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P03.OscarsWeekInCinema\obj\Debug\net5.0\P03.OscarsWeekInCinema.genruntimeconfig.cache

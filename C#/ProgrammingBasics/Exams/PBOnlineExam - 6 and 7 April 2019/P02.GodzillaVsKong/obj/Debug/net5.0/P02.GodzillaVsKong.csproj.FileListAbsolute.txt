@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P02.GodzillaVsKong\bin\Debug\net5.0\P02.GodzillaVsKong.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P02.GodzillaVsKong\bin\Debug\net5.0\P02.GodzillaVsKong.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P02.GodzillaVsKong\bin\Debug\net5.0\P02.GodzillaVsKong.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P02.GodzillaVsKong\bin\Debug\net5.0\P02.GodzillaVsKong.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P02.GodzillaVsKong\bin\Debug\net5.0\P02.GodzillaVsKong.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P02.GodzillaVsKong\bin\Debug\net5.0\ref\P02.GodzillaVsKong.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P02.GodzillaVsKong\bin\Debug\net5.0\P02.GodzillaVsKong.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P02.GodzillaVsKong\obj\Debug\net5.0\P02.GodzillaVsKong.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P02.GodzillaVsKong\obj\Debug\net5.0\P02.GodzillaVsKong.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P02.GodzillaVsKong\obj\Debug\net5.0\P02.GodzillaVsKong.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P02.GodzillaVsKong\obj\Debug\net5.0\P02.GodzillaVsKong.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P02.GodzillaVsKong\obj\Debug\net5.0\P02.GodzillaVsKong.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P02.GodzillaVsKong\obj\Debug\net5.0\ref\P02.GodzillaVsKong.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P02.GodzillaVsKong\obj\Debug\net5.0\P02.GodzillaVsKong.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P02.GodzillaVsKong\obj\Debug\net5.0\P02.GodzillaVsKong.genruntimeconfig.cache

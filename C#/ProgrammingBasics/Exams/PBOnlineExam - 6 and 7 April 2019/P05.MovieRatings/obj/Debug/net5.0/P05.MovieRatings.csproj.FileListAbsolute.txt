@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P05.MovieRatings\bin\Debug\net5.0\P05.MovieRatings.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P05.MovieRatings\bin\Debug\net5.0\P05.MovieRatings.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P05.MovieRatings\bin\Debug\net5.0\P05.MovieRatings.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P05.MovieRatings\bin\Debug\net5.0\P05.MovieRatings.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P05.MovieRatings\bin\Debug\net5.0\P05.MovieRatings.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P05.MovieRatings\bin\Debug\net5.0\ref\P05.MovieRatings.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P05.MovieRatings\bin\Debug\net5.0\P05.MovieRatings.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P05.MovieRatings\obj\Debug\net5.0\P05.MovieRatings.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P05.MovieRatings\obj\Debug\net5.0\P05.MovieRatings.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P05.MovieRatings\obj\Debug\net5.0\P05.MovieRatings.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P05.MovieRatings\obj\Debug\net5.0\P05.MovieRatings.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P05.MovieRatings\obj\Debug\net5.0\P05.MovieRatings.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P05.MovieRatings\obj\Debug\net5.0\ref\P05.MovieRatings.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P05.MovieRatings\obj\Debug\net5.0\P05.MovieRatings.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P05.MovieRatings\obj\Debug\net5.0\P05.MovieRatings.genruntimeconfig.cache

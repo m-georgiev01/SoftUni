@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P01.OscarsCeremony\bin\Debug\net5.0\P01.OscarsCeremony.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P01.OscarsCeremony\bin\Debug\net5.0\P01.OscarsCeremony.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P01.OscarsCeremony\bin\Debug\net5.0\P01.OscarsCeremony.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P01.OscarsCeremony\bin\Debug\net5.0\P01.OscarsCeremony.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P01.OscarsCeremony\bin\Debug\net5.0\P01.OscarsCeremony.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P01.OscarsCeremony\bin\Debug\net5.0\ref\P01.OscarsCeremony.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P01.OscarsCeremony\bin\Debug\net5.0\P01.OscarsCeremony.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P01.OscarsCeremony\obj\Debug\net5.0\P01.OscarsCeremony.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P01.OscarsCeremony\obj\Debug\net5.0\P01.OscarsCeremony.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P01.OscarsCeremony\obj\Debug\net5.0\P01.OscarsCeremony.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P01.OscarsCeremony\obj\Debug\net5.0\P01.OscarsCeremony.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P01.OscarsCeremony\obj\Debug\net5.0\P01.OscarsCeremony.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P01.OscarsCeremony\obj\Debug\net5.0\ref\P01.OscarsCeremony.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P01.OscarsCeremony\obj\Debug\net5.0\P01.OscarsCeremony.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P01.OscarsCeremony\obj\Debug\net5.0\P01.OscarsCeremony.genruntimeconfig.cache

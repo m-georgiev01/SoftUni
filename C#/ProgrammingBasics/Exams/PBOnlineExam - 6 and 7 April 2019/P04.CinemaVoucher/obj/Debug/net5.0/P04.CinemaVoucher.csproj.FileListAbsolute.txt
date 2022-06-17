@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P04.CinemaVoucher\bin\Debug\net5.0\P04.CinemaVoucher.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P04.CinemaVoucher\bin\Debug\net5.0\P04.CinemaVoucher.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P04.CinemaVoucher\bin\Debug\net5.0\P04.CinemaVoucher.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P04.CinemaVoucher\bin\Debug\net5.0\P04.CinemaVoucher.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P04.CinemaVoucher\bin\Debug\net5.0\P04.CinemaVoucher.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P04.CinemaVoucher\bin\Debug\net5.0\ref\P04.CinemaVoucher.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P04.CinemaVoucher\bin\Debug\net5.0\P04.CinemaVoucher.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P04.CinemaVoucher\obj\Debug\net5.0\P04.CinemaVoucher.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P04.CinemaVoucher\obj\Debug\net5.0\P04.CinemaVoucher.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P04.CinemaVoucher\obj\Debug\net5.0\P04.CinemaVoucher.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P04.CinemaVoucher\obj\Debug\net5.0\P04.CinemaVoucher.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P04.CinemaVoucher\obj\Debug\net5.0\P04.CinemaVoucher.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P04.CinemaVoucher\obj\Debug\net5.0\ref\P04.CinemaVoucher.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P04.CinemaVoucher\obj\Debug\net5.0\P04.CinemaVoucher.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 6 and 7 April 2019\P04.CinemaVoucher\obj\Debug\net5.0\P04.CinemaVoucher.genruntimeconfig.cache
