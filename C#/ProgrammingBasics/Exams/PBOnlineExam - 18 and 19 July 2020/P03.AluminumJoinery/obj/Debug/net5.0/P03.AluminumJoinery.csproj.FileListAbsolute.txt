@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P03.AluminumJoinery\obj\Debug\net5.0\P03.AluminumJoinery.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P03.AluminumJoinery\obj\Debug\net5.0\P03.AluminumJoinery.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P03.AluminumJoinery\obj\Debug\net5.0\P03.AluminumJoinery.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P03.AluminumJoinery\obj\Debug\net5.0\P03.AluminumJoinery.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P03.AluminumJoinery\obj\Debug\net5.0\P03.AluminumJoinery.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P03.AluminumJoinery\bin\Debug\net5.0\P03.AluminumJoinery.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P03.AluminumJoinery\bin\Debug\net5.0\P03.AluminumJoinery.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P03.AluminumJoinery\bin\Debug\net5.0\P03.AluminumJoinery.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P03.AluminumJoinery\bin\Debug\net5.0\P03.AluminumJoinery.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P03.AluminumJoinery\bin\Debug\net5.0\P03.AluminumJoinery.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P03.AluminumJoinery\bin\Debug\net5.0\ref\P03.AluminumJoinery.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P03.AluminumJoinery\bin\Debug\net5.0\P03.AluminumJoinery.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P03.AluminumJoinery\obj\Debug\net5.0\P03.AluminumJoinery.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P03.AluminumJoinery\obj\Debug\net5.0\ref\P03.AluminumJoinery.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P03.AluminumJoinery\obj\Debug\net5.0\P03.AluminumJoinery.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P03.AluminumJoinery\obj\Debug\net5.0\P03.AluminumJoinery.genruntimeconfig.cache

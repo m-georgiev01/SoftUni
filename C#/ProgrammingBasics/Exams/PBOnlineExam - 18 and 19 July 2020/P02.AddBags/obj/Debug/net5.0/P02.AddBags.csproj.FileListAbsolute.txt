@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P02.AddBags\bin\Debug\net5.0\P02.AddBags.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P02.AddBags\bin\Debug\net5.0\P02.AddBags.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P02.AddBags\bin\Debug\net5.0\P02.AddBags.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P02.AddBags\bin\Debug\net5.0\P02.AddBags.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P02.AddBags\bin\Debug\net5.0\P02.AddBags.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P02.AddBags\bin\Debug\net5.0\ref\P02.AddBags.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P02.AddBags\bin\Debug\net5.0\P02.AddBags.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P02.AddBags\obj\Debug\net5.0\P02.AddBags.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P02.AddBags\obj\Debug\net5.0\P02.AddBags.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P02.AddBags\obj\Debug\net5.0\P02.AddBags.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P02.AddBags\obj\Debug\net5.0\P02.AddBags.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P02.AddBags\obj\Debug\net5.0\P02.AddBags.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P02.AddBags\obj\Debug\net5.0\ref\P02.AddBags.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P02.AddBags\obj\Debug\net5.0\P02.AddBags.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P02.AddBags\obj\Debug\net5.0\P02.AddBags.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P06.BarcodeGenerator\bin\Debug\net5.0\P06.BarcodeGenerator.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P06.BarcodeGenerator\bin\Debug\net5.0\P06.BarcodeGenerator.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P06.BarcodeGenerator\bin\Debug\net5.0\P06.BarcodeGenerator.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P06.BarcodeGenerator\bin\Debug\net5.0\P06.BarcodeGenerator.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P06.BarcodeGenerator\bin\Debug\net5.0\P06.BarcodeGenerator.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P06.BarcodeGenerator\bin\Debug\net5.0\ref\P06.BarcodeGenerator.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P06.BarcodeGenerator\bin\Debug\net5.0\P06.BarcodeGenerator.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P06.BarcodeGenerator\obj\Debug\net5.0\P06.BarcodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P06.BarcodeGenerator\obj\Debug\net5.0\P06.BarcodeGenerator.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P06.BarcodeGenerator\obj\Debug\net5.0\P06.BarcodeGenerator.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P06.BarcodeGenerator\obj\Debug\net5.0\P06.BarcodeGenerator.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P06.BarcodeGenerator\obj\Debug\net5.0\P06.BarcodeGenerator.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P06.BarcodeGenerator\obj\Debug\net5.0\ref\P06.BarcodeGenerator.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P06.BarcodeGenerator\obj\Debug\net5.0\P06.BarcodeGenerator.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P06.BarcodeGenerator\obj\Debug\net5.0\P06.BarcodeGenerator.genruntimeconfig.cache

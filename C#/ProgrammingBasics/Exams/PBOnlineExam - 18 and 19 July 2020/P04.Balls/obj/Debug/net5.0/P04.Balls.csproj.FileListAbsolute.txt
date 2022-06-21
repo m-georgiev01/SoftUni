@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P04.Balls\bin\Debug\net5.0\P04.Balls.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P04.Balls\bin\Debug\net5.0\P04.Balls.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P04.Balls\bin\Debug\net5.0\P04.Balls.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P04.Balls\bin\Debug\net5.0\P04.Balls.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P04.Balls\bin\Debug\net5.0\P04.Balls.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P04.Balls\bin\Debug\net5.0\ref\P04.Balls.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P04.Balls\bin\Debug\net5.0\P04.Balls.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P04.Balls\obj\Debug\net5.0\P04.Balls.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P04.Balls\obj\Debug\net5.0\P04.Balls.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P04.Balls\obj\Debug\net5.0\P04.Balls.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P04.Balls\obj\Debug\net5.0\P04.Balls.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P04.Balls\obj\Debug\net5.0\P04.Balls.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P04.Balls\obj\Debug\net5.0\ref\P04.Balls.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P04.Balls\obj\Debug\net5.0\P04.Balls.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P04.Balls\obj\Debug\net5.0\P04.Balls.genruntimeconfig.cache

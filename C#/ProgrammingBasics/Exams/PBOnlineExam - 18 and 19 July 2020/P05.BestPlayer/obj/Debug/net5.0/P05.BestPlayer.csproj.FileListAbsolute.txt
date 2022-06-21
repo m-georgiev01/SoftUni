@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P05.BestPlayer\bin\Debug\net5.0\P05.BestPlayer.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P05.BestPlayer\bin\Debug\net5.0\P05.BestPlayer.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P05.BestPlayer\bin\Debug\net5.0\P05.BestPlayer.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P05.BestPlayer\bin\Debug\net5.0\P05.BestPlayer.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P05.BestPlayer\bin\Debug\net5.0\P05.BestPlayer.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P05.BestPlayer\bin\Debug\net5.0\ref\P05.BestPlayer.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P05.BestPlayer\bin\Debug\net5.0\P05.BestPlayer.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P05.BestPlayer\obj\Debug\net5.0\P05.BestPlayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P05.BestPlayer\obj\Debug\net5.0\P05.BestPlayer.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P05.BestPlayer\obj\Debug\net5.0\P05.BestPlayer.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P05.BestPlayer\obj\Debug\net5.0\P05.BestPlayer.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P05.BestPlayer\obj\Debug\net5.0\P05.BestPlayer.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P05.BestPlayer\obj\Debug\net5.0\ref\P05.BestPlayer.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P05.BestPlayer\obj\Debug\net5.0\P05.BestPlayer.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P05.BestPlayer\obj\Debug\net5.0\P05.BestPlayer.genruntimeconfig.cache

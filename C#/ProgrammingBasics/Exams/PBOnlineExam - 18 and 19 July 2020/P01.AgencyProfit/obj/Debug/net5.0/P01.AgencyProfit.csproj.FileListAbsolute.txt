@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P01.AgencyProfit\bin\Debug\net5.0\P01.AgencyProfit.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P01.AgencyProfit\bin\Debug\net5.0\P01.AgencyProfit.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P01.AgencyProfit\bin\Debug\net5.0\P01.AgencyProfit.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P01.AgencyProfit\bin\Debug\net5.0\P01.AgencyProfit.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P01.AgencyProfit\bin\Debug\net5.0\P01.AgencyProfit.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P01.AgencyProfit\bin\Debug\net5.0\ref\P01.AgencyProfit.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P01.AgencyProfit\bin\Debug\net5.0\P01.AgencyProfit.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P01.AgencyProfit\obj\Debug\net5.0\P01.AgencyProfit.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P01.AgencyProfit\obj\Debug\net5.0\P01.AgencyProfit.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P01.AgencyProfit\obj\Debug\net5.0\P01.AgencyProfit.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P01.AgencyProfit\obj\Debug\net5.0\P01.AgencyProfit.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P01.AgencyProfit\obj\Debug\net5.0\P01.AgencyProfit.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P01.AgencyProfit\obj\Debug\net5.0\P01.AgencyProfit.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P01.AgencyProfit\obj\Debug\net5.0\ref\P01.AgencyProfit.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P01.AgencyProfit\obj\Debug\net5.0\P01.AgencyProfit.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\Exams\PBOnlineExam - 18 and 19 July 2020\P01.AgencyProfit\obj\Debug\net5.0\P01.AgencyProfit.genruntimeconfig.cache
