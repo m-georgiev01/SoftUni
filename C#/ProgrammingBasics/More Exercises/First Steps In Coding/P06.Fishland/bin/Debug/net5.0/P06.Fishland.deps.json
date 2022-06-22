@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P06.Fishland/1.0.0": {
+        "runtime": {
+          "P06.Fishland.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P06.Fishland/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

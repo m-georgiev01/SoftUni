@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P02.TriangleArea\bin\Debug\net5.0\P02.TriangleArea.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P02.TriangleArea\bin\Debug\net5.0\P02.TriangleArea.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P02.TriangleArea\bin\Debug\net5.0\P02.TriangleArea.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P02.TriangleArea\bin\Debug\net5.0\P02.TriangleArea.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P02.TriangleArea\bin\Debug\net5.0\P02.TriangleArea.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P02.TriangleArea\bin\Debug\net5.0\ref\P02.TriangleArea.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P02.TriangleArea\bin\Debug\net5.0\P02.TriangleArea.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P02.TriangleArea\obj\Debug\net5.0\P02.TriangleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P02.TriangleArea\obj\Debug\net5.0\P02.TriangleArea.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P02.TriangleArea\obj\Debug\net5.0\P02.TriangleArea.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P02.TriangleArea\obj\Debug\net5.0\P02.TriangleArea.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P02.TriangleArea\obj\Debug\net5.0\P02.TriangleArea.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P02.TriangleArea\obj\Debug\net5.0\ref\P02.TriangleArea.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P02.TriangleArea\obj\Debug\net5.0\P02.TriangleArea.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P02.TriangleArea\obj\Debug\net5.0\P02.TriangleArea.genruntimeconfig.cache

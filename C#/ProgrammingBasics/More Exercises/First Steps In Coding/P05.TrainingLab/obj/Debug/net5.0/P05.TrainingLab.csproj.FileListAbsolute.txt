@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P05.TrainingLab\bin\Debug\net5.0\P05.TrainingLab.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P05.TrainingLab\bin\Debug\net5.0\P05.TrainingLab.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P05.TrainingLab\bin\Debug\net5.0\P05.TrainingLab.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P05.TrainingLab\bin\Debug\net5.0\P05.TrainingLab.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P05.TrainingLab\bin\Debug\net5.0\P05.TrainingLab.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P05.TrainingLab\bin\Debug\net5.0\ref\P05.TrainingLab.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P05.TrainingLab\bin\Debug\net5.0\P05.TrainingLab.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P05.TrainingLab\obj\Debug\net5.0\P05.TrainingLab.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P05.TrainingLab\obj\Debug\net5.0\P05.TrainingLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P05.TrainingLab\obj\Debug\net5.0\P05.TrainingLab.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P05.TrainingLab\obj\Debug\net5.0\P05.TrainingLab.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P05.TrainingLab\obj\Debug\net5.0\P05.TrainingLab.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P05.TrainingLab\obj\Debug\net5.0\P05.TrainingLab.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P05.TrainingLab\obj\Debug\net5.0\ref\P05.TrainingLab.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P05.TrainingLab\obj\Debug\net5.0\P05.TrainingLab.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P05.TrainingLab\obj\Debug\net5.0\P05.TrainingLab.genruntimeconfig.cache

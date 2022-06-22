@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P07.HousePainting\bin\Debug\net5.0\P07.HousePainting.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P07.HousePainting\bin\Debug\net5.0\P07.HousePainting.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P07.HousePainting\bin\Debug\net5.0\P07.HousePainting.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P07.HousePainting\bin\Debug\net5.0\P07.HousePainting.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P07.HousePainting\bin\Debug\net5.0\P07.HousePainting.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P07.HousePainting\bin\Debug\net5.0\ref\P07.HousePainting.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P07.HousePainting\bin\Debug\net5.0\P07.HousePainting.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P07.HousePainting\obj\Debug\net5.0\P07.HousePainting.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P07.HousePainting\obj\Debug\net5.0\P07.HousePainting.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P07.HousePainting\obj\Debug\net5.0\P07.HousePainting.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P07.HousePainting\obj\Debug\net5.0\P07.HousePainting.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P07.HousePainting\obj\Debug\net5.0\P07.HousePainting.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P07.HousePainting\obj\Debug\net5.0\P07.HousePainting.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P07.HousePainting\obj\Debug\net5.0\ref\P07.HousePainting.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P07.HousePainting\obj\Debug\net5.0\P07.HousePainting.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P07.HousePainting\obj\Debug\net5.0\P07.HousePainting.genruntimeconfig.cache

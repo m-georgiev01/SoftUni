@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P06.Fishland\bin\Debug\net5.0\P06.Fishland.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P06.Fishland\bin\Debug\net5.0\P06.Fishland.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P06.Fishland\bin\Debug\net5.0\P06.Fishland.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P06.Fishland\bin\Debug\net5.0\P06.Fishland.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P06.Fishland\bin\Debug\net5.0\P06.Fishland.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P06.Fishland\bin\Debug\net5.0\ref\P06.Fishland.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P06.Fishland\bin\Debug\net5.0\P06.Fishland.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P06.Fishland\obj\Debug\net5.0\P06.Fishland.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P06.Fishland\obj\Debug\net5.0\P06.Fishland.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P06.Fishland\obj\Debug\net5.0\P06.Fishland.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P06.Fishland\obj\Debug\net5.0\P06.Fishland.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P06.Fishland\obj\Debug\net5.0\P06.Fishland.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P06.Fishland\obj\Debug\net5.0\ref\P06.Fishland.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P06.Fishland\obj\Debug\net5.0\P06.Fishland.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P06.Fishland\obj\Debug\net5.0\P06.Fishland.genruntimeconfig.cache

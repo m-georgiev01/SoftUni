@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P01.TrapeziodArea\bin\Debug\net5.0\P01.TrapeziodArea.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P01.TrapeziodArea\bin\Debug\net5.0\P01.TrapeziodArea.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P01.TrapeziodArea\bin\Debug\net5.0\P01.TrapeziodArea.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P01.TrapeziodArea\bin\Debug\net5.0\P01.TrapeziodArea.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P01.TrapeziodArea\bin\Debug\net5.0\P01.TrapeziodArea.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P01.TrapeziodArea\bin\Debug\net5.0\ref\P01.TrapeziodArea.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P01.TrapeziodArea\bin\Debug\net5.0\P01.TrapeziodArea.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P01.TrapeziodArea\obj\Debug\net5.0\P01.TrapeziodArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P01.TrapeziodArea\obj\Debug\net5.0\P01.TrapeziodArea.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P01.TrapeziodArea\obj\Debug\net5.0\P01.TrapeziodArea.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P01.TrapeziodArea\obj\Debug\net5.0\P01.TrapeziodArea.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P01.TrapeziodArea\obj\Debug\net5.0\P01.TrapeziodArea.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P01.TrapeziodArea\obj\Debug\net5.0\ref\P01.TrapeziodArea.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P01.TrapeziodArea\obj\Debug\net5.0\P01.TrapeziodArea.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P01.TrapeziodArea\obj\Debug\net5.0\P01.TrapeziodArea.genruntimeconfig.cache

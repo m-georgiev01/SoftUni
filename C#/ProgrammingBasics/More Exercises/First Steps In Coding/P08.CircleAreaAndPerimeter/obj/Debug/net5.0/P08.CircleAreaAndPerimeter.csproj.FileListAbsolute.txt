@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P08.CircleAreaAndPerimeter\bin\Debug\net5.0\P08.CircleAreaAndPerimeter.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P08.CircleAreaAndPerimeter\bin\Debug\net5.0\P08.CircleAreaAndPerimeter.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P08.CircleAreaAndPerimeter\bin\Debug\net5.0\P08.CircleAreaAndPerimeter.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P08.CircleAreaAndPerimeter\bin\Debug\net5.0\P08.CircleAreaAndPerimeter.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P08.CircleAreaAndPerimeter\bin\Debug\net5.0\P08.CircleAreaAndPerimeter.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P08.CircleAreaAndPerimeter\bin\Debug\net5.0\ref\P08.CircleAreaAndPerimeter.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P08.CircleAreaAndPerimeter\bin\Debug\net5.0\P08.CircleAreaAndPerimeter.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P08.CircleAreaAndPerimeter\obj\Debug\net5.0\P08.CircleAreaAndPerimeter.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P08.CircleAreaAndPerimeter\obj\Debug\net5.0\P08.CircleAreaAndPerimeter.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P08.CircleAreaAndPerimeter\obj\Debug\net5.0\P08.CircleAreaAndPerimeter.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P08.CircleAreaAndPerimeter\obj\Debug\net5.0\P08.CircleAreaAndPerimeter.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P08.CircleAreaAndPerimeter\obj\Debug\net5.0\P08.CircleAreaAndPerimeter.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P08.CircleAreaAndPerimeter\obj\Debug\net5.0\ref\P08.CircleAreaAndPerimeter.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P08.CircleAreaAndPerimeter\obj\Debug\net5.0\P08.CircleAreaAndPerimeter.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P08.CircleAreaAndPerimeter\obj\Debug\net5.0\P08.CircleAreaAndPerimeter.genruntimeconfig.cache

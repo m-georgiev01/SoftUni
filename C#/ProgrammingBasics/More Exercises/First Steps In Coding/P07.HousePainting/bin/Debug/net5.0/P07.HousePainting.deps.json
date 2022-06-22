@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P07.HousePainting/1.0.0": {
+        "runtime": {
+          "P07.HousePainting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P07.HousePainting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

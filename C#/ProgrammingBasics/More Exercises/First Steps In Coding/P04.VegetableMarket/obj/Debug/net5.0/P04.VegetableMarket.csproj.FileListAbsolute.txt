@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P04.VegetableMarket\bin\Debug\net5.0\P04.VegetableMarket.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P04.VegetableMarket\bin\Debug\net5.0\P04.VegetableMarket.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P04.VegetableMarket\bin\Debug\net5.0\P04.VegetableMarket.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P04.VegetableMarket\bin\Debug\net5.0\P04.VegetableMarket.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P04.VegetableMarket\bin\Debug\net5.0\P04.VegetableMarket.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P04.VegetableMarket\bin\Debug\net5.0\ref\P04.VegetableMarket.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P04.VegetableMarket\bin\Debug\net5.0\P04.VegetableMarket.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P04.VegetableMarket\obj\Debug\net5.0\P04.VegetableMarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P04.VegetableMarket\obj\Debug\net5.0\P04.VegetableMarket.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P04.VegetableMarket\obj\Debug\net5.0\P04.VegetableMarket.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P04.VegetableMarket\obj\Debug\net5.0\P04.VegetableMarket.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P04.VegetableMarket\obj\Debug\net5.0\P04.VegetableMarket.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P04.VegetableMarket\obj\Debug\net5.0\ref\P04.VegetableMarket.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P04.VegetableMarket\obj\Debug\net5.0\P04.VegetableMarket.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P04.VegetableMarket\obj\Debug\net5.0\P04.VegetableMarket.genruntimeconfig.cache

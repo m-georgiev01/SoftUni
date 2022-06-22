@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P10.WeatherForecastPart2\bin\Debug\net5.0\P10.WeatherForecastPart2.exe
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P10.WeatherForecastPart2\bin\Debug\net5.0\P10.WeatherForecastPart2.deps.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P10.WeatherForecastPart2\bin\Debug\net5.0\P10.WeatherForecastPart2.runtimeconfig.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P10.WeatherForecastPart2\bin\Debug\net5.0\P10.WeatherForecastPart2.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P10.WeatherForecastPart2\bin\Debug\net5.0\P10.WeatherForecastPart2.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P10.WeatherForecastPart2\bin\Debug\net5.0\ref\P10.WeatherForecastPart2.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P10.WeatherForecastPart2\bin\Debug\net5.0\P10.WeatherForecastPart2.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P10.WeatherForecastPart2\obj\Debug\net5.0\P10.WeatherForecastPart2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P10.WeatherForecastPart2\obj\Debug\net5.0\P10.WeatherForecastPart2.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P10.WeatherForecastPart2\obj\Debug\net5.0\P10.WeatherForecastPart2.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P10.WeatherForecastPart2\obj\Debug\net5.0\P10.WeatherForecastPart2.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P10.WeatherForecastPart2\obj\Debug\net5.0\P10.WeatherForecastPart2.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P10.WeatherForecastPart2\obj\Debug\net5.0\ref\P10.WeatherForecastPart2.dll
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P10.WeatherForecastPart2\obj\Debug\net5.0\P10.WeatherForecastPart2.pdb
+D:\GitHub\SoftUni\C#\ProgrammingBasics\More Exercises\First Steps In Coding\P10.WeatherForecastPart2\obj\Debug\net5.0\P10.WeatherForecastPart2.genruntimeconfig.cache
