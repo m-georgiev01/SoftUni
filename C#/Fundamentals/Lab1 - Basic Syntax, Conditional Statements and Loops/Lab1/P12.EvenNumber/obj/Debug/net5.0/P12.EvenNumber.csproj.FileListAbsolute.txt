@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P12.EvenNumber\bin\Debug\net5.0\P12.EvenNumber.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P12.EvenNumber\bin\Debug\net5.0\P12.EvenNumber.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P12.EvenNumber\bin\Debug\net5.0\P12.EvenNumber.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P12.EvenNumber\bin\Debug\net5.0\P12.EvenNumber.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P12.EvenNumber\bin\Debug\net5.0\P12.EvenNumber.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P12.EvenNumber\bin\Debug\net5.0\ref\P12.EvenNumber.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P12.EvenNumber\bin\Debug\net5.0\P12.EvenNumber.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P12.EvenNumber\obj\Debug\net5.0\P12.EvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P12.EvenNumber\obj\Debug\net5.0\P12.EvenNumber.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P12.EvenNumber\obj\Debug\net5.0\P12.EvenNumber.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P12.EvenNumber\obj\Debug\net5.0\P12.EvenNumber.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P12.EvenNumber\obj\Debug\net5.0\P12.EvenNumber.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P12.EvenNumber\obj\Debug\net5.0\ref\P12.EvenNumber.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P12.EvenNumber\obj\Debug\net5.0\P12.EvenNumber.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P12.EvenNumber\obj\Debug\net5.0\P12.EvenNumber.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P10.MultiplicationTable\bin\Debug\net5.0\P10.MultiplicationTable.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P10.MultiplicationTable\bin\Debug\net5.0\P10.MultiplicationTable.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P10.MultiplicationTable\bin\Debug\net5.0\P10.MultiplicationTable.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P10.MultiplicationTable\bin\Debug\net5.0\P10.MultiplicationTable.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P10.MultiplicationTable\bin\Debug\net5.0\P10.MultiplicationTable.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P10.MultiplicationTable\bin\Debug\net5.0\ref\P10.MultiplicationTable.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P10.MultiplicationTable\bin\Debug\net5.0\P10.MultiplicationTable.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P10.MultiplicationTable\obj\Debug\net5.0\P10.MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P10.MultiplicationTable\obj\Debug\net5.0\P10.MultiplicationTable.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P10.MultiplicationTable\obj\Debug\net5.0\P10.MultiplicationTable.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P10.MultiplicationTable\obj\Debug\net5.0\P10.MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P10.MultiplicationTable\obj\Debug\net5.0\P10.MultiplicationTable.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P10.MultiplicationTable\obj\Debug\net5.0\ref\P10.MultiplicationTable.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P10.MultiplicationTable\obj\Debug\net5.0\P10.MultiplicationTable.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P10.MultiplicationTable\obj\Debug\net5.0\P10.MultiplicationTable.genruntimeconfig.cache

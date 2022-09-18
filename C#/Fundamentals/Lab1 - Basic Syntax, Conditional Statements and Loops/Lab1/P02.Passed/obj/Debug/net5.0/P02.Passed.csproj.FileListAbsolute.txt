@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P02.Passed\bin\Debug\net5.0\P02.Passed.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P02.Passed\bin\Debug\net5.0\P02.Passed.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P02.Passed\bin\Debug\net5.0\P02.Passed.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P02.Passed\bin\Debug\net5.0\P02.Passed.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P02.Passed\bin\Debug\net5.0\P02.Passed.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P02.Passed\bin\Debug\net5.0\ref\P02.Passed.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P02.Passed\bin\Debug\net5.0\P02.Passed.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P02.Passed\obj\Debug\net5.0\P02.Passed.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P02.Passed\obj\Debug\net5.0\P02.Passed.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P02.Passed\obj\Debug\net5.0\P02.Passed.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P02.Passed\obj\Debug\net5.0\P02.Passed.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P02.Passed\obj\Debug\net5.0\P02.Passed.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P02.Passed\obj\Debug\net5.0\P02.Passed.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P02.Passed\obj\Debug\net5.0\ref\P02.Passed.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P02.Passed\obj\Debug\net5.0\P02.Passed.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P02.Passed\obj\Debug\net5.0\P02.Passed.genruntimeconfig.cache

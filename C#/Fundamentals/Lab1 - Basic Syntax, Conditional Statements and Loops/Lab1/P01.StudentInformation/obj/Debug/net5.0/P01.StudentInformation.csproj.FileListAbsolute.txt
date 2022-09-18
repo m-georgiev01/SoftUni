@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P01.StudentInformation\bin\Debug\net5.0\P01.StudentInformation.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P01.StudentInformation\bin\Debug\net5.0\P01.StudentInformation.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P01.StudentInformation\bin\Debug\net5.0\P01.StudentInformation.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P01.StudentInformation\bin\Debug\net5.0\P01.StudentInformation.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P01.StudentInformation\bin\Debug\net5.0\P01.StudentInformation.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P01.StudentInformation\bin\Debug\net5.0\ref\P01.StudentInformation.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P01.StudentInformation\bin\Debug\net5.0\P01.StudentInformation.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P01.StudentInformation\obj\Debug\net5.0\P01.StudentInformation.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P01.StudentInformation\obj\Debug\net5.0\P01.StudentInformation.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P01.StudentInformation\obj\Debug\net5.0\P01.StudentInformation.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P01.StudentInformation\obj\Debug\net5.0\P01.StudentInformation.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P01.StudentInformation\obj\Debug\net5.0\P01.StudentInformation.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P01.StudentInformation\obj\Debug\net5.0\P01.StudentInformation.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P01.StudentInformation\obj\Debug\net5.0\ref\P01.StudentInformation.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P01.StudentInformation\obj\Debug\net5.0\P01.StudentInformation.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P01.StudentInformation\obj\Debug\net5.0\P01.StudentInformation.genruntimeconfig.cache

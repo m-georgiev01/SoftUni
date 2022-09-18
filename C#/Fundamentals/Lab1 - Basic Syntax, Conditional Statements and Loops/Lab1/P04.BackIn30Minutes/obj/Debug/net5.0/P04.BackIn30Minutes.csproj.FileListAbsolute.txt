@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P04.BackIn30Minutes\bin\Debug\net5.0\P04.BackIn30Minutes.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P04.BackIn30Minutes\bin\Debug\net5.0\P04.BackIn30Minutes.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P04.BackIn30Minutes\bin\Debug\net5.0\P04.BackIn30Minutes.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P04.BackIn30Minutes\bin\Debug\net5.0\P04.BackIn30Minutes.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P04.BackIn30Minutes\bin\Debug\net5.0\P04.BackIn30Minutes.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P04.BackIn30Minutes\bin\Debug\net5.0\ref\P04.BackIn30Minutes.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P04.BackIn30Minutes\bin\Debug\net5.0\P04.BackIn30Minutes.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P04.BackIn30Minutes\obj\Debug\net5.0\P04.BackIn30Minutes.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P04.BackIn30Minutes\obj\Debug\net5.0\P04.BackIn30Minutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P04.BackIn30Minutes\obj\Debug\net5.0\P04.BackIn30Minutes.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P04.BackIn30Minutes\obj\Debug\net5.0\P04.BackIn30Minutes.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P04.BackIn30Minutes\obj\Debug\net5.0\P04.BackIn30Minutes.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P04.BackIn30Minutes\obj\Debug\net5.0\P04.BackIn30Minutes.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P04.BackIn30Minutes\obj\Debug\net5.0\ref\P04.BackIn30Minutes.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P04.BackIn30Minutes\obj\Debug\net5.0\P04.BackIn30Minutes.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P04.BackIn30Minutes\obj\Debug\net5.0\P04.BackIn30Minutes.genruntimeconfig.cache

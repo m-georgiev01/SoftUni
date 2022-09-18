@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P07.TheatrePromotion\bin\Debug\net5.0\P07.TheatrePromotion.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P07.TheatrePromotion\bin\Debug\net5.0\P07.TheatrePromotion.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P07.TheatrePromotion\bin\Debug\net5.0\P07.TheatrePromotion.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P07.TheatrePromotion\bin\Debug\net5.0\P07.TheatrePromotion.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P07.TheatrePromotion\bin\Debug\net5.0\P07.TheatrePromotion.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P07.TheatrePromotion\bin\Debug\net5.0\ref\P07.TheatrePromotion.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P07.TheatrePromotion\bin\Debug\net5.0\P07.TheatrePromotion.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P07.TheatrePromotion\obj\Debug\net5.0\P07.TheatrePromotion.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P07.TheatrePromotion\obj\Debug\net5.0\P07.TheatrePromotion.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P07.TheatrePromotion\obj\Debug\net5.0\P07.TheatrePromotion.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P07.TheatrePromotion\obj\Debug\net5.0\P07.TheatrePromotion.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P07.TheatrePromotion\obj\Debug\net5.0\P07.TheatrePromotion.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P07.TheatrePromotion\obj\Debug\net5.0\P07.TheatrePromotion.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P07.TheatrePromotion\obj\Debug\net5.0\ref\P07.TheatrePromotion.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P07.TheatrePromotion\obj\Debug\net5.0\P07.TheatrePromotion.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P07.TheatrePromotion\obj\Debug\net5.0\P07.TheatrePromotion.genruntimeconfig.cache

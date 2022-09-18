@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P08.DivisibleBy3\bin\Debug\net5.0\P08.DivisibleBy3.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P08.DivisibleBy3\bin\Debug\net5.0\P08.DivisibleBy3.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P08.DivisibleBy3\bin\Debug\net5.0\P08.DivisibleBy3.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P08.DivisibleBy3\bin\Debug\net5.0\P08.DivisibleBy3.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P08.DivisibleBy3\bin\Debug\net5.0\P08.DivisibleBy3.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P08.DivisibleBy3\bin\Debug\net5.0\ref\P08.DivisibleBy3.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P08.DivisibleBy3\bin\Debug\net5.0\P08.DivisibleBy3.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P08.DivisibleBy3\obj\Debug\net5.0\P08.DivisibleBy3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P08.DivisibleBy3\obj\Debug\net5.0\P08.DivisibleBy3.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P08.DivisibleBy3\obj\Debug\net5.0\P08.DivisibleBy3.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P08.DivisibleBy3\obj\Debug\net5.0\P08.DivisibleBy3.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P08.DivisibleBy3\obj\Debug\net5.0\P08.DivisibleBy3.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P08.DivisibleBy3\obj\Debug\net5.0\ref\P08.DivisibleBy3.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P08.DivisibleBy3\obj\Debug\net5.0\P08.DivisibleBy3.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P08.DivisibleBy3\obj\Debug\net5.0\P08.DivisibleBy3.genruntimeconfig.cache

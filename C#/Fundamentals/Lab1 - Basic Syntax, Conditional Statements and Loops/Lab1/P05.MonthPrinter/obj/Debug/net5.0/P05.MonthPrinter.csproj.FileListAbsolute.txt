@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P05.MonthPrinter\bin\Debug\net5.0\P05.MonthPrinter.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P05.MonthPrinter\bin\Debug\net5.0\P05.MonthPrinter.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P05.MonthPrinter\bin\Debug\net5.0\P05.MonthPrinter.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P05.MonthPrinter\bin\Debug\net5.0\P05.MonthPrinter.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P05.MonthPrinter\bin\Debug\net5.0\P05.MonthPrinter.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P05.MonthPrinter\bin\Debug\net5.0\ref\P05.MonthPrinter.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P05.MonthPrinter\bin\Debug\net5.0\P05.MonthPrinter.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P05.MonthPrinter\obj\Debug\net5.0\P05.MonthPrinter.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P05.MonthPrinter\obj\Debug\net5.0\P05.MonthPrinter.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P05.MonthPrinter\obj\Debug\net5.0\P05.MonthPrinter.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P05.MonthPrinter\obj\Debug\net5.0\P05.MonthPrinter.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P05.MonthPrinter\obj\Debug\net5.0\P05.MonthPrinter.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P05.MonthPrinter\obj\Debug\net5.0\ref\P05.MonthPrinter.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P05.MonthPrinter\obj\Debug\net5.0\P05.MonthPrinter.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab1 - Basic Syntax, Conditional Statements and Loops\Lab1\P05.MonthPrinter\obj\Debug\net5.0\P05.MonthPrinter.genruntimeconfig.cache
