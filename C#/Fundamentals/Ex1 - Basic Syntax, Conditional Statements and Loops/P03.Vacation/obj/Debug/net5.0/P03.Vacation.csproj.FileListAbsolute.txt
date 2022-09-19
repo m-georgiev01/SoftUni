@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P03.Vacation\bin\Debug\net5.0\P03.Vacation.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P03.Vacation\bin\Debug\net5.0\P03.Vacation.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P03.Vacation\bin\Debug\net5.0\P03.Vacation.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P03.Vacation\bin\Debug\net5.0\P03.Vacation.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P03.Vacation\bin\Debug\net5.0\P03.Vacation.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P03.Vacation\bin\Debug\net5.0\ref\P03.Vacation.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P03.Vacation\bin\Debug\net5.0\P03.Vacation.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P03.Vacation\obj\Debug\net5.0\P03.Vacation.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P03.Vacation\obj\Debug\net5.0\P03.Vacation.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P03.Vacation\obj\Debug\net5.0\P03.Vacation.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P03.Vacation\obj\Debug\net5.0\P03.Vacation.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P03.Vacation\obj\Debug\net5.0\P03.Vacation.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P03.Vacation\obj\Debug\net5.0\P03.Vacation.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P03.Vacation\obj\Debug\net5.0\ref\P03.Vacation.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P03.Vacation\obj\Debug\net5.0\P03.Vacation.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P03.Vacation\obj\Debug\net5.0\P03.Vacation.genruntimeconfig.cache

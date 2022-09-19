@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P06.StrongNumber\bin\Debug\net5.0\P06.StrongNumber.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P06.StrongNumber\bin\Debug\net5.0\P06.StrongNumber.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P06.StrongNumber\bin\Debug\net5.0\P06.StrongNumber.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P06.StrongNumber\bin\Debug\net5.0\P06.StrongNumber.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P06.StrongNumber\bin\Debug\net5.0\P06.StrongNumber.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P06.StrongNumber\bin\Debug\net5.0\ref\P06.StrongNumber.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P06.StrongNumber\bin\Debug\net5.0\P06.StrongNumber.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P06.StrongNumber\obj\Debug\net5.0\P06.StrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P06.StrongNumber\obj\Debug\net5.0\P06.StrongNumber.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P06.StrongNumber\obj\Debug\net5.0\P06.StrongNumber.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P06.StrongNumber\obj\Debug\net5.0\P06.StrongNumber.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P06.StrongNumber\obj\Debug\net5.0\P06.StrongNumber.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P06.StrongNumber\obj\Debug\net5.0\ref\P06.StrongNumber.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P06.StrongNumber\obj\Debug\net5.0\P06.StrongNumber.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P06.StrongNumber\obj\Debug\net5.0\P06.StrongNumber.genruntimeconfig.cache

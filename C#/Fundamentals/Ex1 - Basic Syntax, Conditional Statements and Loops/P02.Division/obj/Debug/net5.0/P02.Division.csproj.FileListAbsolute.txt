@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P02.Division\bin\Debug\net5.0\P02.Division.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P02.Division\bin\Debug\net5.0\P02.Division.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P02.Division\bin\Debug\net5.0\P02.Division.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P02.Division\bin\Debug\net5.0\P02.Division.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P02.Division\bin\Debug\net5.0\P02.Division.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P02.Division\bin\Debug\net5.0\ref\P02.Division.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P02.Division\bin\Debug\net5.0\P02.Division.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P02.Division\obj\Debug\net5.0\P02.Division.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P02.Division\obj\Debug\net5.0\P02.Division.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P02.Division\obj\Debug\net5.0\P02.Division.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P02.Division\obj\Debug\net5.0\P02.Division.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P02.Division\obj\Debug\net5.0\P02.Division.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P02.Division\obj\Debug\net5.0\P02.Division.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P02.Division\obj\Debug\net5.0\ref\P02.Division.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P02.Division\obj\Debug\net5.0\P02.Division.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P02.Division\obj\Debug\net5.0\P02.Division.genruntimeconfig.cache

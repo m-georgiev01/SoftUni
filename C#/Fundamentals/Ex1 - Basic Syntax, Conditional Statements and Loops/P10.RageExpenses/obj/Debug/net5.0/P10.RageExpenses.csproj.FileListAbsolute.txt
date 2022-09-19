@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P10.RageExpenses\bin\Debug\net5.0\P10.RageExpenses.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P10.RageExpenses\bin\Debug\net5.0\P10.RageExpenses.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P10.RageExpenses\bin\Debug\net5.0\P10.RageExpenses.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P10.RageExpenses\bin\Debug\net5.0\P10.RageExpenses.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P10.RageExpenses\bin\Debug\net5.0\P10.RageExpenses.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P10.RageExpenses\bin\Debug\net5.0\ref\P10.RageExpenses.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P10.RageExpenses\bin\Debug\net5.0\P10.RageExpenses.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P10.RageExpenses\obj\Debug\net5.0\P10.RageExpenses.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P10.RageExpenses\obj\Debug\net5.0\P10.RageExpenses.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P10.RageExpenses\obj\Debug\net5.0\P10.RageExpenses.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P10.RageExpenses\obj\Debug\net5.0\P10.RageExpenses.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P10.RageExpenses\obj\Debug\net5.0\P10.RageExpenses.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P10.RageExpenses\obj\Debug\net5.0\ref\P10.RageExpenses.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P10.RageExpenses\obj\Debug\net5.0\P10.RageExpenses.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P10.RageExpenses\obj\Debug\net5.0\P10.RageExpenses.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P08.TriangleOfNumbers\bin\Debug\net5.0\P08.TriangleOfNumbers.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P08.TriangleOfNumbers\bin\Debug\net5.0\P08.TriangleOfNumbers.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P08.TriangleOfNumbers\bin\Debug\net5.0\P08.TriangleOfNumbers.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P08.TriangleOfNumbers\bin\Debug\net5.0\P08.TriangleOfNumbers.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P08.TriangleOfNumbers\bin\Debug\net5.0\P08.TriangleOfNumbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P08.TriangleOfNumbers\bin\Debug\net5.0\ref\P08.TriangleOfNumbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P08.TriangleOfNumbers\bin\Debug\net5.0\P08.TriangleOfNumbers.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P08.TriangleOfNumbers\obj\Debug\net5.0\P08.TriangleOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P08.TriangleOfNumbers\obj\Debug\net5.0\P08.TriangleOfNumbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P08.TriangleOfNumbers\obj\Debug\net5.0\P08.TriangleOfNumbers.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P08.TriangleOfNumbers\obj\Debug\net5.0\P08.TriangleOfNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P08.TriangleOfNumbers\obj\Debug\net5.0\P08.TriangleOfNumbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P08.TriangleOfNumbers\obj\Debug\net5.0\ref\P08.TriangleOfNumbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P08.TriangleOfNumbers\obj\Debug\net5.0\P08.TriangleOfNumbers.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P08.TriangleOfNumbers\obj\Debug\net5.0\P08.TriangleOfNumbers.genruntimeconfig.cache

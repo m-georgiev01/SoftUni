@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P07.VendingMachine\bin\Debug\net5.0\P07.VendingMachine.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P07.VendingMachine\bin\Debug\net5.0\P07.VendingMachine.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P07.VendingMachine\bin\Debug\net5.0\P07.VendingMachine.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P07.VendingMachine\bin\Debug\net5.0\P07.VendingMachine.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P07.VendingMachine\bin\Debug\net5.0\P07.VendingMachine.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P07.VendingMachine\bin\Debug\net5.0\ref\P07.VendingMachine.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P07.VendingMachine\bin\Debug\net5.0\P07.VendingMachine.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P07.VendingMachine\obj\Debug\net5.0\P07.VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P07.VendingMachine\obj\Debug\net5.0\P07.VendingMachine.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P07.VendingMachine\obj\Debug\net5.0\P07.VendingMachine.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P07.VendingMachine\obj\Debug\net5.0\P07.VendingMachine.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P07.VendingMachine\obj\Debug\net5.0\P07.VendingMachine.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P07.VendingMachine\obj\Debug\net5.0\ref\P07.VendingMachine.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P07.VendingMachine\obj\Debug\net5.0\P07.VendingMachine.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P07.VendingMachine\obj\Debug\net5.0\P07.VendingMachine.genruntimeconfig.cache

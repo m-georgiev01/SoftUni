@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P09.PadawanEquipment\bin\Debug\net5.0\P09.PadawanEquipment.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P09.PadawanEquipment\bin\Debug\net5.0\P09.PadawanEquipment.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P09.PadawanEquipment\bin\Debug\net5.0\P09.PadawanEquipment.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P09.PadawanEquipment\bin\Debug\net5.0\P09.PadawanEquipment.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P09.PadawanEquipment\bin\Debug\net5.0\P09.PadawanEquipment.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P09.PadawanEquipment\bin\Debug\net5.0\ref\P09.PadawanEquipment.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P09.PadawanEquipment\bin\Debug\net5.0\P09.PadawanEquipment.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P09.PadawanEquipment\obj\Debug\net5.0\P09.PadawanEquipment.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P09.PadawanEquipment\obj\Debug\net5.0\P09.PadawanEquipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P09.PadawanEquipment\obj\Debug\net5.0\P09.PadawanEquipment.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P09.PadawanEquipment\obj\Debug\net5.0\P09.PadawanEquipment.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P09.PadawanEquipment\obj\Debug\net5.0\P09.PadawanEquipment.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P09.PadawanEquipment\obj\Debug\net5.0\P09.PadawanEquipment.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P09.PadawanEquipment\obj\Debug\net5.0\ref\P09.PadawanEquipment.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P09.PadawanEquipment\obj\Debug\net5.0\P09.PadawanEquipment.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex1 - Basic Syntax, Conditional Statements and Loops\P09.PadawanEquipment\obj\Debug\net5.0\P09.PadawanEquipment.genruntimeconfig.cache
