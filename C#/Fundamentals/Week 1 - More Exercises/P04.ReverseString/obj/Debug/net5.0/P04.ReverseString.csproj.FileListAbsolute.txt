@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P04.ReverseString\bin\Debug\net5.0\P04.ReverseString.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P04.ReverseString\bin\Debug\net5.0\P04.ReverseString.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P04.ReverseString\bin\Debug\net5.0\P04.ReverseString.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P04.ReverseString\bin\Debug\net5.0\P04.ReverseString.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P04.ReverseString\bin\Debug\net5.0\P04.ReverseString.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P04.ReverseString\bin\Debug\net5.0\ref\P04.ReverseString.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P04.ReverseString\bin\Debug\net5.0\P04.ReverseString.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P04.ReverseString\obj\Debug\net5.0\P04.ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P04.ReverseString\obj\Debug\net5.0\P04.ReverseString.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P04.ReverseString\obj\Debug\net5.0\P04.ReverseString.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P04.ReverseString\obj\Debug\net5.0\P04.ReverseString.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P04.ReverseString\obj\Debug\net5.0\P04.ReverseString.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P04.ReverseString\obj\Debug\net5.0\ref\P04.ReverseString.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P04.ReverseString\obj\Debug\net5.0\P04.ReverseString.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P04.ReverseString\obj\Debug\net5.0\P04.ReverseString.genruntimeconfig.cache

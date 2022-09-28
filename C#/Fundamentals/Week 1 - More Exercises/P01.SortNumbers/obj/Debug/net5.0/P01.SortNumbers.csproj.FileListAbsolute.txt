@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P01.SortNumbers\bin\Debug\net5.0\P01.SortNumbers.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P01.SortNumbers\bin\Debug\net5.0\P01.SortNumbers.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P01.SortNumbers\bin\Debug\net5.0\P01.SortNumbers.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P01.SortNumbers\bin\Debug\net5.0\P01.SortNumbers.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P01.SortNumbers\bin\Debug\net5.0\P01.SortNumbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P01.SortNumbers\bin\Debug\net5.0\ref\P01.SortNumbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P01.SortNumbers\bin\Debug\net5.0\P01.SortNumbers.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P01.SortNumbers\obj\Debug\net5.0\P01.SortNumbers.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P01.SortNumbers\obj\Debug\net5.0\P01.SortNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P01.SortNumbers\obj\Debug\net5.0\P01.SortNumbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P01.SortNumbers\obj\Debug\net5.0\P01.SortNumbers.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P01.SortNumbers\obj\Debug\net5.0\P01.SortNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P01.SortNumbers\obj\Debug\net5.0\P01.SortNumbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P01.SortNumbers\obj\Debug\net5.0\ref\P01.SortNumbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P01.SortNumbers\obj\Debug\net5.0\P01.SortNumbers.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P01.SortNumbers\obj\Debug\net5.0\P01.SortNumbers.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P05.Messages\bin\Debug\net5.0\P05.Messages.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P05.Messages\bin\Debug\net5.0\P05.Messages.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P05.Messages\bin\Debug\net5.0\P05.Messages.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P05.Messages\bin\Debug\net5.0\P05.Messages.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P05.Messages\bin\Debug\net5.0\P05.Messages.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P05.Messages\bin\Debug\net5.0\ref\P05.Messages.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P05.Messages\bin\Debug\net5.0\P05.Messages.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P05.Messages\obj\Debug\net5.0\P05.Messages.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P05.Messages\obj\Debug\net5.0\P05.Messages.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P05.Messages\obj\Debug\net5.0\P05.Messages.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P05.Messages\obj\Debug\net5.0\P05.Messages.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P05.Messages\obj\Debug\net5.0\P05.Messages.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P05.Messages\obj\Debug\net5.0\ref\P05.Messages.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P05.Messages\obj\Debug\net5.0\P05.Messages.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P05.Messages\obj\Debug\net5.0\P05.Messages.genruntimeconfig.cache

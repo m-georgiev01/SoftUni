@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P03.GamingStore\bin\Debug\net5.0\P03.GamingStore.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P03.GamingStore\bin\Debug\net5.0\P03.GamingStore.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P03.GamingStore\bin\Debug\net5.0\P03.GamingStore.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P03.GamingStore\bin\Debug\net5.0\P03.GamingStore.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P03.GamingStore\bin\Debug\net5.0\P03.GamingStore.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P03.GamingStore\bin\Debug\net5.0\ref\P03.GamingStore.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P03.GamingStore\bin\Debug\net5.0\P03.GamingStore.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P03.GamingStore\obj\Debug\net5.0\P03.GamingStore.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P03.GamingStore\obj\Debug\net5.0\P03.GamingStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P03.GamingStore\obj\Debug\net5.0\P03.GamingStore.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P03.GamingStore\obj\Debug\net5.0\P03.GamingStore.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P03.GamingStore\obj\Debug\net5.0\P03.GamingStore.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P03.GamingStore\obj\Debug\net5.0\P03.GamingStore.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P03.GamingStore\obj\Debug\net5.0\ref\P03.GamingStore.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P03.GamingStore\obj\Debug\net5.0\P03.GamingStore.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P03.GamingStore\obj\Debug\net5.0\P03.GamingStore.genruntimeconfig.cache

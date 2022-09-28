@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P02.EnglishNameOfTheLastDigit\bin\Debug\net5.0\P02.EnglishNameOfTheLastDigit.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P02.EnglishNameOfTheLastDigit\bin\Debug\net5.0\P02.EnglishNameOfTheLastDigit.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P02.EnglishNameOfTheLastDigit\bin\Debug\net5.0\P02.EnglishNameOfTheLastDigit.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P02.EnglishNameOfTheLastDigit\bin\Debug\net5.0\P02.EnglishNameOfTheLastDigit.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P02.EnglishNameOfTheLastDigit\bin\Debug\net5.0\P02.EnglishNameOfTheLastDigit.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P02.EnglishNameOfTheLastDigit\bin\Debug\net5.0\ref\P02.EnglishNameOfTheLastDigit.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P02.EnglishNameOfTheLastDigit\bin\Debug\net5.0\P02.EnglishNameOfTheLastDigit.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P02.EnglishNameOfTheLastDigit\obj\Debug\net5.0\P02.EnglishNameOfTheLastDigit.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P02.EnglishNameOfTheLastDigit\obj\Debug\net5.0\P02.EnglishNameOfTheLastDigit.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P02.EnglishNameOfTheLastDigit\obj\Debug\net5.0\P02.EnglishNameOfTheLastDigit.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P02.EnglishNameOfTheLastDigit\obj\Debug\net5.0\P02.EnglishNameOfTheLastDigit.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P02.EnglishNameOfTheLastDigit\obj\Debug\net5.0\P02.EnglishNameOfTheLastDigit.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P02.EnglishNameOfTheLastDigit\obj\Debug\net5.0\P02.EnglishNameOfTheLastDigit.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P02.EnglishNameOfTheLastDigit\obj\Debug\net5.0\ref\P02.EnglishNameOfTheLastDigit.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P02.EnglishNameOfTheLastDigit\obj\Debug\net5.0\P02.EnglishNameOfTheLastDigit.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Week 1 - More Exercises\P02.EnglishNameOfTheLastDigit\obj\Debug\net5.0\P02.EnglishNameOfTheLastDigit.genruntimeconfig.cache
