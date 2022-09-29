@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P06.ReversedChars\bin\Debug\net5.0\P06.ReversedChars.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P06.ReversedChars\bin\Debug\net5.0\P06.ReversedChars.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P06.ReversedChars\bin\Debug\net5.0\P06.ReversedChars.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P06.ReversedChars\bin\Debug\net5.0\P06.ReversedChars.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P06.ReversedChars\bin\Debug\net5.0\P06.ReversedChars.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P06.ReversedChars\bin\Debug\net5.0\ref\P06.ReversedChars.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P06.ReversedChars\bin\Debug\net5.0\P06.ReversedChars.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P06.ReversedChars\obj\Debug\net5.0\P06.ReversedChars.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P06.ReversedChars\obj\Debug\net5.0\P06.ReversedChars.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P06.ReversedChars\obj\Debug\net5.0\P06.ReversedChars.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P06.ReversedChars\obj\Debug\net5.0\P06.ReversedChars.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P06.ReversedChars\obj\Debug\net5.0\P06.ReversedChars.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P06.ReversedChars\obj\Debug\net5.0\ref\P06.ReversedChars.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P06.ReversedChars\obj\Debug\net5.0\P06.ReversedChars.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P06.ReversedChars\obj\Debug\net5.0\P06.ReversedChars.genruntimeconfig.cache

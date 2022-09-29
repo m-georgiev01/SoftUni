@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P09.CharsToString\bin\Debug\net5.0\P09.CharsToString.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P09.CharsToString\bin\Debug\net5.0\P09.CharsToString.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P09.CharsToString\bin\Debug\net5.0\P09.CharsToString.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P09.CharsToString\bin\Debug\net5.0\P09.CharsToString.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P09.CharsToString\bin\Debug\net5.0\P09.CharsToString.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P09.CharsToString\bin\Debug\net5.0\ref\P09.CharsToString.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P09.CharsToString\bin\Debug\net5.0\P09.CharsToString.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P09.CharsToString\obj\Debug\net5.0\P09.CharsToString.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P09.CharsToString\obj\Debug\net5.0\P09.CharsToString.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P09.CharsToString\obj\Debug\net5.0\P09.CharsToString.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P09.CharsToString\obj\Debug\net5.0\P09.CharsToString.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P09.CharsToString\obj\Debug\net5.0\P09.CharsToString.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P09.CharsToString\obj\Debug\net5.0\ref\P09.CharsToString.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P09.CharsToString\obj\Debug\net5.0\P09.CharsToString.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P09.CharsToString\obj\Debug\net5.0\P09.CharsToString.genruntimeconfig.cache

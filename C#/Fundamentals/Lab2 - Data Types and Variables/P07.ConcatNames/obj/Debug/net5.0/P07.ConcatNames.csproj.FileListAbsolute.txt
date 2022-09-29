@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P07.ConcatNames\bin\Debug\net5.0\P07.ConcatNames.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P07.ConcatNames\bin\Debug\net5.0\P07.ConcatNames.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P07.ConcatNames\bin\Debug\net5.0\P07.ConcatNames.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P07.ConcatNames\bin\Debug\net5.0\P07.ConcatNames.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P07.ConcatNames\bin\Debug\net5.0\P07.ConcatNames.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P07.ConcatNames\bin\Debug\net5.0\ref\P07.ConcatNames.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P07.ConcatNames\bin\Debug\net5.0\P07.ConcatNames.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P07.ConcatNames\obj\Debug\net5.0\P07.ConcatNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P07.ConcatNames\obj\Debug\net5.0\P07.ConcatNames.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P07.ConcatNames\obj\Debug\net5.0\P07.ConcatNames.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P07.ConcatNames\obj\Debug\net5.0\P07.ConcatNames.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P07.ConcatNames\obj\Debug\net5.0\P07.ConcatNames.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P07.ConcatNames\obj\Debug\net5.0\ref\P07.ConcatNames.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P07.ConcatNames\obj\Debug\net5.0\P07.ConcatNames.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P07.ConcatNames\obj\Debug\net5.0\P07.ConcatNames.genruntimeconfig.cache

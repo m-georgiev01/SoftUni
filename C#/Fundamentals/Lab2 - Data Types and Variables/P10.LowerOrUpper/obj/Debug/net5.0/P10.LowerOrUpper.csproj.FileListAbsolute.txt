@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P10.LowerOrUpper\bin\Debug\net5.0\P10.LowerOrUpper.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P10.LowerOrUpper\bin\Debug\net5.0\P10.LowerOrUpper.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P10.LowerOrUpper\bin\Debug\net5.0\P10.LowerOrUpper.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P10.LowerOrUpper\bin\Debug\net5.0\P10.LowerOrUpper.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P10.LowerOrUpper\bin\Debug\net5.0\P10.LowerOrUpper.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P10.LowerOrUpper\bin\Debug\net5.0\ref\P10.LowerOrUpper.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P10.LowerOrUpper\bin\Debug\net5.0\P10.LowerOrUpper.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P10.LowerOrUpper\obj\Debug\net5.0\P10.LowerOrUpper.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P10.LowerOrUpper\obj\Debug\net5.0\P10.LowerOrUpper.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P10.LowerOrUpper\obj\Debug\net5.0\P10.LowerOrUpper.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P10.LowerOrUpper\obj\Debug\net5.0\P10.LowerOrUpper.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P10.LowerOrUpper\obj\Debug\net5.0\P10.LowerOrUpper.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P10.LowerOrUpper\obj\Debug\net5.0\ref\P10.LowerOrUpper.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P10.LowerOrUpper\obj\Debug\net5.0\P10.LowerOrUpper.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P10.LowerOrUpper\obj\Debug\net5.0\P10.LowerOrUpper.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P05.SpecialNumbers\bin\Debug\net5.0\P05.SpecialNumbers.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P05.SpecialNumbers\bin\Debug\net5.0\P05.SpecialNumbers.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P05.SpecialNumbers\bin\Debug\net5.0\P05.SpecialNumbers.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P05.SpecialNumbers\bin\Debug\net5.0\P05.SpecialNumbers.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P05.SpecialNumbers\bin\Debug\net5.0\P05.SpecialNumbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P05.SpecialNumbers\bin\Debug\net5.0\ref\P05.SpecialNumbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P05.SpecialNumbers\bin\Debug\net5.0\P05.SpecialNumbers.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P05.SpecialNumbers\obj\Debug\net5.0\P05.SpecialNumbers.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P05.SpecialNumbers\obj\Debug\net5.0\P05.SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P05.SpecialNumbers\obj\Debug\net5.0\P05.SpecialNumbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P05.SpecialNumbers\obj\Debug\net5.0\P05.SpecialNumbers.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P05.SpecialNumbers\obj\Debug\net5.0\P05.SpecialNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P05.SpecialNumbers\obj\Debug\net5.0\P05.SpecialNumbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P05.SpecialNumbers\obj\Debug\net5.0\ref\P05.SpecialNumbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P05.SpecialNumbers\obj\Debug\net5.0\P05.SpecialNumbers.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P05.SpecialNumbers\obj\Debug\net5.0\P05.SpecialNumbers.genruntimeconfig.cache

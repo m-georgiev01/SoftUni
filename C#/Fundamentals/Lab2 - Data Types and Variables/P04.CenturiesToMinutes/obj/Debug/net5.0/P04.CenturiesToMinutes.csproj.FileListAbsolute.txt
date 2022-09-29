@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P04.CenturiesToMinutes\obj\Debug\net5.0\P04.CenturiesToMinutes.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P04.CenturiesToMinutes\obj\Debug\net5.0\P04.CenturiesToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P04.CenturiesToMinutes\obj\Debug\net5.0\P04.CenturiesToMinutes.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P04.CenturiesToMinutes\obj\Debug\net5.0\P04.CenturiesToMinutes.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P04.CenturiesToMinutes\obj\Debug\net5.0\P04.CenturiesToMinutes.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P04.CenturiesToMinutes\bin\Debug\net5.0\P04.CenturiesToMinutes.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P04.CenturiesToMinutes\bin\Debug\net5.0\P04.CenturiesToMinutes.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P04.CenturiesToMinutes\bin\Debug\net5.0\P04.CenturiesToMinutes.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P04.CenturiesToMinutes\bin\Debug\net5.0\P04.CenturiesToMinutes.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P04.CenturiesToMinutes\bin\Debug\net5.0\P04.CenturiesToMinutes.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P04.CenturiesToMinutes\bin\Debug\net5.0\ref\P04.CenturiesToMinutes.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P04.CenturiesToMinutes\bin\Debug\net5.0\P04.CenturiesToMinutes.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P04.CenturiesToMinutes\obj\Debug\net5.0\P04.CenturiesToMinutes.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P04.CenturiesToMinutes\obj\Debug\net5.0\ref\P04.CenturiesToMinutes.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P04.CenturiesToMinutes\obj\Debug\net5.0\P04.CenturiesToMinutes.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P04.CenturiesToMinutes\obj\Debug\net5.0\P04.CenturiesToMinutes.genruntimeconfig.cache

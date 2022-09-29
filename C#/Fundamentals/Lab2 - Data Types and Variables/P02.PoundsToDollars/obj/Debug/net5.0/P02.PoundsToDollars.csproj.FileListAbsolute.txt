@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P02.PoundsToDollars\bin\Debug\net5.0\P02.PoundsToDollars.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P02.PoundsToDollars\bin\Debug\net5.0\P02.PoundsToDollars.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P02.PoundsToDollars\bin\Debug\net5.0\P02.PoundsToDollars.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P02.PoundsToDollars\bin\Debug\net5.0\P02.PoundsToDollars.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P02.PoundsToDollars\bin\Debug\net5.0\P02.PoundsToDollars.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P02.PoundsToDollars\bin\Debug\net5.0\ref\P02.PoundsToDollars.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P02.PoundsToDollars\bin\Debug\net5.0\P02.PoundsToDollars.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P02.PoundsToDollars\obj\Debug\net5.0\P02.PoundsToDollars.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P02.PoundsToDollars\obj\Debug\net5.0\P02.PoundsToDollars.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P02.PoundsToDollars\obj\Debug\net5.0\P02.PoundsToDollars.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P02.PoundsToDollars\obj\Debug\net5.0\P02.PoundsToDollars.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P02.PoundsToDollars\obj\Debug\net5.0\P02.PoundsToDollars.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P02.PoundsToDollars\obj\Debug\net5.0\ref\P02.PoundsToDollars.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P02.PoundsToDollars\obj\Debug\net5.0\P02.PoundsToDollars.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab2 - Data Types and Variables\P02.PoundsToDollars\obj\Debug\net5.0\P02.PoundsToDollars.genruntimeconfig.cache
