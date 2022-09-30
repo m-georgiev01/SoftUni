@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P07.WaterOverflow\bin\Debug\net5.0\P07.WaterOverflow.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P07.WaterOverflow\bin\Debug\net5.0\P07.WaterOverflow.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P07.WaterOverflow\bin\Debug\net5.0\P07.WaterOverflow.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P07.WaterOverflow\bin\Debug\net5.0\P07.WaterOverflow.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P07.WaterOverflow\bin\Debug\net5.0\P07.WaterOverflow.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P07.WaterOverflow\bin\Debug\net5.0\ref\P07.WaterOverflow.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P07.WaterOverflow\bin\Debug\net5.0\P07.WaterOverflow.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P07.WaterOverflow\obj\Debug\net5.0\P07.WaterOverflow.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P07.WaterOverflow\obj\Debug\net5.0\P07.WaterOverflow.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P07.WaterOverflow\obj\Debug\net5.0\P07.WaterOverflow.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P07.WaterOverflow\obj\Debug\net5.0\P07.WaterOverflow.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P07.WaterOverflow\obj\Debug\net5.0\P07.WaterOverflow.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P07.WaterOverflow\obj\Debug\net5.0\ref\P07.WaterOverflow.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P07.WaterOverflow\obj\Debug\net5.0\P07.WaterOverflow.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P07.WaterOverflow\obj\Debug\net5.0\P07.WaterOverflow.genruntimeconfig.cache

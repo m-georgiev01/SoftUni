@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P09.SpiceMustFlow\bin\Debug\net5.0\P09.SpiceMustFlow.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P09.SpiceMustFlow\bin\Debug\net5.0\P09.SpiceMustFlow.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P09.SpiceMustFlow\bin\Debug\net5.0\P09.SpiceMustFlow.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P09.SpiceMustFlow\bin\Debug\net5.0\P09.SpiceMustFlow.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P09.SpiceMustFlow\bin\Debug\net5.0\P09.SpiceMustFlow.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P09.SpiceMustFlow\bin\Debug\net5.0\ref\P09.SpiceMustFlow.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P09.SpiceMustFlow\bin\Debug\net5.0\P09.SpiceMustFlow.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P09.SpiceMustFlow\obj\Debug\net5.0\P09.SpiceMustFlow.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P09.SpiceMustFlow\obj\Debug\net5.0\P09.SpiceMustFlow.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P09.SpiceMustFlow\obj\Debug\net5.0\P09.SpiceMustFlow.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P09.SpiceMustFlow\obj\Debug\net5.0\P09.SpiceMustFlow.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P09.SpiceMustFlow\obj\Debug\net5.0\P09.SpiceMustFlow.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P09.SpiceMustFlow\obj\Debug\net5.0\P09.SpiceMustFlow.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P09.SpiceMustFlow\obj\Debug\net5.0\ref\P09.SpiceMustFlow.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P09.SpiceMustFlow\obj\Debug\net5.0\P09.SpiceMustFlow.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P09.SpiceMustFlow\obj\Debug\net5.0\P09.SpiceMustFlow.genruntimeconfig.cache

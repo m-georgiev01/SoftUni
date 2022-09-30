@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P10.PokeMon\bin\Debug\net5.0\P10.PokeMon.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P10.PokeMon\bin\Debug\net5.0\P10.PokeMon.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P10.PokeMon\bin\Debug\net5.0\P10.PokeMon.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P10.PokeMon\bin\Debug\net5.0\P10.PokeMon.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P10.PokeMon\bin\Debug\net5.0\P10.PokeMon.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P10.PokeMon\bin\Debug\net5.0\ref\P10.PokeMon.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P10.PokeMon\bin\Debug\net5.0\P10.PokeMon.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P10.PokeMon\obj\Debug\net5.0\P10.PokeMon.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P10.PokeMon\obj\Debug\net5.0\P10.PokeMon.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P10.PokeMon\obj\Debug\net5.0\P10.PokeMon.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P10.PokeMon\obj\Debug\net5.0\P10.PokeMon.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P10.PokeMon\obj\Debug\net5.0\P10.PokeMon.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P10.PokeMon\obj\Debug\net5.0\P10.PokeMon.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P10.PokeMon\obj\Debug\net5.0\ref\P10.PokeMon.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P10.PokeMon\obj\Debug\net5.0\P10.PokeMon.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P10.PokeMon\obj\Debug\net5.0\P10.PokeMon.genruntimeconfig.cache

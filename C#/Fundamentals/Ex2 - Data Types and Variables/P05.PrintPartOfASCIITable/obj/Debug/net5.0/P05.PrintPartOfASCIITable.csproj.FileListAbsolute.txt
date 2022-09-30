@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P05.PrintPartOfASCIITable\bin\Debug\net5.0\P05.PrintPartOfASCIITable.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P05.PrintPartOfASCIITable\bin\Debug\net5.0\P05.PrintPartOfASCIITable.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P05.PrintPartOfASCIITable\bin\Debug\net5.0\P05.PrintPartOfASCIITable.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P05.PrintPartOfASCIITable\bin\Debug\net5.0\P05.PrintPartOfASCIITable.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P05.PrintPartOfASCIITable\bin\Debug\net5.0\P05.PrintPartOfASCIITable.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P05.PrintPartOfASCIITable\bin\Debug\net5.0\ref\P05.PrintPartOfASCIITable.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P05.PrintPartOfASCIITable\bin\Debug\net5.0\P05.PrintPartOfASCIITable.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P05.PrintPartOfASCIITable\obj\Debug\net5.0\P05.PrintPartOfASCIITable.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P05.PrintPartOfASCIITable\obj\Debug\net5.0\P05.PrintPartOfASCIITable.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P05.PrintPartOfASCIITable\obj\Debug\net5.0\P05.PrintPartOfASCIITable.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P05.PrintPartOfASCIITable\obj\Debug\net5.0\P05.PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P05.PrintPartOfASCIITable\obj\Debug\net5.0\P05.PrintPartOfASCIITable.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P05.PrintPartOfASCIITable\obj\Debug\net5.0\ref\P05.PrintPartOfASCIITable.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P05.PrintPartOfASCIITable\obj\Debug\net5.0\P05.PrintPartOfASCIITable.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P05.PrintPartOfASCIITable\obj\Debug\net5.0\P05.PrintPartOfASCIITable.genruntimeconfig.cache

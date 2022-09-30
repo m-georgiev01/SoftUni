@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P06.TriplesOfLatinLetters\bin\Debug\net5.0\P06.TriplesOfLatinLetters.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P06.TriplesOfLatinLetters\bin\Debug\net5.0\P06.TriplesOfLatinLetters.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P06.TriplesOfLatinLetters\bin\Debug\net5.0\P06.TriplesOfLatinLetters.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P06.TriplesOfLatinLetters\bin\Debug\net5.0\P06.TriplesOfLatinLetters.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P06.TriplesOfLatinLetters\bin\Debug\net5.0\P06.TriplesOfLatinLetters.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P06.TriplesOfLatinLetters\bin\Debug\net5.0\ref\P06.TriplesOfLatinLetters.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P06.TriplesOfLatinLetters\bin\Debug\net5.0\P06.TriplesOfLatinLetters.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P06.TriplesOfLatinLetters\obj\Debug\net5.0\P06.TriplesOfLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P06.TriplesOfLatinLetters\obj\Debug\net5.0\P06.TriplesOfLatinLetters.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P06.TriplesOfLatinLetters\obj\Debug\net5.0\P06.TriplesOfLatinLetters.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P06.TriplesOfLatinLetters\obj\Debug\net5.0\P06.TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P06.TriplesOfLatinLetters\obj\Debug\net5.0\P06.TriplesOfLatinLetters.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P06.TriplesOfLatinLetters\obj\Debug\net5.0\ref\P06.TriplesOfLatinLetters.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P06.TriplesOfLatinLetters\obj\Debug\net5.0\P06.TriplesOfLatinLetters.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P06.TriplesOfLatinLetters\obj\Debug\net5.0\P06.TriplesOfLatinLetters.genruntimeconfig.cache

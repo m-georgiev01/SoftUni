@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P04.SumOfChars\bin\Debug\net5.0\P04.SumOfChars.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P04.SumOfChars\bin\Debug\net5.0\P04.SumOfChars.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P04.SumOfChars\bin\Debug\net5.0\P04.SumOfChars.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P04.SumOfChars\bin\Debug\net5.0\P04.SumOfChars.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P04.SumOfChars\bin\Debug\net5.0\P04.SumOfChars.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P04.SumOfChars\bin\Debug\net5.0\ref\P04.SumOfChars.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P04.SumOfChars\bin\Debug\net5.0\P04.SumOfChars.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P04.SumOfChars\obj\Debug\net5.0\P04.SumOfChars.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P04.SumOfChars\obj\Debug\net5.0\P04.SumOfChars.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P04.SumOfChars\obj\Debug\net5.0\P04.SumOfChars.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P04.SumOfChars\obj\Debug\net5.0\P04.SumOfChars.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P04.SumOfChars\obj\Debug\net5.0\P04.SumOfChars.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P04.SumOfChars\obj\Debug\net5.0\P04.SumOfChars.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P04.SumOfChars\obj\Debug\net5.0\ref\P04.SumOfChars.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P04.SumOfChars\obj\Debug\net5.0\P04.SumOfChars.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P04.SumOfChars\obj\Debug\net5.0\P04.SumOfChars.genruntimeconfig.cache

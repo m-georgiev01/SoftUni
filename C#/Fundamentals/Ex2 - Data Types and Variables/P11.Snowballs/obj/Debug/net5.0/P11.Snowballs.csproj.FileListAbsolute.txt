@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P11.Snowballs\bin\Debug\net5.0\P11.Snowballs.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P11.Snowballs\bin\Debug\net5.0\P11.Snowballs.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P11.Snowballs\bin\Debug\net5.0\P11.Snowballs.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P11.Snowballs\bin\Debug\net5.0\P11.Snowballs.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P11.Snowballs\bin\Debug\net5.0\P11.Snowballs.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P11.Snowballs\bin\Debug\net5.0\ref\P11.Snowballs.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P11.Snowballs\bin\Debug\net5.0\P11.Snowballs.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P11.Snowballs\obj\Debug\net5.0\P11.Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P11.Snowballs\obj\Debug\net5.0\P11.Snowballs.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P11.Snowballs\obj\Debug\net5.0\P11.Snowballs.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P11.Snowballs\obj\Debug\net5.0\P11.Snowballs.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P11.Snowballs\obj\Debug\net5.0\P11.Snowballs.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P11.Snowballs\obj\Debug\net5.0\ref\P11.Snowballs.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P11.Snowballs\obj\Debug\net5.0\P11.Snowballs.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P11.Snowballs\obj\Debug\net5.0\P11.Snowballs.genruntimeconfig.cache

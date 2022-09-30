@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P08.BeerKegs\bin\Debug\net5.0\P08.BeerKegs.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P08.BeerKegs\bin\Debug\net5.0\P08.BeerKegs.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P08.BeerKegs\bin\Debug\net5.0\P08.BeerKegs.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P08.BeerKegs\bin\Debug\net5.0\P08.BeerKegs.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P08.BeerKegs\bin\Debug\net5.0\P08.BeerKegs.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P08.BeerKegs\bin\Debug\net5.0\ref\P08.BeerKegs.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P08.BeerKegs\bin\Debug\net5.0\P08.BeerKegs.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P08.BeerKegs\obj\Debug\net5.0\P08.BeerKegs.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P08.BeerKegs\obj\Debug\net5.0\P08.BeerKegs.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P08.BeerKegs\obj\Debug\net5.0\P08.BeerKegs.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P08.BeerKegs\obj\Debug\net5.0\P08.BeerKegs.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P08.BeerKegs\obj\Debug\net5.0\P08.BeerKegs.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P08.BeerKegs\obj\Debug\net5.0\ref\P08.BeerKegs.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P08.BeerKegs\obj\Debug\net5.0\P08.BeerKegs.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P08.BeerKegs\obj\Debug\net5.0\P08.BeerKegs.genruntimeconfig.cache

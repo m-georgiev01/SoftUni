@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P03.Elevator\bin\Debug\net5.0\P03.Elevator.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P03.Elevator\bin\Debug\net5.0\P03.Elevator.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P03.Elevator\bin\Debug\net5.0\P03.Elevator.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P03.Elevator\bin\Debug\net5.0\P03.Elevator.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P03.Elevator\bin\Debug\net5.0\P03.Elevator.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P03.Elevator\bin\Debug\net5.0\ref\P03.Elevator.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P03.Elevator\bin\Debug\net5.0\P03.Elevator.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P03.Elevator\obj\Debug\net5.0\P03.Elevator.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P03.Elevator\obj\Debug\net5.0\P03.Elevator.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P03.Elevator\obj\Debug\net5.0\P03.Elevator.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P03.Elevator\obj\Debug\net5.0\P03.Elevator.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P03.Elevator\obj\Debug\net5.0\P03.Elevator.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P03.Elevator\obj\Debug\net5.0\P03.Elevator.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P03.Elevator\obj\Debug\net5.0\ref\P03.Elevator.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P03.Elevator\obj\Debug\net5.0\P03.Elevator.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P03.Elevator\obj\Debug\net5.0\P03.Elevator.genruntimeconfig.cache

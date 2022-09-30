@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P02.SumDigits\bin\Debug\net5.0\P02.SumDigits.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P02.SumDigits\bin\Debug\net5.0\P02.SumDigits.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P02.SumDigits\bin\Debug\net5.0\P02.SumDigits.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P02.SumDigits\bin\Debug\net5.0\P02.SumDigits.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P02.SumDigits\bin\Debug\net5.0\P02.SumDigits.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P02.SumDigits\bin\Debug\net5.0\ref\P02.SumDigits.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P02.SumDigits\bin\Debug\net5.0\P02.SumDigits.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P02.SumDigits\obj\Debug\net5.0\P02.SumDigits.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P02.SumDigits\obj\Debug\net5.0\P02.SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P02.SumDigits\obj\Debug\net5.0\P02.SumDigits.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P02.SumDigits\obj\Debug\net5.0\P02.SumDigits.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P02.SumDigits\obj\Debug\net5.0\P02.SumDigits.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P02.SumDigits\obj\Debug\net5.0\P02.SumDigits.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P02.SumDigits\obj\Debug\net5.0\ref\P02.SumDigits.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P02.SumDigits\obj\Debug\net5.0\P02.SumDigits.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex2 - Data Types and Variables\P02.SumDigits\obj\Debug\net5.0\P02.SumDigits.genruntimeconfig.cache
