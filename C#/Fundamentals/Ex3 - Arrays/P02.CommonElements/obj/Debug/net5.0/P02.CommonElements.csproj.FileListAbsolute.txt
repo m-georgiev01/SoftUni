@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P02.CommonElements\bin\Debug\net5.0\P02.CommonElements.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P02.CommonElements\bin\Debug\net5.0\P02.CommonElements.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P02.CommonElements\bin\Debug\net5.0\P02.CommonElements.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P02.CommonElements\bin\Debug\net5.0\P02.CommonElements.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P02.CommonElements\bin\Debug\net5.0\P02.CommonElements.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P02.CommonElements\bin\Debug\net5.0\ref\P02.CommonElements.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P02.CommonElements\bin\Debug\net5.0\P02.CommonElements.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P02.CommonElements\obj\Debug\net5.0\P02.CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P02.CommonElements\obj\Debug\net5.0\P02.CommonElements.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P02.CommonElements\obj\Debug\net5.0\P02.CommonElements.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P02.CommonElements\obj\Debug\net5.0\P02.CommonElements.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P02.CommonElements\obj\Debug\net5.0\P02.CommonElements.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P02.CommonElements\obj\Debug\net5.0\ref\P02.CommonElements.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P02.CommonElements\obj\Debug\net5.0\P02.CommonElements.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P02.CommonElements\obj\Debug\net5.0\P02.CommonElements.genruntimeconfig.cache

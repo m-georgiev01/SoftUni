@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P07.MaxSequenceOfEqualElements\bin\Debug\net5.0\P07.MaxSequenceOfEqualElements.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P07.MaxSequenceOfEqualElements\bin\Debug\net5.0\P07.MaxSequenceOfEqualElements.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P07.MaxSequenceOfEqualElements\bin\Debug\net5.0\P07.MaxSequenceOfEqualElements.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P07.MaxSequenceOfEqualElements\bin\Debug\net5.0\P07.MaxSequenceOfEqualElements.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P07.MaxSequenceOfEqualElements\bin\Debug\net5.0\P07.MaxSequenceOfEqualElements.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P07.MaxSequenceOfEqualElements\bin\Debug\net5.0\ref\P07.MaxSequenceOfEqualElements.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P07.MaxSequenceOfEqualElements\bin\Debug\net5.0\P07.MaxSequenceOfEqualElements.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P07.MaxSequenceOfEqualElements\obj\Debug\net5.0\P07.MaxSequenceOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P07.MaxSequenceOfEqualElements\obj\Debug\net5.0\P07.MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P07.MaxSequenceOfEqualElements\obj\Debug\net5.0\P07.MaxSequenceOfEqualElements.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P07.MaxSequenceOfEqualElements\obj\Debug\net5.0\P07.MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P07.MaxSequenceOfEqualElements\obj\Debug\net5.0\P07.MaxSequenceOfEqualElements.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P07.MaxSequenceOfEqualElements\obj\Debug\net5.0\ref\P07.MaxSequenceOfEqualElements.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P07.MaxSequenceOfEqualElements\obj\Debug\net5.0\P07.MaxSequenceOfEqualElements.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P07.MaxSequenceOfEqualElements\obj\Debug\net5.0\P07.MaxSequenceOfEqualElements.genruntimeconfig.cache

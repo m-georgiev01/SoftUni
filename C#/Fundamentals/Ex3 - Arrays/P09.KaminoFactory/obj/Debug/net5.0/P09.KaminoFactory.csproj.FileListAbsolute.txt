@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P09.KaminoFactory\bin\Debug\net5.0\P09.KaminoFactory.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P09.KaminoFactory\bin\Debug\net5.0\P09.KaminoFactory.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P09.KaminoFactory\bin\Debug\net5.0\P09.KaminoFactory.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P09.KaminoFactory\bin\Debug\net5.0\P09.KaminoFactory.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P09.KaminoFactory\bin\Debug\net5.0\P09.KaminoFactory.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P09.KaminoFactory\bin\Debug\net5.0\ref\P09.KaminoFactory.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P09.KaminoFactory\bin\Debug\net5.0\P09.KaminoFactory.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P09.KaminoFactory\obj\Debug\net5.0\P09.KaminoFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P09.KaminoFactory\obj\Debug\net5.0\P09.KaminoFactory.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P09.KaminoFactory\obj\Debug\net5.0\P09.KaminoFactory.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P09.KaminoFactory\obj\Debug\net5.0\P09.KaminoFactory.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P09.KaminoFactory\obj\Debug\net5.0\P09.KaminoFactory.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P09.KaminoFactory\obj\Debug\net5.0\ref\P09.KaminoFactory.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P09.KaminoFactory\obj\Debug\net5.0\P09.KaminoFactory.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P09.KaminoFactory\obj\Debug\net5.0\P09.KaminoFactory.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P09.KaminoFactory\obj\Debug\net5.0\P09.KaminoFactory.csproj.AssemblyReference.cache

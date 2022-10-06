@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P03.ZigZagArrays\bin\Debug\net5.0\P03.ZigZagArrays.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P03.ZigZagArrays\bin\Debug\net5.0\P03.ZigZagArrays.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P03.ZigZagArrays\bin\Debug\net5.0\P03.ZigZagArrays.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P03.ZigZagArrays\bin\Debug\net5.0\P03.ZigZagArrays.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P03.ZigZagArrays\bin\Debug\net5.0\P03.ZigZagArrays.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P03.ZigZagArrays\bin\Debug\net5.0\ref\P03.ZigZagArrays.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P03.ZigZagArrays\bin\Debug\net5.0\P03.ZigZagArrays.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P03.ZigZagArrays\obj\Debug\net5.0\P03.ZigZagArrays.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P03.ZigZagArrays\obj\Debug\net5.0\P03.ZigZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P03.ZigZagArrays\obj\Debug\net5.0\P03.ZigZagArrays.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P03.ZigZagArrays\obj\Debug\net5.0\P03.ZigZagArrays.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P03.ZigZagArrays\obj\Debug\net5.0\P03.ZigZagArrays.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P03.ZigZagArrays\obj\Debug\net5.0\P03.ZigZagArrays.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P03.ZigZagArrays\obj\Debug\net5.0\ref\P03.ZigZagArrays.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P03.ZigZagArrays\obj\Debug\net5.0\P03.ZigZagArrays.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P03.ZigZagArrays\obj\Debug\net5.0\P03.ZigZagArrays.genruntimeconfig.cache

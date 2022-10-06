@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P10.LadyBugs\bin\Debug\net5.0\P10.LadyBugs.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P10.LadyBugs\bin\Debug\net5.0\P10.LadyBugs.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P10.LadyBugs\bin\Debug\net5.0\P10.LadyBugs.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P10.LadyBugs\bin\Debug\net5.0\P10.LadyBugs.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P10.LadyBugs\bin\Debug\net5.0\P10.LadyBugs.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P10.LadyBugs\bin\Debug\net5.0\ref\P10.LadyBugs.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P10.LadyBugs\bin\Debug\net5.0\P10.LadyBugs.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P10.LadyBugs\obj\Debug\net5.0\P10.LadyBugs.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P10.LadyBugs\obj\Debug\net5.0\P10.LadyBugs.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P10.LadyBugs\obj\Debug\net5.0\P10.LadyBugs.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P10.LadyBugs\obj\Debug\net5.0\P10.LadyBugs.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P10.LadyBugs\obj\Debug\net5.0\P10.LadyBugs.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P10.LadyBugs\obj\Debug\net5.0\P10.LadyBugs.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P10.LadyBugs\obj\Debug\net5.0\ref\P10.LadyBugs.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P10.LadyBugs\obj\Debug\net5.0\P10.LadyBugs.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P10.LadyBugs\obj\Debug\net5.0\P10.LadyBugs.genruntimeconfig.cache

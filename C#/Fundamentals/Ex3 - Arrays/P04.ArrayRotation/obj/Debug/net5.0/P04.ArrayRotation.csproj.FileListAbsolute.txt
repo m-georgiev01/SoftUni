@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P04.ArrayRotation\bin\Debug\net5.0\P04.ArrayRotation.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P04.ArrayRotation\bin\Debug\net5.0\P04.ArrayRotation.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P04.ArrayRotation\bin\Debug\net5.0\P04.ArrayRotation.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P04.ArrayRotation\bin\Debug\net5.0\P04.ArrayRotation.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P04.ArrayRotation\bin\Debug\net5.0\P04.ArrayRotation.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P04.ArrayRotation\bin\Debug\net5.0\ref\P04.ArrayRotation.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P04.ArrayRotation\bin\Debug\net5.0\P04.ArrayRotation.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P04.ArrayRotation\obj\Debug\net5.0\P04.ArrayRotation.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P04.ArrayRotation\obj\Debug\net5.0\P04.ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P04.ArrayRotation\obj\Debug\net5.0\P04.ArrayRotation.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P04.ArrayRotation\obj\Debug\net5.0\P04.ArrayRotation.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P04.ArrayRotation\obj\Debug\net5.0\P04.ArrayRotation.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P04.ArrayRotation\obj\Debug\net5.0\P04.ArrayRotation.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P04.ArrayRotation\obj\Debug\net5.0\ref\P04.ArrayRotation.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P04.ArrayRotation\obj\Debug\net5.0\P04.ArrayRotation.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P04.ArrayRotation\obj\Debug\net5.0\P04.ArrayRotation.genruntimeconfig.cache

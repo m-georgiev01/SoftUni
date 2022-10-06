@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P05.TopIntegers\bin\Debug\net5.0\P05.TopIntegers.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P05.TopIntegers\bin\Debug\net5.0\P05.TopIntegers.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P05.TopIntegers\bin\Debug\net5.0\P05.TopIntegers.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P05.TopIntegers\bin\Debug\net5.0\P05.TopIntegers.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P05.TopIntegers\bin\Debug\net5.0\P05.TopIntegers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P05.TopIntegers\bin\Debug\net5.0\ref\P05.TopIntegers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P05.TopIntegers\bin\Debug\net5.0\P05.TopIntegers.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P05.TopIntegers\obj\Debug\net5.0\P05.TopIntegers.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P05.TopIntegers\obj\Debug\net5.0\P05.TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P05.TopIntegers\obj\Debug\net5.0\P05.TopIntegers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P05.TopIntegers\obj\Debug\net5.0\P05.TopIntegers.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P05.TopIntegers\obj\Debug\net5.0\P05.TopIntegers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P05.TopIntegers\obj\Debug\net5.0\P05.TopIntegers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P05.TopIntegers\obj\Debug\net5.0\ref\P05.TopIntegers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P05.TopIntegers\obj\Debug\net5.0\P05.TopIntegers.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P05.TopIntegers\obj\Debug\net5.0\P05.TopIntegers.genruntimeconfig.cache

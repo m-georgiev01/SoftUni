@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P08.MagicSum\bin\Debug\net5.0\P08.MagicSum.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P08.MagicSum\bin\Debug\net5.0\P08.MagicSum.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P08.MagicSum\bin\Debug\net5.0\P08.MagicSum.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P08.MagicSum\bin\Debug\net5.0\P08.MagicSum.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P08.MagicSum\bin\Debug\net5.0\P08.MagicSum.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P08.MagicSum\bin\Debug\net5.0\ref\P08.MagicSum.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P08.MagicSum\bin\Debug\net5.0\P08.MagicSum.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P08.MagicSum\obj\Debug\net5.0\P08.MagicSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P08.MagicSum\obj\Debug\net5.0\P08.MagicSum.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P08.MagicSum\obj\Debug\net5.0\P08.MagicSum.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P08.MagicSum\obj\Debug\net5.0\P08.MagicSum.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P08.MagicSum\obj\Debug\net5.0\P08.MagicSum.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P08.MagicSum\obj\Debug\net5.0\ref\P08.MagicSum.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P08.MagicSum\obj\Debug\net5.0\P08.MagicSum.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex3 - Arrays\P08.MagicSum\obj\Debug\net5.0\P08.MagicSum.genruntimeconfig.cache
