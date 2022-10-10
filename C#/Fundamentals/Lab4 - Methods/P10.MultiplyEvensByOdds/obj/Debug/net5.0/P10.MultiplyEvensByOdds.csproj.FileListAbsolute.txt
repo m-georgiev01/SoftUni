@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P10.MultiplyEvensByOdds\bin\Debug\net5.0\P10.MultiplyEvensByOdds.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P10.MultiplyEvensByOdds\bin\Debug\net5.0\P10.MultiplyEvensByOdds.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P10.MultiplyEvensByOdds\bin\Debug\net5.0\P10.MultiplyEvensByOdds.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P10.MultiplyEvensByOdds\bin\Debug\net5.0\P10.MultiplyEvensByOdds.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P10.MultiplyEvensByOdds\bin\Debug\net5.0\P10.MultiplyEvensByOdds.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P10.MultiplyEvensByOdds\bin\Debug\net5.0\ref\P10.MultiplyEvensByOdds.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P10.MultiplyEvensByOdds\bin\Debug\net5.0\P10.MultiplyEvensByOdds.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P10.MultiplyEvensByOdds\obj\Debug\net5.0\P10.MultiplyEvensByOdds.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P10.MultiplyEvensByOdds\obj\Debug\net5.0\P10.MultiplyEvensByOdds.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P10.MultiplyEvensByOdds\obj\Debug\net5.0\P10.MultiplyEvensByOdds.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P10.MultiplyEvensByOdds\obj\Debug\net5.0\P10.MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P10.MultiplyEvensByOdds\obj\Debug\net5.0\P10.MultiplyEvensByOdds.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P10.MultiplyEvensByOdds\obj\Debug\net5.0\ref\P10.MultiplyEvensByOdds.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P10.MultiplyEvensByOdds\obj\Debug\net5.0\P10.MultiplyEvensByOdds.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P10.MultiplyEvensByOdds\obj\Debug\net5.0\P10.MultiplyEvensByOdds.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P10.MultiplyEvensByOdds\obj\Debug\net5.0\P10.MultiplyEvensByOdds.csproj.AssemblyReference.cache

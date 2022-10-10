@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P08.MathPower\bin\Debug\net5.0\P08.MathPower.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P08.MathPower\bin\Debug\net5.0\P08.MathPower.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P08.MathPower\bin\Debug\net5.0\P08.MathPower.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P08.MathPower\bin\Debug\net5.0\P08.MathPower.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P08.MathPower\bin\Debug\net5.0\P08.MathPower.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P08.MathPower\bin\Debug\net5.0\ref\P08.MathPower.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P08.MathPower\bin\Debug\net5.0\P08.MathPower.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P08.MathPower\obj\Debug\net5.0\P08.MathPower.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P08.MathPower\obj\Debug\net5.0\P08.MathPower.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P08.MathPower\obj\Debug\net5.0\P08.MathPower.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P08.MathPower\obj\Debug\net5.0\P08.MathPower.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P08.MathPower\obj\Debug\net5.0\P08.MathPower.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P08.MathPower\obj\Debug\net5.0\ref\P08.MathPower.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P08.MathPower\obj\Debug\net5.0\P08.MathPower.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P08.MathPower\obj\Debug\net5.0\P08.MathPower.genruntimeconfig.cache

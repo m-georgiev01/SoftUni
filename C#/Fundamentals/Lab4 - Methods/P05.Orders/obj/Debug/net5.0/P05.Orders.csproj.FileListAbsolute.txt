@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P05.Orders\bin\Debug\net5.0\P05.Orders.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P05.Orders\bin\Debug\net5.0\P05.Orders.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P05.Orders\bin\Debug\net5.0\P05.Orders.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P05.Orders\bin\Debug\net5.0\P05.Orders.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P05.Orders\bin\Debug\net5.0\P05.Orders.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P05.Orders\bin\Debug\net5.0\ref\P05.Orders.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P05.Orders\bin\Debug\net5.0\P05.Orders.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P05.Orders\obj\Debug\net5.0\P05.Orders.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P05.Orders\obj\Debug\net5.0\P05.Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P05.Orders\obj\Debug\net5.0\P05.Orders.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P05.Orders\obj\Debug\net5.0\P05.Orders.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P05.Orders\obj\Debug\net5.0\P05.Orders.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P05.Orders\obj\Debug\net5.0\P05.Orders.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P05.Orders\obj\Debug\net5.0\ref\P05.Orders.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P05.Orders\obj\Debug\net5.0\P05.Orders.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P05.Orders\obj\Debug\net5.0\P05.Orders.genruntimeconfig.cache

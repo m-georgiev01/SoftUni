@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P11.MathOperations\bin\Debug\net5.0\P11.MathOperations.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P11.MathOperations\bin\Debug\net5.0\P11.MathOperations.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P11.MathOperations\bin\Debug\net5.0\P11.MathOperations.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P11.MathOperations\bin\Debug\net5.0\P11.MathOperations.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P11.MathOperations\bin\Debug\net5.0\P11.MathOperations.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P11.MathOperations\bin\Debug\net5.0\ref\P11.MathOperations.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P11.MathOperations\bin\Debug\net5.0\P11.MathOperations.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P11.MathOperations\obj\Debug\net5.0\P11.MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P11.MathOperations\obj\Debug\net5.0\P11.MathOperations.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P11.MathOperations\obj\Debug\net5.0\P11.MathOperations.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P11.MathOperations\obj\Debug\net5.0\P11.MathOperations.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P11.MathOperations\obj\Debug\net5.0\P11.MathOperations.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P11.MathOperations\obj\Debug\net5.0\ref\P11.MathOperations.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P11.MathOperations\obj\Debug\net5.0\P11.MathOperations.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P11.MathOperations\obj\Debug\net5.0\P11.MathOperations.genruntimeconfig.cache

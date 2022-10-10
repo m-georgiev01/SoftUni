@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P07.RepeatString\bin\Debug\net5.0\P07.RepeatString.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P07.RepeatString\bin\Debug\net5.0\P07.RepeatString.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P07.RepeatString\bin\Debug\net5.0\P07.RepeatString.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P07.RepeatString\bin\Debug\net5.0\P07.RepeatString.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P07.RepeatString\bin\Debug\net5.0\P07.RepeatString.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P07.RepeatString\bin\Debug\net5.0\ref\P07.RepeatString.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P07.RepeatString\bin\Debug\net5.0\P07.RepeatString.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P07.RepeatString\obj\Debug\net5.0\P07.RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P07.RepeatString\obj\Debug\net5.0\P07.RepeatString.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P07.RepeatString\obj\Debug\net5.0\P07.RepeatString.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P07.RepeatString\obj\Debug\net5.0\P07.RepeatString.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P07.RepeatString\obj\Debug\net5.0\P07.RepeatString.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P07.RepeatString\obj\Debug\net5.0\ref\P07.RepeatString.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P07.RepeatString\obj\Debug\net5.0\P07.RepeatString.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P07.RepeatString\obj\Debug\net5.0\P07.RepeatString.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P09.GreaterOfTwoValues\bin\Debug\net5.0\P09.GreaterOfTwoValues.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P09.GreaterOfTwoValues\bin\Debug\net5.0\P09.GreaterOfTwoValues.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P09.GreaterOfTwoValues\bin\Debug\net5.0\P09.GreaterOfTwoValues.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P09.GreaterOfTwoValues\bin\Debug\net5.0\P09.GreaterOfTwoValues.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P09.GreaterOfTwoValues\bin\Debug\net5.0\P09.GreaterOfTwoValues.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P09.GreaterOfTwoValues\bin\Debug\net5.0\ref\P09.GreaterOfTwoValues.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P09.GreaterOfTwoValues\bin\Debug\net5.0\P09.GreaterOfTwoValues.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P09.GreaterOfTwoValues\obj\Debug\net5.0\P09.GreaterOfTwoValues.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P09.GreaterOfTwoValues\obj\Debug\net5.0\P09.GreaterOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P09.GreaterOfTwoValues\obj\Debug\net5.0\P09.GreaterOfTwoValues.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P09.GreaterOfTwoValues\obj\Debug\net5.0\P09.GreaterOfTwoValues.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P09.GreaterOfTwoValues\obj\Debug\net5.0\P09.GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P09.GreaterOfTwoValues\obj\Debug\net5.0\P09.GreaterOfTwoValues.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P09.GreaterOfTwoValues\obj\Debug\net5.0\ref\P09.GreaterOfTwoValues.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P09.GreaterOfTwoValues\obj\Debug\net5.0\P09.GreaterOfTwoValues.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P09.GreaterOfTwoValues\obj\Debug\net5.0\P09.GreaterOfTwoValues.genruntimeconfig.cache

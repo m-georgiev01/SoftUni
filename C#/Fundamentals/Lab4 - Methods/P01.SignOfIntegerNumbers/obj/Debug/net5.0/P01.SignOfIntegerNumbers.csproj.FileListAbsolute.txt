@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P01.SignOfIntegerNumbers\bin\Debug\net5.0\P01.SignOfIntegerNumbers.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P01.SignOfIntegerNumbers\bin\Debug\net5.0\P01.SignOfIntegerNumbers.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P01.SignOfIntegerNumbers\bin\Debug\net5.0\P01.SignOfIntegerNumbers.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P01.SignOfIntegerNumbers\bin\Debug\net5.0\P01.SignOfIntegerNumbers.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P01.SignOfIntegerNumbers\bin\Debug\net5.0\P01.SignOfIntegerNumbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P01.SignOfIntegerNumbers\bin\Debug\net5.0\ref\P01.SignOfIntegerNumbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P01.SignOfIntegerNumbers\bin\Debug\net5.0\P01.SignOfIntegerNumbers.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P01.SignOfIntegerNumbers\obj\Debug\net5.0\P01.SignOfIntegerNumbers.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P01.SignOfIntegerNumbers\obj\Debug\net5.0\P01.SignOfIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P01.SignOfIntegerNumbers\obj\Debug\net5.0\P01.SignOfIntegerNumbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P01.SignOfIntegerNumbers\obj\Debug\net5.0\P01.SignOfIntegerNumbers.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P01.SignOfIntegerNumbers\obj\Debug\net5.0\P01.SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P01.SignOfIntegerNumbers\obj\Debug\net5.0\P01.SignOfIntegerNumbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P01.SignOfIntegerNumbers\obj\Debug\net5.0\ref\P01.SignOfIntegerNumbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P01.SignOfIntegerNumbers\obj\Debug\net5.0\P01.SignOfIntegerNumbers.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P01.SignOfIntegerNumbers\obj\Debug\net5.0\P01.SignOfIntegerNumbers.genruntimeconfig.cache

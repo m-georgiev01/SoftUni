@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P03.Calculations\bin\Debug\net5.0\P03.Calculations.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P03.Calculations\bin\Debug\net5.0\P03.Calculations.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P03.Calculations\bin\Debug\net5.0\P03.Calculations.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P03.Calculations\bin\Debug\net5.0\P03.Calculations.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P03.Calculations\bin\Debug\net5.0\P03.Calculations.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P03.Calculations\bin\Debug\net5.0\ref\P03.Calculations.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P03.Calculations\bin\Debug\net5.0\P03.Calculations.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P03.Calculations\obj\Debug\net5.0\P03.Calculations.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P03.Calculations\obj\Debug\net5.0\P03.Calculations.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P03.Calculations\obj\Debug\net5.0\P03.Calculations.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P03.Calculations\obj\Debug\net5.0\P03.Calculations.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P03.Calculations\obj\Debug\net5.0\P03.Calculations.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P03.Calculations\obj\Debug\net5.0\P03.Calculations.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P03.Calculations\obj\Debug\net5.0\ref\P03.Calculations.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P03.Calculations\obj\Debug\net5.0\P03.Calculations.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab4 - Methods\P03.Calculations\obj\Debug\net5.0\P03.Calculations.genruntimeconfig.cache
