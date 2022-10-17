@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P04.ListOfProducts\bin\Debug\net5.0\P04.ListOfProducts.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P04.ListOfProducts\bin\Debug\net5.0\P04.ListOfProducts.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P04.ListOfProducts\bin\Debug\net5.0\P04.ListOfProducts.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P04.ListOfProducts\bin\Debug\net5.0\P04.ListOfProducts.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P04.ListOfProducts\bin\Debug\net5.0\P04.ListOfProducts.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P04.ListOfProducts\bin\Debug\net5.0\ref\P04.ListOfProducts.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P04.ListOfProducts\bin\Debug\net5.0\P04.ListOfProducts.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P04.ListOfProducts\obj\Debug\net5.0\P04.ListOfProducts.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P04.ListOfProducts\obj\Debug\net5.0\P04.ListOfProducts.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P04.ListOfProducts\obj\Debug\net5.0\P04.ListOfProducts.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P04.ListOfProducts\obj\Debug\net5.0\P04.ListOfProducts.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P04.ListOfProducts\obj\Debug\net5.0\P04.ListOfProducts.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P04.ListOfProducts\obj\Debug\net5.0\ref\P04.ListOfProducts.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P04.ListOfProducts\obj\Debug\net5.0\P04.ListOfProducts.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P04.ListOfProducts\obj\Debug\net5.0\P04.ListOfProducts.genruntimeconfig.cache

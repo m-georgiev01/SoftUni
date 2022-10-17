@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P05.RemoveNegativesAndReverse\bin\Debug\net5.0\P05.RemoveNegativesAndReverse.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P05.RemoveNegativesAndReverse\bin\Debug\net5.0\P05.RemoveNegativesAndReverse.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P05.RemoveNegativesAndReverse\bin\Debug\net5.0\P05.RemoveNegativesAndReverse.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P05.RemoveNegativesAndReverse\bin\Debug\net5.0\P05.RemoveNegativesAndReverse.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P05.RemoveNegativesAndReverse\bin\Debug\net5.0\P05.RemoveNegativesAndReverse.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P05.RemoveNegativesAndReverse\bin\Debug\net5.0\ref\P05.RemoveNegativesAndReverse.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P05.RemoveNegativesAndReverse\bin\Debug\net5.0\P05.RemoveNegativesAndReverse.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P05.RemoveNegativesAndReverse\obj\Debug\net5.0\P05.RemoveNegativesAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P05.RemoveNegativesAndReverse\obj\Debug\net5.0\P05.RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P05.RemoveNegativesAndReverse\obj\Debug\net5.0\P05.RemoveNegativesAndReverse.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P05.RemoveNegativesAndReverse\obj\Debug\net5.0\P05.RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P05.RemoveNegativesAndReverse\obj\Debug\net5.0\P05.RemoveNegativesAndReverse.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P05.RemoveNegativesAndReverse\obj\Debug\net5.0\ref\P05.RemoveNegativesAndReverse.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P05.RemoveNegativesAndReverse\obj\Debug\net5.0\P05.RemoveNegativesAndReverse.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P05.RemoveNegativesAndReverse\obj\Debug\net5.0\P05.RemoveNegativesAndReverse.genruntimeconfig.cache

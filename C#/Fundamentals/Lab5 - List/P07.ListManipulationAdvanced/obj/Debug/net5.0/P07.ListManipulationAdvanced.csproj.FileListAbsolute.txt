@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P07.ListManipulationAdvanced\bin\Debug\net5.0\P07.ListManipulationAdvanced.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P07.ListManipulationAdvanced\bin\Debug\net5.0\P07.ListManipulationAdvanced.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P07.ListManipulationAdvanced\bin\Debug\net5.0\P07.ListManipulationAdvanced.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P07.ListManipulationAdvanced\bin\Debug\net5.0\P07.ListManipulationAdvanced.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P07.ListManipulationAdvanced\bin\Debug\net5.0\P07.ListManipulationAdvanced.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P07.ListManipulationAdvanced\bin\Debug\net5.0\ref\P07.ListManipulationAdvanced.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P07.ListManipulationAdvanced\bin\Debug\net5.0\P07.ListManipulationAdvanced.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P07.ListManipulationAdvanced\obj\Debug\net5.0\P07.ListManipulationAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P07.ListManipulationAdvanced\obj\Debug\net5.0\P07.ListManipulationAdvanced.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P07.ListManipulationAdvanced\obj\Debug\net5.0\P07.ListManipulationAdvanced.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P07.ListManipulationAdvanced\obj\Debug\net5.0\P07.ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P07.ListManipulationAdvanced\obj\Debug\net5.0\P07.ListManipulationAdvanced.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P07.ListManipulationAdvanced\obj\Debug\net5.0\ref\P07.ListManipulationAdvanced.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P07.ListManipulationAdvanced\obj\Debug\net5.0\P07.ListManipulationAdvanced.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P07.ListManipulationAdvanced\obj\Debug\net5.0\P07.ListManipulationAdvanced.genruntimeconfig.cache

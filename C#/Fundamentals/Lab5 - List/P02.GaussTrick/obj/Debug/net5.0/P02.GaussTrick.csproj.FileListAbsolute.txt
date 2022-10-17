@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P02.GaussTrick\bin\Debug\net5.0\P02.GaussTrick.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P02.GaussTrick\bin\Debug\net5.0\P02.GaussTrick.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P02.GaussTrick\bin\Debug\net5.0\P02.GaussTrick.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P02.GaussTrick\bin\Debug\net5.0\P02.GaussTrick.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P02.GaussTrick\bin\Debug\net5.0\P02.GaussTrick.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P02.GaussTrick\bin\Debug\net5.0\ref\P02.GaussTrick.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P02.GaussTrick\bin\Debug\net5.0\P02.GaussTrick.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P02.GaussTrick\obj\Debug\net5.0\P02.GaussTrick.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P02.GaussTrick\obj\Debug\net5.0\P02.GaussTrick.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P02.GaussTrick\obj\Debug\net5.0\P02.GaussTrick.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P02.GaussTrick\obj\Debug\net5.0\P02.GaussTrick.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P02.GaussTrick\obj\Debug\net5.0\P02.GaussTrick.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P02.GaussTrick\obj\Debug\net5.0\P02.GaussTrick.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P02.GaussTrick\obj\Debug\net5.0\ref\P02.GaussTrick.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P02.GaussTrick\obj\Debug\net5.0\P02.GaussTrick.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P02.GaussTrick\obj\Debug\net5.0\P02.GaussTrick.genruntimeconfig.cache

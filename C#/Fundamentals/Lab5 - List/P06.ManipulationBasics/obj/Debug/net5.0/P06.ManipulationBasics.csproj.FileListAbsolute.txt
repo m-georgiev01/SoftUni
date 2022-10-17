@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P06.ManipulationBasics\bin\Debug\net5.0\P06.ManipulationBasics.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P06.ManipulationBasics\bin\Debug\net5.0\P06.ManipulationBasics.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P06.ManipulationBasics\bin\Debug\net5.0\P06.ManipulationBasics.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P06.ManipulationBasics\bin\Debug\net5.0\P06.ManipulationBasics.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P06.ManipulationBasics\bin\Debug\net5.0\P06.ManipulationBasics.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P06.ManipulationBasics\bin\Debug\net5.0\ref\P06.ManipulationBasics.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P06.ManipulationBasics\bin\Debug\net5.0\P06.ManipulationBasics.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P06.ManipulationBasics\obj\Debug\net5.0\P06.ManipulationBasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P06.ManipulationBasics\obj\Debug\net5.0\P06.ManipulationBasics.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P06.ManipulationBasics\obj\Debug\net5.0\P06.ManipulationBasics.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P06.ManipulationBasics\obj\Debug\net5.0\P06.ManipulationBasics.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P06.ManipulationBasics\obj\Debug\net5.0\P06.ManipulationBasics.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P06.ManipulationBasics\obj\Debug\net5.0\ref\P06.ManipulationBasics.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P06.ManipulationBasics\obj\Debug\net5.0\P06.ManipulationBasics.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab5 - List\P06.ManipulationBasics\obj\Debug\net5.0\P06.ManipulationBasics.genruntimeconfig.cache
