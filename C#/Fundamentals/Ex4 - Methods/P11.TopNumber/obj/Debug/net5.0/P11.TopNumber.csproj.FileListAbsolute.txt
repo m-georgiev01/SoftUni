@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P11.TopNumber\bin\Debug\net5.0\P11.TopNumber.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P11.TopNumber\bin\Debug\net5.0\P11.TopNumber.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P11.TopNumber\bin\Debug\net5.0\P11.TopNumber.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P11.TopNumber\bin\Debug\net5.0\P11.TopNumber.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P11.TopNumber\bin\Debug\net5.0\P11.TopNumber.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P11.TopNumber\bin\Debug\net5.0\ref\P11.TopNumber.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P11.TopNumber\bin\Debug\net5.0\P11.TopNumber.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P11.TopNumber\obj\Debug\net5.0\P11.TopNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P11.TopNumber\obj\Debug\net5.0\P11.TopNumber.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P11.TopNumber\obj\Debug\net5.0\P11.TopNumber.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P11.TopNumber\obj\Debug\net5.0\P11.TopNumber.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P11.TopNumber\obj\Debug\net5.0\P11.TopNumber.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P11.TopNumber\obj\Debug\net5.0\ref\P11.TopNumber.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P11.TopNumber\obj\Debug\net5.0\P11.TopNumber.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P11.TopNumber\obj\Debug\net5.0\P11.TopNumber.genruntimeconfig.cache

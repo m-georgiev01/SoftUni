@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P08.FactorialDivision\bin\Debug\net5.0\P08.FactorialDivision.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P08.FactorialDivision\bin\Debug\net5.0\P08.FactorialDivision.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P08.FactorialDivision\bin\Debug\net5.0\P08.FactorialDivision.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P08.FactorialDivision\bin\Debug\net5.0\P08.FactorialDivision.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P08.FactorialDivision\bin\Debug\net5.0\P08.FactorialDivision.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P08.FactorialDivision\bin\Debug\net5.0\ref\P08.FactorialDivision.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P08.FactorialDivision\bin\Debug\net5.0\P08.FactorialDivision.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P08.FactorialDivision\obj\Debug\net5.0\P08.FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P08.FactorialDivision\obj\Debug\net5.0\P08.FactorialDivision.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P08.FactorialDivision\obj\Debug\net5.0\P08.FactorialDivision.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P08.FactorialDivision\obj\Debug\net5.0\P08.FactorialDivision.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P08.FactorialDivision\obj\Debug\net5.0\P08.FactorialDivision.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P08.FactorialDivision\obj\Debug\net5.0\ref\P08.FactorialDivision.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P08.FactorialDivision\obj\Debug\net5.0\P08.FactorialDivision.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P08.FactorialDivision\obj\Debug\net5.0\P08.FactorialDivision.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P08.FactorialDivision\obj\Debug\net5.0\P08.FactorialDivision.csproj.AssemblyReference.cache

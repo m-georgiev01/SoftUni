@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P01.SmallestOfThreeNumbers\bin\Debug\net5.0\P01.SmallestOfThreeNumbers.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P01.SmallestOfThreeNumbers\bin\Debug\net5.0\P01.SmallestOfThreeNumbers.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P01.SmallestOfThreeNumbers\bin\Debug\net5.0\P01.SmallestOfThreeNumbers.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P01.SmallestOfThreeNumbers\bin\Debug\net5.0\P01.SmallestOfThreeNumbers.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P01.SmallestOfThreeNumbers\bin\Debug\net5.0\P01.SmallestOfThreeNumbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P01.SmallestOfThreeNumbers\bin\Debug\net5.0\ref\P01.SmallestOfThreeNumbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P01.SmallestOfThreeNumbers\bin\Debug\net5.0\P01.SmallestOfThreeNumbers.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P01.SmallestOfThreeNumbers\obj\Debug\net5.0\P01.SmallestOfThreeNumbers.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P01.SmallestOfThreeNumbers\obj\Debug\net5.0\P01.SmallestOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P01.SmallestOfThreeNumbers\obj\Debug\net5.0\P01.SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P01.SmallestOfThreeNumbers\obj\Debug\net5.0\P01.SmallestOfThreeNumbers.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P01.SmallestOfThreeNumbers\obj\Debug\net5.0\P01.SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P01.SmallestOfThreeNumbers\obj\Debug\net5.0\P01.SmallestOfThreeNumbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P01.SmallestOfThreeNumbers\obj\Debug\net5.0\ref\P01.SmallestOfThreeNumbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P01.SmallestOfThreeNumbers\obj\Debug\net5.0\P01.SmallestOfThreeNumbers.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P01.SmallestOfThreeNumbers\obj\Debug\net5.0\P01.SmallestOfThreeNumbers.genruntimeconfig.cache

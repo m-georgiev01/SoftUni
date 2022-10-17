@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P10.PalindromeIntegers\bin\Debug\net5.0\P10.PalindromeIntegers.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P10.PalindromeIntegers\bin\Debug\net5.0\P10.PalindromeIntegers.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P10.PalindromeIntegers\bin\Debug\net5.0\P10.PalindromeIntegers.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P10.PalindromeIntegers\bin\Debug\net5.0\P10.PalindromeIntegers.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P10.PalindromeIntegers\bin\Debug\net5.0\P10.PalindromeIntegers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P10.PalindromeIntegers\bin\Debug\net5.0\ref\P10.PalindromeIntegers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P10.PalindromeIntegers\bin\Debug\net5.0\P10.PalindromeIntegers.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P10.PalindromeIntegers\obj\Debug\net5.0\P10.PalindromeIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P10.PalindromeIntegers\obj\Debug\net5.0\P10.PalindromeIntegers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P10.PalindromeIntegers\obj\Debug\net5.0\P10.PalindromeIntegers.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P10.PalindromeIntegers\obj\Debug\net5.0\P10.PalindromeIntegers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P10.PalindromeIntegers\obj\Debug\net5.0\P10.PalindromeIntegers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P10.PalindromeIntegers\obj\Debug\net5.0\ref\P10.PalindromeIntegers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P10.PalindromeIntegers\obj\Debug\net5.0\P10.PalindromeIntegers.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P10.PalindromeIntegers\obj\Debug\net5.0\P10.PalindromeIntegers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P02.VowelsCount\bin\Debug\net5.0\P02.VowelsCount.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P02.VowelsCount\bin\Debug\net5.0\P02.VowelsCount.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P02.VowelsCount\bin\Debug\net5.0\P02.VowelsCount.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P02.VowelsCount\bin\Debug\net5.0\P02.VowelsCount.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P02.VowelsCount\bin\Debug\net5.0\P02.VowelsCount.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P02.VowelsCount\bin\Debug\net5.0\ref\P02.VowelsCount.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P02.VowelsCount\bin\Debug\net5.0\P02.VowelsCount.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P02.VowelsCount\obj\Debug\net5.0\P02.VowelsCount.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P02.VowelsCount\obj\Debug\net5.0\P02.VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P02.VowelsCount\obj\Debug\net5.0\P02.VowelsCount.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P02.VowelsCount\obj\Debug\net5.0\P02.VowelsCount.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P02.VowelsCount\obj\Debug\net5.0\P02.VowelsCount.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P02.VowelsCount\obj\Debug\net5.0\P02.VowelsCount.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P02.VowelsCount\obj\Debug\net5.0\ref\P02.VowelsCount.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P02.VowelsCount\obj\Debug\net5.0\P02.VowelsCount.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P02.VowelsCount\obj\Debug\net5.0\P02.VowelsCount.genruntimeconfig.cache

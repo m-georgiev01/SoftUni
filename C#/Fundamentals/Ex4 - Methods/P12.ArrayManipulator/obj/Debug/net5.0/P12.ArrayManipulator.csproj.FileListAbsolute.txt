@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P12.ArrayManipulator\bin\Debug\net5.0\P12.ArrayManipulator.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P12.ArrayManipulator\bin\Debug\net5.0\P12.ArrayManipulator.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P12.ArrayManipulator\bin\Debug\net5.0\P12.ArrayManipulator.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P12.ArrayManipulator\bin\Debug\net5.0\P12.ArrayManipulator.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P12.ArrayManipulator\bin\Debug\net5.0\P12.ArrayManipulator.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P12.ArrayManipulator\bin\Debug\net5.0\ref\P12.ArrayManipulator.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P12.ArrayManipulator\bin\Debug\net5.0\P12.ArrayManipulator.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P12.ArrayManipulator\obj\Debug\net5.0\P12.ArrayManipulator.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P12.ArrayManipulator\obj\Debug\net5.0\P12.ArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P12.ArrayManipulator\obj\Debug\net5.0\P12.ArrayManipulator.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P12.ArrayManipulator\obj\Debug\net5.0\P12.ArrayManipulator.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P12.ArrayManipulator\obj\Debug\net5.0\P12.ArrayManipulator.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P12.ArrayManipulator\obj\Debug\net5.0\P12.ArrayManipulator.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P12.ArrayManipulator\obj\Debug\net5.0\ref\P12.ArrayManipulator.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P12.ArrayManipulator\obj\Debug\net5.0\P12.ArrayManipulator.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P12.ArrayManipulator\obj\Debug\net5.0\P12.ArrayManipulator.genruntimeconfig.cache

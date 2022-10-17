@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P07.NxNMatrix\bin\Debug\net5.0\P07.NxNMatrix.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P07.NxNMatrix\bin\Debug\net5.0\P07.NxNMatrix.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P07.NxNMatrix\bin\Debug\net5.0\P07.NxNMatrix.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P07.NxNMatrix\bin\Debug\net5.0\P07.NxNMatrix.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P07.NxNMatrix\bin\Debug\net5.0\P07.NxNMatrix.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P07.NxNMatrix\bin\Debug\net5.0\ref\P07.NxNMatrix.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P07.NxNMatrix\bin\Debug\net5.0\P07.NxNMatrix.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P07.NxNMatrix\obj\Debug\net5.0\P07.NxNMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P07.NxNMatrix\obj\Debug\net5.0\P07.NxNMatrix.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P07.NxNMatrix\obj\Debug\net5.0\P07.NxNMatrix.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P07.NxNMatrix\obj\Debug\net5.0\P07.NxNMatrix.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P07.NxNMatrix\obj\Debug\net5.0\P07.NxNMatrix.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P07.NxNMatrix\obj\Debug\net5.0\ref\P07.NxNMatrix.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P07.NxNMatrix\obj\Debug\net5.0\P07.NxNMatrix.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P07.NxNMatrix\obj\Debug\net5.0\P07.NxNMatrix.genruntimeconfig.cache

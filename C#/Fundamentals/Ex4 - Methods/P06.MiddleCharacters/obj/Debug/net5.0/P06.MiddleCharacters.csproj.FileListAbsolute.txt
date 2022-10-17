@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P06.MiddleCharacters\bin\Debug\net5.0\P06.MiddleCharacters.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P06.MiddleCharacters\bin\Debug\net5.0\P06.MiddleCharacters.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P06.MiddleCharacters\bin\Debug\net5.0\P06.MiddleCharacters.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P06.MiddleCharacters\bin\Debug\net5.0\P06.MiddleCharacters.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P06.MiddleCharacters\bin\Debug\net5.0\P06.MiddleCharacters.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P06.MiddleCharacters\bin\Debug\net5.0\ref\P06.MiddleCharacters.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P06.MiddleCharacters\bin\Debug\net5.0\P06.MiddleCharacters.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P06.MiddleCharacters\obj\Debug\net5.0\P06.MiddleCharacters.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P06.MiddleCharacters\obj\Debug\net5.0\P06.MiddleCharacters.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P06.MiddleCharacters\obj\Debug\net5.0\P06.MiddleCharacters.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P06.MiddleCharacters\obj\Debug\net5.0\P06.MiddleCharacters.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P06.MiddleCharacters\obj\Debug\net5.0\P06.MiddleCharacters.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P06.MiddleCharacters\obj\Debug\net5.0\ref\P06.MiddleCharacters.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P06.MiddleCharacters\obj\Debug\net5.0\P06.MiddleCharacters.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex4 - Methods\P06.MiddleCharacters\obj\Debug\net5.0\P06.MiddleCharacters.genruntimeconfig.cache
