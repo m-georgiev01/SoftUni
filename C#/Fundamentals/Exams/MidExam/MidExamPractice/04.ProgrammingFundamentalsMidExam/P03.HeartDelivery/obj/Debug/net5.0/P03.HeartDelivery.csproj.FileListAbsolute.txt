@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P03.HeartDelivery\bin\Debug\net5.0\P03.HeartDelivery.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P03.HeartDelivery\bin\Debug\net5.0\P03.HeartDelivery.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P03.HeartDelivery\bin\Debug\net5.0\P03.HeartDelivery.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P03.HeartDelivery\bin\Debug\net5.0\P03.HeartDelivery.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P03.HeartDelivery\bin\Debug\net5.0\P03.HeartDelivery.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P03.HeartDelivery\bin\Debug\net5.0\ref\P03.HeartDelivery.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P03.HeartDelivery\bin\Debug\net5.0\P03.HeartDelivery.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P03.HeartDelivery\obj\Debug\net5.0\P03.HeartDelivery.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P03.HeartDelivery\obj\Debug\net5.0\P03.HeartDelivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P03.HeartDelivery\obj\Debug\net5.0\P03.HeartDelivery.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P03.HeartDelivery\obj\Debug\net5.0\P03.HeartDelivery.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P03.HeartDelivery\obj\Debug\net5.0\P03.HeartDelivery.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P03.HeartDelivery\obj\Debug\net5.0\P03.HeartDelivery.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P03.HeartDelivery\obj\Debug\net5.0\ref\P03.HeartDelivery.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P03.HeartDelivery\obj\Debug\net5.0\P03.HeartDelivery.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P03.HeartDelivery\obj\Debug\net5.0\P03.HeartDelivery.genruntimeconfig.cache

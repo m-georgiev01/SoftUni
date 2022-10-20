@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P02.ShoppingList\obj\Debug\net5.0\P02.ShoppingList.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P02.ShoppingList\obj\Debug\net5.0\P02.ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P02.ShoppingList\obj\Debug\net5.0\P02.ShoppingList.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P02.ShoppingList\obj\Debug\net5.0\P02.ShoppingList.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P02.ShoppingList\obj\Debug\net5.0\P02.ShoppingList.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P02.ShoppingList\bin\Debug\net5.0\P02.ShoppingList.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P02.ShoppingList\bin\Debug\net5.0\P02.ShoppingList.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P02.ShoppingList\bin\Debug\net5.0\P02.ShoppingList.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P02.ShoppingList\bin\Debug\net5.0\P02.ShoppingList.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P02.ShoppingList\bin\Debug\net5.0\P02.ShoppingList.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P02.ShoppingList\bin\Debug\net5.0\ref\P02.ShoppingList.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P02.ShoppingList\bin\Debug\net5.0\P02.ShoppingList.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P02.ShoppingList\obj\Debug\net5.0\P02.ShoppingList.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P02.ShoppingList\obj\Debug\net5.0\ref\P02.ShoppingList.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P02.ShoppingList\obj\Debug\net5.0\P02.ShoppingList.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P02.ShoppingList\obj\Debug\net5.0\P02.ShoppingList.genruntimeconfig.cache

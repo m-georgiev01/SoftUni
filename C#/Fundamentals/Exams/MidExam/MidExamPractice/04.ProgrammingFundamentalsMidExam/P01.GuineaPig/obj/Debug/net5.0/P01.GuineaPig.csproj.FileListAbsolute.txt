@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P01.GuineaPig\bin\Debug\net5.0\P01.GuineaPig.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P01.GuineaPig\bin\Debug\net5.0\P01.GuineaPig.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P01.GuineaPig\bin\Debug\net5.0\P01.GuineaPig.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P01.GuineaPig\bin\Debug\net5.0\P01.GuineaPig.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P01.GuineaPig\bin\Debug\net5.0\P01.GuineaPig.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P01.GuineaPig\bin\Debug\net5.0\ref\P01.GuineaPig.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P01.GuineaPig\bin\Debug\net5.0\P01.GuineaPig.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P01.GuineaPig\obj\Debug\net5.0\P01.GuineaPig.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P01.GuineaPig\obj\Debug\net5.0\P01.GuineaPig.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P01.GuineaPig\obj\Debug\net5.0\P01.GuineaPig.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P01.GuineaPig\obj\Debug\net5.0\P01.GuineaPig.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P01.GuineaPig\obj\Debug\net5.0\P01.GuineaPig.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P01.GuineaPig\obj\Debug\net5.0\P01.GuineaPig.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P01.GuineaPig\obj\Debug\net5.0\ref\P01.GuineaPig.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P01.GuineaPig\obj\Debug\net5.0\P01.GuineaPig.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\04.ProgrammingFundamentalsMidExam\P01.GuineaPig\obj\Debug\net5.0\P01.GuineaPig.genruntimeconfig.cache
