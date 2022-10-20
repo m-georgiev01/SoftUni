@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P01.Train\bin\Debug\net5.0\P01.Train.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P01.Train\bin\Debug\net5.0\P01.Train.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P01.Train\bin\Debug\net5.0\P01.Train.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P01.Train\bin\Debug\net5.0\P01.Train.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P01.Train\bin\Debug\net5.0\P01.Train.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P01.Train\bin\Debug\net5.0\ref\P01.Train.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P01.Train\bin\Debug\net5.0\P01.Train.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P01.Train\obj\Debug\net5.0\P01.Train.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P01.Train\obj\Debug\net5.0\P01.Train.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P01.Train\obj\Debug\net5.0\P01.Train.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P01.Train\obj\Debug\net5.0\P01.Train.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P01.Train\obj\Debug\net5.0\P01.Train.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P01.Train\obj\Debug\net5.0\P01.Train.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P01.Train\obj\Debug\net5.0\ref\P01.Train.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P01.Train\obj\Debug\net5.0\P01.Train.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P01.Train\obj\Debug\net5.0\P01.Train.genruntimeconfig.cache

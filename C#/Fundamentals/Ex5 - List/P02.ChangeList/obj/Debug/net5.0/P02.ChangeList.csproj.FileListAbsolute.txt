@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P02.ChangeList\obj\Debug\net5.0\P02.ChangeList.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P02.ChangeList\obj\Debug\net5.0\P02.ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P02.ChangeList\obj\Debug\net5.0\P02.ChangeList.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P02.ChangeList\obj\Debug\net5.0\P02.ChangeList.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P02.ChangeList\obj\Debug\net5.0\P02.ChangeList.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P02.ChangeList\bin\Debug\net5.0\P02.ChangeList.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P02.ChangeList\bin\Debug\net5.0\P02.ChangeList.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P02.ChangeList\bin\Debug\net5.0\P02.ChangeList.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P02.ChangeList\bin\Debug\net5.0\P02.ChangeList.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P02.ChangeList\bin\Debug\net5.0\P02.ChangeList.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P02.ChangeList\bin\Debug\net5.0\ref\P02.ChangeList.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P02.ChangeList\bin\Debug\net5.0\P02.ChangeList.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P02.ChangeList\obj\Debug\net5.0\P02.ChangeList.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P02.ChangeList\obj\Debug\net5.0\ref\P02.ChangeList.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P02.ChangeList\obj\Debug\net5.0\P02.ChangeList.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P02.ChangeList\obj\Debug\net5.0\P02.ChangeList.genruntimeconfig.cache

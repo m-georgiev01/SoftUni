@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P08.AnonymousThreat\bin\Debug\net5.0\P08.AnonymousThreat.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P08.AnonymousThreat\bin\Debug\net5.0\P08.AnonymousThreat.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P08.AnonymousThreat\bin\Debug\net5.0\P08.AnonymousThreat.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P08.AnonymousThreat\bin\Debug\net5.0\P08.AnonymousThreat.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P08.AnonymousThreat\bin\Debug\net5.0\P08.AnonymousThreat.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P08.AnonymousThreat\bin\Debug\net5.0\ref\P08.AnonymousThreat.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P08.AnonymousThreat\bin\Debug\net5.0\P08.AnonymousThreat.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P08.AnonymousThreat\obj\Debug\net5.0\P08.AnonymousThreat.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P08.AnonymousThreat\obj\Debug\net5.0\P08.AnonymousThreat.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P08.AnonymousThreat\obj\Debug\net5.0\P08.AnonymousThreat.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P08.AnonymousThreat\obj\Debug\net5.0\P08.AnonymousThreat.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P08.AnonymousThreat\obj\Debug\net5.0\P08.AnonymousThreat.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P08.AnonymousThreat\obj\Debug\net5.0\P08.AnonymousThreat.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P08.AnonymousThreat\obj\Debug\net5.0\ref\P08.AnonymousThreat.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P08.AnonymousThreat\obj\Debug\net5.0\P08.AnonymousThreat.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P08.AnonymousThreat\obj\Debug\net5.0\P08.AnonymousThreat.genruntimeconfig.cache

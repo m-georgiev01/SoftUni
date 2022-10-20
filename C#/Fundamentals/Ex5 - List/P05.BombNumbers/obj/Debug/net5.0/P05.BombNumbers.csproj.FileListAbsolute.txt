@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P05.BombNumbers\bin\Debug\net5.0\P05.BombNumbers.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P05.BombNumbers\bin\Debug\net5.0\P05.BombNumbers.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P05.BombNumbers\bin\Debug\net5.0\P05.BombNumbers.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P05.BombNumbers\bin\Debug\net5.0\P05.BombNumbers.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P05.BombNumbers\bin\Debug\net5.0\P05.BombNumbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P05.BombNumbers\bin\Debug\net5.0\ref\P05.BombNumbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P05.BombNumbers\bin\Debug\net5.0\P05.BombNumbers.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P05.BombNumbers\obj\Debug\net5.0\P05.BombNumbers.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P05.BombNumbers\obj\Debug\net5.0\P05.BombNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P05.BombNumbers\obj\Debug\net5.0\P05.BombNumbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P05.BombNumbers\obj\Debug\net5.0\P05.BombNumbers.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P05.BombNumbers\obj\Debug\net5.0\P05.BombNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P05.BombNumbers\obj\Debug\net5.0\P05.BombNumbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P05.BombNumbers\obj\Debug\net5.0\ref\P05.BombNumbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P05.BombNumbers\obj\Debug\net5.0\P05.BombNumbers.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P05.BombNumbers\obj\Debug\net5.0\P05.BombNumbers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P09.PokemonDontGo\bin\Debug\net5.0\P09.PokemonDontGo.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P09.PokemonDontGo\bin\Debug\net5.0\P09.PokemonDontGo.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P09.PokemonDontGo\bin\Debug\net5.0\P09.PokemonDontGo.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P09.PokemonDontGo\bin\Debug\net5.0\P09.PokemonDontGo.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P09.PokemonDontGo\bin\Debug\net5.0\P09.PokemonDontGo.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P09.PokemonDontGo\bin\Debug\net5.0\ref\P09.PokemonDontGo.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P09.PokemonDontGo\bin\Debug\net5.0\P09.PokemonDontGo.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P09.PokemonDontGo\obj\Debug\net5.0\P09.PokemonDontGo.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P09.PokemonDontGo\obj\Debug\net5.0\P09.PokemonDontGo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P09.PokemonDontGo\obj\Debug\net5.0\P09.PokemonDontGo.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P09.PokemonDontGo\obj\Debug\net5.0\P09.PokemonDontGo.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P09.PokemonDontGo\obj\Debug\net5.0\P09.PokemonDontGo.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P09.PokemonDontGo\obj\Debug\net5.0\P09.PokemonDontGo.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P09.PokemonDontGo\obj\Debug\net5.0\ref\P09.PokemonDontGo.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P09.PokemonDontGo\obj\Debug\net5.0\P09.PokemonDontGo.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P09.PokemonDontGo\obj\Debug\net5.0\P09.PokemonDontGo.genruntimeconfig.cache

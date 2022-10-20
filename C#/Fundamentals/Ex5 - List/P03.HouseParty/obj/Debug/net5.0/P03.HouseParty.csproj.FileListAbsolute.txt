@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P03.HouseParty\bin\Debug\net5.0\P03.HouseParty.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P03.HouseParty\bin\Debug\net5.0\P03.HouseParty.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P03.HouseParty\bin\Debug\net5.0\P03.HouseParty.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P03.HouseParty\bin\Debug\net5.0\P03.HouseParty.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P03.HouseParty\bin\Debug\net5.0\P03.HouseParty.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P03.HouseParty\bin\Debug\net5.0\ref\P03.HouseParty.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P03.HouseParty\bin\Debug\net5.0\P03.HouseParty.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P03.HouseParty\obj\Debug\net5.0\P03.HouseParty.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P03.HouseParty\obj\Debug\net5.0\P03.HouseParty.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P03.HouseParty\obj\Debug\net5.0\P03.HouseParty.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P03.HouseParty\obj\Debug\net5.0\P03.HouseParty.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P03.HouseParty\obj\Debug\net5.0\P03.HouseParty.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P03.HouseParty\obj\Debug\net5.0\P03.HouseParty.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P03.HouseParty\obj\Debug\net5.0\ref\P03.HouseParty.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P03.HouseParty\obj\Debug\net5.0\P03.HouseParty.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P03.HouseParty\obj\Debug\net5.0\P03.HouseParty.genruntimeconfig.cache

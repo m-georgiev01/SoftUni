@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P04.ListOperations\bin\Debug\net5.0\P04.ListOperations.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P04.ListOperations\bin\Debug\net5.0\P04.ListOperations.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P04.ListOperations\bin\Debug\net5.0\P04.ListOperations.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P04.ListOperations\bin\Debug\net5.0\P04.ListOperations.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P04.ListOperations\bin\Debug\net5.0\P04.ListOperations.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P04.ListOperations\bin\Debug\net5.0\ref\P04.ListOperations.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P04.ListOperations\bin\Debug\net5.0\P04.ListOperations.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P04.ListOperations\obj\Debug\net5.0\P04.ListOperations.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P04.ListOperations\obj\Debug\net5.0\P04.ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P04.ListOperations\obj\Debug\net5.0\P04.ListOperations.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P04.ListOperations\obj\Debug\net5.0\P04.ListOperations.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P04.ListOperations\obj\Debug\net5.0\P04.ListOperations.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P04.ListOperations\obj\Debug\net5.0\P04.ListOperations.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P04.ListOperations\obj\Debug\net5.0\ref\P04.ListOperations.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P04.ListOperations\obj\Debug\net5.0\P04.ListOperations.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex5 - List\P04.ListOperations\obj\Debug\net5.0\P04.ListOperations.genruntimeconfig.cache
