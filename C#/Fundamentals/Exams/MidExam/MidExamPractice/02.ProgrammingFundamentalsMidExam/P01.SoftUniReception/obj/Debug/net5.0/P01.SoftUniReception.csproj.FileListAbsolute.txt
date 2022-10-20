@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P01.SoftUniReception\bin\Debug\net5.0\P01.SoftUniReception.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P01.SoftUniReception\bin\Debug\net5.0\P01.SoftUniReception.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P01.SoftUniReception\bin\Debug\net5.0\P01.SoftUniReception.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P01.SoftUniReception\bin\Debug\net5.0\P01.SoftUniReception.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P01.SoftUniReception\bin\Debug\net5.0\P01.SoftUniReception.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P01.SoftUniReception\bin\Debug\net5.0\ref\P01.SoftUniReception.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P01.SoftUniReception\bin\Debug\net5.0\P01.SoftUniReception.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P01.SoftUniReception\obj\Debug\net5.0\P01.SoftUniReception.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P01.SoftUniReception\obj\Debug\net5.0\P01.SoftUniReception.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P01.SoftUniReception\obj\Debug\net5.0\P01.SoftUniReception.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P01.SoftUniReception\obj\Debug\net5.0\P01.SoftUniReception.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P01.SoftUniReception\obj\Debug\net5.0\P01.SoftUniReception.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P01.SoftUniReception\obj\Debug\net5.0\P01.SoftUniReception.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P01.SoftUniReception\obj\Debug\net5.0\ref\P01.SoftUniReception.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P01.SoftUniReception\obj\Debug\net5.0\P01.SoftUniReception.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P01.SoftUniReception\obj\Debug\net5.0\P01.SoftUniReception.genruntimeconfig.cache

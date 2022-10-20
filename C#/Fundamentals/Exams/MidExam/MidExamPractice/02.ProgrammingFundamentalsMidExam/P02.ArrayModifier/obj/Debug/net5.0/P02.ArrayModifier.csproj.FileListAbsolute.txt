@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P02.ArrayModifier\bin\Debug\net5.0\P02.ArrayModifier.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P02.ArrayModifier\bin\Debug\net5.0\P02.ArrayModifier.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P02.ArrayModifier\bin\Debug\net5.0\P02.ArrayModifier.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P02.ArrayModifier\bin\Debug\net5.0\P02.ArrayModifier.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P02.ArrayModifier\bin\Debug\net5.0\P02.ArrayModifier.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P02.ArrayModifier\bin\Debug\net5.0\ref\P02.ArrayModifier.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P02.ArrayModifier\bin\Debug\net5.0\P02.ArrayModifier.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P02.ArrayModifier\obj\Debug\net5.0\P02.ArrayModifier.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P02.ArrayModifier\obj\Debug\net5.0\P02.ArrayModifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P02.ArrayModifier\obj\Debug\net5.0\P02.ArrayModifier.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P02.ArrayModifier\obj\Debug\net5.0\P02.ArrayModifier.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P02.ArrayModifier\obj\Debug\net5.0\P02.ArrayModifier.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P02.ArrayModifier\obj\Debug\net5.0\P02.ArrayModifier.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P02.ArrayModifier\obj\Debug\net5.0\ref\P02.ArrayModifier.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P02.ArrayModifier\obj\Debug\net5.0\P02.ArrayModifier.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P02.ArrayModifier\obj\Debug\net5.0\P02.ArrayModifier.genruntimeconfig.cache

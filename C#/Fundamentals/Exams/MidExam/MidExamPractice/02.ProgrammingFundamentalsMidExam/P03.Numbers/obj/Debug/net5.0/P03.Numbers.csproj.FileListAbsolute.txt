@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P03.Numbers\bin\Debug\net5.0\P03.Numbers.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P03.Numbers\bin\Debug\net5.0\P03.Numbers.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P03.Numbers\bin\Debug\net5.0\P03.Numbers.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P03.Numbers\bin\Debug\net5.0\P03.Numbers.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P03.Numbers\bin\Debug\net5.0\P03.Numbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P03.Numbers\bin\Debug\net5.0\ref\P03.Numbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P03.Numbers\bin\Debug\net5.0\P03.Numbers.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P03.Numbers\obj\Debug\net5.0\P03.Numbers.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P03.Numbers\obj\Debug\net5.0\P03.Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P03.Numbers\obj\Debug\net5.0\P03.Numbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P03.Numbers\obj\Debug\net5.0\P03.Numbers.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P03.Numbers\obj\Debug\net5.0\P03.Numbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P03.Numbers\obj\Debug\net5.0\P03.Numbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P03.Numbers\obj\Debug\net5.0\ref\P03.Numbers.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P03.Numbers\obj\Debug\net5.0\P03.Numbers.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\02.ProgrammingFundamentalsMidExam\P03.Numbers\obj\Debug\net5.0\P03.Numbers.genruntimeconfig.cache
