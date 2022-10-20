@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P03.MemoryGame\bin\Debug\net5.0\P03.MemoryGame.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P03.MemoryGame\bin\Debug\net5.0\P03.MemoryGame.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P03.MemoryGame\bin\Debug\net5.0\P03.MemoryGame.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P03.MemoryGame\bin\Debug\net5.0\P03.MemoryGame.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P03.MemoryGame\bin\Debug\net5.0\P03.MemoryGame.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P03.MemoryGame\bin\Debug\net5.0\ref\P03.MemoryGame.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P03.MemoryGame\bin\Debug\net5.0\P03.MemoryGame.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P03.MemoryGame\obj\Debug\net5.0\P03.MemoryGame.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P03.MemoryGame\obj\Debug\net5.0\P03.MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P03.MemoryGame\obj\Debug\net5.0\P03.MemoryGame.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P03.MemoryGame\obj\Debug\net5.0\P03.MemoryGame.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P03.MemoryGame\obj\Debug\net5.0\P03.MemoryGame.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P03.MemoryGame\obj\Debug\net5.0\P03.MemoryGame.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P03.MemoryGame\obj\Debug\net5.0\ref\P03.MemoryGame.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P03.MemoryGame\obj\Debug\net5.0\P03.MemoryGame.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P03.MemoryGame\obj\Debug\net5.0\P03.MemoryGame.genruntimeconfig.cache

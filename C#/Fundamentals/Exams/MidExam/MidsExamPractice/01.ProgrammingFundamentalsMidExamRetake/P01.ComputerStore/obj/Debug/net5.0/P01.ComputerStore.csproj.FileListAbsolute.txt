@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P01.ComputerStore\bin\Debug\net5.0\P01.ComputerStore.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P01.ComputerStore\bin\Debug\net5.0\P01.ComputerStore.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P01.ComputerStore\bin\Debug\net5.0\P01.ComputerStore.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P01.ComputerStore\bin\Debug\net5.0\P01.ComputerStore.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P01.ComputerStore\bin\Debug\net5.0\P01.ComputerStore.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P01.ComputerStore\bin\Debug\net5.0\ref\P01.ComputerStore.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P01.ComputerStore\bin\Debug\net5.0\P01.ComputerStore.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P01.ComputerStore\obj\Debug\net5.0\P01.ComputerStore.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P01.ComputerStore\obj\Debug\net5.0\P01.ComputerStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P01.ComputerStore\obj\Debug\net5.0\P01.ComputerStore.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P01.ComputerStore\obj\Debug\net5.0\P01.ComputerStore.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P01.ComputerStore\obj\Debug\net5.0\P01.ComputerStore.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P01.ComputerStore\obj\Debug\net5.0\P01.ComputerStore.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P01.ComputerStore\obj\Debug\net5.0\ref\P01.ComputerStore.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P01.ComputerStore\obj\Debug\net5.0\P01.ComputerStore.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P01.ComputerStore\obj\Debug\net5.0\P01.ComputerStore.genruntimeconfig.cache

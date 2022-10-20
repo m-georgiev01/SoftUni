@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P02.TheLift\bin\Debug\net5.0\P02.TheLift.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P02.TheLift\bin\Debug\net5.0\P02.TheLift.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P02.TheLift\bin\Debug\net5.0\P02.TheLift.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P02.TheLift\bin\Debug\net5.0\P02.TheLift.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P02.TheLift\bin\Debug\net5.0\P02.TheLift.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P02.TheLift\bin\Debug\net5.0\ref\P02.TheLift.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P02.TheLift\bin\Debug\net5.0\P02.TheLift.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P02.TheLift\obj\Debug\net5.0\P02.TheLift.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P02.TheLift\obj\Debug\net5.0\P02.TheLift.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P02.TheLift\obj\Debug\net5.0\P02.TheLift.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P02.TheLift\obj\Debug\net5.0\P02.TheLift.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P02.TheLift\obj\Debug\net5.0\P02.TheLift.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P02.TheLift\obj\Debug\net5.0\P02.TheLift.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P02.TheLift\obj\Debug\net5.0\ref\P02.TheLift.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P02.TheLift\obj\Debug\net5.0\P02.TheLift.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidsExamPractise\01.ProgrammingFundamentalsMidExamRetake\P02.TheLift\obj\Debug\net5.0\P02.TheLift.genruntimeconfig.cache
