@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P01.CounterStrike/1.0.0": {
+        "runtime": {
+          "P01.CounterStrike.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P01.CounterStrike/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

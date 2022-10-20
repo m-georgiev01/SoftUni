@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P01.CounterStrike\bin\Debug\net5.0\P01.CounterStrike.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P01.CounterStrike\bin\Debug\net5.0\P01.CounterStrike.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P01.CounterStrike\bin\Debug\net5.0\P01.CounterStrike.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P01.CounterStrike\bin\Debug\net5.0\P01.CounterStrike.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P01.CounterStrike\bin\Debug\net5.0\P01.CounterStrike.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P01.CounterStrike\bin\Debug\net5.0\ref\P01.CounterStrike.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P01.CounterStrike\bin\Debug\net5.0\P01.CounterStrike.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P01.CounterStrike\obj\Debug\net5.0\P01.CounterStrike.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P01.CounterStrike\obj\Debug\net5.0\P01.CounterStrike.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P01.CounterStrike\obj\Debug\net5.0\P01.CounterStrike.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P01.CounterStrike\obj\Debug\net5.0\P01.CounterStrike.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P01.CounterStrike\obj\Debug\net5.0\P01.CounterStrike.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P01.CounterStrike\obj\Debug\net5.0\P01.CounterStrike.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P01.CounterStrike\obj\Debug\net5.0\ref\P01.CounterStrike.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P01.CounterStrike\obj\Debug\net5.0\P01.CounterStrike.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P01.CounterStrike\obj\Debug\net5.0\P01.CounterStrike.genruntimeconfig.cache

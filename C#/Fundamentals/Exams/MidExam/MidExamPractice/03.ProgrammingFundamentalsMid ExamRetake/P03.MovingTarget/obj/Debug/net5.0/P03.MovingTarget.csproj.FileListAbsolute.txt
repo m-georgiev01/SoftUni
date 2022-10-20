@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P03.MovingTarget\bin\Debug\net5.0\P03.MovingTarget.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P03.MovingTarget\bin\Debug\net5.0\P03.MovingTarget.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P03.MovingTarget\bin\Debug\net5.0\P03.MovingTarget.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P03.MovingTarget\bin\Debug\net5.0\P03.MovingTarget.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P03.MovingTarget\bin\Debug\net5.0\P03.MovingTarget.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P03.MovingTarget\bin\Debug\net5.0\ref\P03.MovingTarget.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P03.MovingTarget\bin\Debug\net5.0\P03.MovingTarget.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P03.MovingTarget\obj\Debug\net5.0\P03.MovingTarget.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P03.MovingTarget\obj\Debug\net5.0\P03.MovingTarget.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P03.MovingTarget\obj\Debug\net5.0\P03.MovingTarget.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P03.MovingTarget\obj\Debug\net5.0\P03.MovingTarget.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P03.MovingTarget\obj\Debug\net5.0\P03.MovingTarget.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P03.MovingTarget\obj\Debug\net5.0\P03.MovingTarget.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P03.MovingTarget\obj\Debug\net5.0\ref\P03.MovingTarget.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P03.MovingTarget\obj\Debug\net5.0\P03.MovingTarget.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P03.MovingTarget\obj\Debug\net5.0\P03.MovingTarget.genruntimeconfig.cache

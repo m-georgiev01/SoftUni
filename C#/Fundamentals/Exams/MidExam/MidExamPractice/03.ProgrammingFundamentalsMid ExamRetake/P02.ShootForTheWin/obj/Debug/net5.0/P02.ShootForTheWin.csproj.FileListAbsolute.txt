@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P02.ShootForTheWin\bin\Debug\net5.0\P02.ShootForTheWin.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P02.ShootForTheWin\bin\Debug\net5.0\P02.ShootForTheWin.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P02.ShootForTheWin\bin\Debug\net5.0\P02.ShootForTheWin.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P02.ShootForTheWin\bin\Debug\net5.0\P02.ShootForTheWin.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P02.ShootForTheWin\bin\Debug\net5.0\P02.ShootForTheWin.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P02.ShootForTheWin\bin\Debug\net5.0\ref\P02.ShootForTheWin.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P02.ShootForTheWin\bin\Debug\net5.0\P02.ShootForTheWin.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P02.ShootForTheWin\obj\Debug\net5.0\P02.ShootForTheWin.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P02.ShootForTheWin\obj\Debug\net5.0\P02.ShootForTheWin.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P02.ShootForTheWin\obj\Debug\net5.0\P02.ShootForTheWin.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P02.ShootForTheWin\obj\Debug\net5.0\P02.ShootForTheWin.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P02.ShootForTheWin\obj\Debug\net5.0\P02.ShootForTheWin.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P02.ShootForTheWin\obj\Debug\net5.0\P02.ShootForTheWin.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P02.ShootForTheWin\obj\Debug\net5.0\ref\P02.ShootForTheWin.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P02.ShootForTheWin\obj\Debug\net5.0\P02.ShootForTheWin.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\03.ProgrammingFundamentalsMid ExamRetake\P02.ShootForTheWin\obj\Debug\net5.0\P02.ShootForTheWin.genruntimeconfig.cache
