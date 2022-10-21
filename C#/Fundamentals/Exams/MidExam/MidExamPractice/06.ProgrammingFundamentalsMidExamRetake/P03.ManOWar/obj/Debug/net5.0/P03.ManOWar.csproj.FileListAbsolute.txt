@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P03.ManOWar\bin\Debug\net5.0\P03.ManOWar.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P03.ManOWar\bin\Debug\net5.0\P03.ManOWar.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P03.ManOWar\bin\Debug\net5.0\P03.ManOWar.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P03.ManOWar\bin\Debug\net5.0\P03.ManOWar.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P03.ManOWar\bin\Debug\net5.0\P03.ManOWar.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P03.ManOWar\bin\Debug\net5.0\ref\P03.ManOWar.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P03.ManOWar\bin\Debug\net5.0\P03.ManOWar.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P03.ManOWar\obj\Debug\net5.0\P03.ManOWar.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P03.ManOWar\obj\Debug\net5.0\P03.ManOWar.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P03.ManOWar\obj\Debug\net5.0\P03.ManOWar.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P03.ManOWar\obj\Debug\net5.0\P03.ManOWar.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P03.ManOWar\obj\Debug\net5.0\P03.ManOWar.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P03.ManOWar\obj\Debug\net5.0\P03.ManOWar.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P03.ManOWar\obj\Debug\net5.0\ref\P03.ManOWar.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P03.ManOWar\obj\Debug\net5.0\P03.ManOWar.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P03.ManOWar\obj\Debug\net5.0\P03.ManOWar.genruntimeconfig.cache

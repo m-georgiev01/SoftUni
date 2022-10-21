@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P01.BlackFlag\bin\Debug\net5.0\P01.BlackFlag.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P01.BlackFlag\bin\Debug\net5.0\P01.BlackFlag.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P01.BlackFlag\bin\Debug\net5.0\P01.BlackFlag.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P01.BlackFlag\bin\Debug\net5.0\P01.BlackFlag.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P01.BlackFlag\bin\Debug\net5.0\P01.BlackFlag.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P01.BlackFlag\bin\Debug\net5.0\ref\P01.BlackFlag.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P01.BlackFlag\bin\Debug\net5.0\P01.BlackFlag.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P01.BlackFlag\obj\Debug\net5.0\P01.BlackFlag.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P01.BlackFlag\obj\Debug\net5.0\P01.BlackFlag.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P01.BlackFlag\obj\Debug\net5.0\P01.BlackFlag.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P01.BlackFlag\obj\Debug\net5.0\P01.BlackFlag.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P01.BlackFlag\obj\Debug\net5.0\P01.BlackFlag.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P01.BlackFlag\obj\Debug\net5.0\P01.BlackFlag.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P01.BlackFlag\obj\Debug\net5.0\ref\P01.BlackFlag.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P01.BlackFlag\obj\Debug\net5.0\P01.BlackFlag.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P01.BlackFlag\obj\Debug\net5.0\P01.BlackFlag.genruntimeconfig.cache

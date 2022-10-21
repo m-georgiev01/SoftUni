@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P02.TreasureHunt\bin\Debug\net5.0\P02.TreasureHunt.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P02.TreasureHunt\bin\Debug\net5.0\P02.TreasureHunt.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P02.TreasureHunt\bin\Debug\net5.0\P02.TreasureHunt.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P02.TreasureHunt\bin\Debug\net5.0\P02.TreasureHunt.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P02.TreasureHunt\bin\Debug\net5.0\P02.TreasureHunt.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P02.TreasureHunt\bin\Debug\net5.0\ref\P02.TreasureHunt.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P02.TreasureHunt\bin\Debug\net5.0\P02.TreasureHunt.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P02.TreasureHunt\obj\Debug\net5.0\P02.TreasureHunt.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P02.TreasureHunt\obj\Debug\net5.0\P02.TreasureHunt.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P02.TreasureHunt\obj\Debug\net5.0\P02.TreasureHunt.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P02.TreasureHunt\obj\Debug\net5.0\P02.TreasureHunt.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P02.TreasureHunt\obj\Debug\net5.0\P02.TreasureHunt.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P02.TreasureHunt\obj\Debug\net5.0\P02.TreasureHunt.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P02.TreasureHunt\obj\Debug\net5.0\ref\P02.TreasureHunt.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P02.TreasureHunt\obj\Debug\net5.0\P02.TreasureHunt.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\06.ProgrammingFundamentalsMidExamRetake\P02.TreasureHunt\obj\Debug\net5.0\P02.TreasureHunt.genruntimeconfig.cache
