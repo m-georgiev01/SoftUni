@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P03.Inventory\bin\Debug\net5.0\P03.Inventory.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P03.Inventory\bin\Debug\net5.0\P03.Inventory.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P03.Inventory\bin\Debug\net5.0\P03.Inventory.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P03.Inventory\bin\Debug\net5.0\P03.Inventory.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P03.Inventory\bin\Debug\net5.0\P03.Inventory.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P03.Inventory\bin\Debug\net5.0\ref\P03.Inventory.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P03.Inventory\bin\Debug\net5.0\P03.Inventory.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P03.Inventory\obj\Debug\net5.0\P03.Inventory.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P03.Inventory\obj\Debug\net5.0\P03.Inventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P03.Inventory\obj\Debug\net5.0\P03.Inventory.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P03.Inventory\obj\Debug\net5.0\P03.Inventory.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P03.Inventory\obj\Debug\net5.0\P03.Inventory.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P03.Inventory\obj\Debug\net5.0\P03.Inventory.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P03.Inventory\obj\Debug\net5.0\ref\P03.Inventory.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P03.Inventory\obj\Debug\net5.0\P03.Inventory.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P03.Inventory\obj\Debug\net5.0\P03.Inventory.genruntimeconfig.cache

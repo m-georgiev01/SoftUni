@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P02.MuOnline\bin\Debug\net5.0\P02.MuOnline.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P02.MuOnline\bin\Debug\net5.0\P02.MuOnline.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P02.MuOnline\bin\Debug\net5.0\P02.MuOnline.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P02.MuOnline\bin\Debug\net5.0\P02.MuOnline.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P02.MuOnline\bin\Debug\net5.0\P02.MuOnline.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P02.MuOnline\bin\Debug\net5.0\ref\P02.MuOnline.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P02.MuOnline\bin\Debug\net5.0\P02.MuOnline.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P02.MuOnline\obj\Debug\net5.0\P02.MuOnline.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P02.MuOnline\obj\Debug\net5.0\P02.MuOnline.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P02.MuOnline\obj\Debug\net5.0\P02.MuOnline.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P02.MuOnline\obj\Debug\net5.0\P02.MuOnline.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P02.MuOnline\obj\Debug\net5.0\P02.MuOnline.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P02.MuOnline\obj\Debug\net5.0\P02.MuOnline.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P02.MuOnline\obj\Debug\net5.0\ref\P02.MuOnline.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P02.MuOnline\obj\Debug\net5.0\P02.MuOnline.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P02.MuOnline\obj\Debug\net5.0\P02.MuOnline.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P01.BonusScoringSystem\bin\Debug\net5.0\P01.BonusScoringSystem.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P01.BonusScoringSystem\bin\Debug\net5.0\P01.BonusScoringSystem.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P01.BonusScoringSystem\bin\Debug\net5.0\P01.BonusScoringSystem.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P01.BonusScoringSystem\bin\Debug\net5.0\P01.BonusScoringSystem.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P01.BonusScoringSystem\bin\Debug\net5.0\P01.BonusScoringSystem.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P01.BonusScoringSystem\bin\Debug\net5.0\ref\P01.BonusScoringSystem.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P01.BonusScoringSystem\bin\Debug\net5.0\P01.BonusScoringSystem.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P01.BonusScoringSystem\obj\Debug\net5.0\P01.BonusScoringSystem.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P01.BonusScoringSystem\obj\Debug\net5.0\P01.BonusScoringSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P01.BonusScoringSystem\obj\Debug\net5.0\P01.BonusScoringSystem.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P01.BonusScoringSystem\obj\Debug\net5.0\P01.BonusScoringSystem.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P01.BonusScoringSystem\obj\Debug\net5.0\P01.BonusScoringSystem.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P01.BonusScoringSystem\obj\Debug\net5.0\P01.BonusScoringSystem.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P01.BonusScoringSystem\obj\Debug\net5.0\ref\P01.BonusScoringSystem.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P01.BonusScoringSystem\obj\Debug\net5.0\P01.BonusScoringSystem.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExamPractice\05.ProgrammingFundamentalsMidExam\P01.BonusScoringSystem\obj\Debug\net5.0\P01.BonusScoringSystem.genruntimeconfig.cache
