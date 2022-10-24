@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P03.ChatLogger\bin\Debug\net5.0\P03.ChatLogger.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P03.ChatLogger\bin\Debug\net5.0\P03.ChatLogger.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P03.ChatLogger\bin\Debug\net5.0\P03.ChatLogger.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P03.ChatLogger\bin\Debug\net5.0\P03.ChatLogger.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P03.ChatLogger\bin\Debug\net5.0\P03.ChatLogger.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P03.ChatLogger\bin\Debug\net5.0\ref\P03.ChatLogger.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P03.ChatLogger\bin\Debug\net5.0\P03.ChatLogger.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P03.ChatLogger\obj\Debug\net5.0\P03.ChatLogger.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P03.ChatLogger\obj\Debug\net5.0\P03.ChatLogger.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P03.ChatLogger\obj\Debug\net5.0\P03.ChatLogger.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P03.ChatLogger\obj\Debug\net5.0\P03.ChatLogger.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P03.ChatLogger\obj\Debug\net5.0\P03.ChatLogger.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P03.ChatLogger\obj\Debug\net5.0\P03.ChatLogger.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P03.ChatLogger\obj\Debug\net5.0\ref\P03.ChatLogger.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P03.ChatLogger\obj\Debug\net5.0\P03.ChatLogger.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P03.ChatLogger\obj\Debug\net5.0\P03.ChatLogger.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P02.CoffeeLover\bin\Debug\net5.0\P02.CoffeeLover.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P02.CoffeeLover\bin\Debug\net5.0\P02.CoffeeLover.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P02.CoffeeLover\bin\Debug\net5.0\P02.CoffeeLover.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P02.CoffeeLover\bin\Debug\net5.0\P02.CoffeeLover.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P02.CoffeeLover\bin\Debug\net5.0\P02.CoffeeLover.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P02.CoffeeLover\bin\Debug\net5.0\ref\P02.CoffeeLover.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P02.CoffeeLover\bin\Debug\net5.0\P02.CoffeeLover.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P02.CoffeeLover\obj\Debug\net5.0\P02.CoffeeLover.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P02.CoffeeLover\obj\Debug\net5.0\P02.CoffeeLover.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P02.CoffeeLover\obj\Debug\net5.0\P02.CoffeeLover.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P02.CoffeeLover\obj\Debug\net5.0\P02.CoffeeLover.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P02.CoffeeLover\obj\Debug\net5.0\P02.CoffeeLover.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P02.CoffeeLover\obj\Debug\net5.0\P02.CoffeeLover.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P02.CoffeeLover\obj\Debug\net5.0\ref\P02.CoffeeLover.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P02.CoffeeLover\obj\Debug\net5.0\P02.CoffeeLover.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P02.CoffeeLover\obj\Debug\net5.0\P02.CoffeeLover.genruntimeconfig.cache

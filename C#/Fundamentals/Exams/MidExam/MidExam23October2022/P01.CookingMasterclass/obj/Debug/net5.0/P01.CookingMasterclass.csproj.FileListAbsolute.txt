@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P01.CookingMasterclass\bin\Debug\net5.0\P01.CookingMasterclass.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P01.CookingMasterclass\bin\Debug\net5.0\P01.CookingMasterclass.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P01.CookingMasterclass\bin\Debug\net5.0\P01.CookingMasterclass.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P01.CookingMasterclass\bin\Debug\net5.0\P01.CookingMasterclass.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P01.CookingMasterclass\bin\Debug\net5.0\P01.CookingMasterclass.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P01.CookingMasterclass\bin\Debug\net5.0\ref\P01.CookingMasterclass.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P01.CookingMasterclass\bin\Debug\net5.0\P01.CookingMasterclass.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P01.CookingMasterclass\obj\Debug\net5.0\P01.CookingMasterclass.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P01.CookingMasterclass\obj\Debug\net5.0\P01.CookingMasterclass.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P01.CookingMasterclass\obj\Debug\net5.0\P01.CookingMasterclass.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P01.CookingMasterclass\obj\Debug\net5.0\P01.CookingMasterclass.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P01.CookingMasterclass\obj\Debug\net5.0\P01.CookingMasterclass.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P01.CookingMasterclass\obj\Debug\net5.0\P01.CookingMasterclass.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P01.CookingMasterclass\obj\Debug\net5.0\ref\P01.CookingMasterclass.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P01.CookingMasterclass\obj\Debug\net5.0\P01.CookingMasterclass.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\MidExam\MidExam23October2022\P01.CookingMasterclass\obj\Debug\net5.0\P01.CookingMasterclass.genruntimeconfig.cache
