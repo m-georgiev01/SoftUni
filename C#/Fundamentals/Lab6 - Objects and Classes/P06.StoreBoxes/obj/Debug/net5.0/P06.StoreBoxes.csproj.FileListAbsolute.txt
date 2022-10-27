@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P06.StoreBoxes\bin\Debug\net5.0\P06.StoreBoxes.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P06.StoreBoxes\bin\Debug\net5.0\P06.StoreBoxes.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P06.StoreBoxes\bin\Debug\net5.0\P06.StoreBoxes.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P06.StoreBoxes\bin\Debug\net5.0\P06.StoreBoxes.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P06.StoreBoxes\bin\Debug\net5.0\P06.StoreBoxes.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P06.StoreBoxes\bin\Debug\net5.0\ref\P06.StoreBoxes.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P06.StoreBoxes\bin\Debug\net5.0\P06.StoreBoxes.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P06.StoreBoxes\obj\Debug\net5.0\P06.StoreBoxes.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P06.StoreBoxes\obj\Debug\net5.0\P06.StoreBoxes.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P06.StoreBoxes\obj\Debug\net5.0\P06.StoreBoxes.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P06.StoreBoxes\obj\Debug\net5.0\P06.StoreBoxes.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P06.StoreBoxes\obj\Debug\net5.0\P06.StoreBoxes.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P06.StoreBoxes\obj\Debug\net5.0\ref\P06.StoreBoxes.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P06.StoreBoxes\obj\Debug\net5.0\P06.StoreBoxes.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P06.StoreBoxes\obj\Debug\net5.0\P06.StoreBoxes.genruntimeconfig.cache

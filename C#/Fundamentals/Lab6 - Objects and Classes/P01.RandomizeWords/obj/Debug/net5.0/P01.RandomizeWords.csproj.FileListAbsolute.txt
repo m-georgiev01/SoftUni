@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P01.RandomizeWords\bin\Debug\net5.0\P01.RandomizeWords.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P01.RandomizeWords\bin\Debug\net5.0\P01.RandomizeWords.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P01.RandomizeWords\bin\Debug\net5.0\P01.RandomizeWords.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P01.RandomizeWords\bin\Debug\net5.0\P01.RandomizeWords.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P01.RandomizeWords\bin\Debug\net5.0\P01.RandomizeWords.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P01.RandomizeWords\bin\Debug\net5.0\ref\P01.RandomizeWords.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P01.RandomizeWords\bin\Debug\net5.0\P01.RandomizeWords.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P01.RandomizeWords\obj\Debug\net5.0\P01.RandomizeWords.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P01.RandomizeWords\obj\Debug\net5.0\P01.RandomizeWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P01.RandomizeWords\obj\Debug\net5.0\P01.RandomizeWords.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P01.RandomizeWords\obj\Debug\net5.0\P01.RandomizeWords.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P01.RandomizeWords\obj\Debug\net5.0\P01.RandomizeWords.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P01.RandomizeWords\obj\Debug\net5.0\P01.RandomizeWords.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P01.RandomizeWords\obj\Debug\net5.0\ref\P01.RandomizeWords.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P01.RandomizeWords\obj\Debug\net5.0\P01.RandomizeWords.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P01.RandomizeWords\obj\Debug\net5.0\P01.RandomizeWords.genruntimeconfig.cache

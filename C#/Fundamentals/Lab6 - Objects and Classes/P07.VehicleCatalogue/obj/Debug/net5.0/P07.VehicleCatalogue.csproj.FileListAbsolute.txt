@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P07.VehicleCatalogue\bin\Debug\net5.0\P07.VehicleCatalogue.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P07.VehicleCatalogue\bin\Debug\net5.0\P07.VehicleCatalogue.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P07.VehicleCatalogue\bin\Debug\net5.0\P07.VehicleCatalogue.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P07.VehicleCatalogue\bin\Debug\net5.0\P07.VehicleCatalogue.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P07.VehicleCatalogue\bin\Debug\net5.0\P07.VehicleCatalogue.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P07.VehicleCatalogue\bin\Debug\net5.0\ref\P07.VehicleCatalogue.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P07.VehicleCatalogue\bin\Debug\net5.0\P07.VehicleCatalogue.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P07.VehicleCatalogue\obj\Debug\net5.0\P07.VehicleCatalogue.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P07.VehicleCatalogue\obj\Debug\net5.0\P07.VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P07.VehicleCatalogue\obj\Debug\net5.0\P07.VehicleCatalogue.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P07.VehicleCatalogue\obj\Debug\net5.0\P07.VehicleCatalogue.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P07.VehicleCatalogue\obj\Debug\net5.0\P07.VehicleCatalogue.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P07.VehicleCatalogue\obj\Debug\net5.0\P07.VehicleCatalogue.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P07.VehicleCatalogue\obj\Debug\net5.0\ref\P07.VehicleCatalogue.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P07.VehicleCatalogue\obj\Debug\net5.0\P07.VehicleCatalogue.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab6 - Objects and Classes\P07.VehicleCatalogue\obj\Debug\net5.0\P07.VehicleCatalogue.genruntimeconfig.cache
