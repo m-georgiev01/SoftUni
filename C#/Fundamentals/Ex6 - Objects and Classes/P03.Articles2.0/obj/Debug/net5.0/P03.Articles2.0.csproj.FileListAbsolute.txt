@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P03.Articles2.0\bin\Debug\net5.0\P03.Articles2.0.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P03.Articles2.0\bin\Debug\net5.0\P03.Articles2.0.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P03.Articles2.0\bin\Debug\net5.0\P03.Articles2.0.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P03.Articles2.0\bin\Debug\net5.0\P03.Articles2.0.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P03.Articles2.0\bin\Debug\net5.0\P03.Articles2.0.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P03.Articles2.0\bin\Debug\net5.0\P03.Articles2.0.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P03.Articles2.0\obj\Debug\net5.0\P03.Articles2.0.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P03.Articles2.0\obj\Debug\net5.0\P03.Articles2.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P03.Articles2.0\obj\Debug\net5.0\P03.Articles2.0.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P03.Articles2.0\obj\Debug\net5.0\P03.Articles2.0.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P03.Articles2.0\obj\Debug\net5.0\P03.Articles2.0.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P03.Articles2.0\obj\Debug\net5.0\P03.Articles2.0.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P03.Articles2.0\obj\Debug\net5.0\refint\P03.Articles2.0.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P03.Articles2.0\obj\Debug\net5.0\P03.Articles2.0.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P03.Articles2.0\obj\Debug\net5.0\P03.Articles2.0.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P03.Articles2.0\obj\Debug\net5.0\ref\P03.Articles2.0.dll

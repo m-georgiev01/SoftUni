@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P01.AdvertisementMessage\bin\Debug\net5.0\P01.AdvertisementMessage.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P01.AdvertisementMessage\bin\Debug\net5.0\P01.AdvertisementMessage.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P01.AdvertisementMessage\bin\Debug\net5.0\P01.AdvertisementMessage.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P01.AdvertisementMessage\bin\Debug\net5.0\P01.AdvertisementMessage.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P01.AdvertisementMessage\bin\Debug\net5.0\P01.AdvertisementMessage.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P01.AdvertisementMessage\bin\Debug\net5.0\P01.AdvertisementMessage.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P01.AdvertisementMessage\obj\Debug\net5.0\P01.AdvertisementMessage.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P01.AdvertisementMessage\obj\Debug\net5.0\P01.AdvertisementMessage.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P01.AdvertisementMessage\obj\Debug\net5.0\P01.AdvertisementMessage.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P01.AdvertisementMessage\obj\Debug\net5.0\P01.AdvertisementMessage.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P01.AdvertisementMessage\obj\Debug\net5.0\P01.AdvertisementMessage.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P01.AdvertisementMessage\obj\Debug\net5.0\P01.AdvertisementMessage.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P01.AdvertisementMessage\obj\Debug\net5.0\P01.AdvertisementMessage.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P01.AdvertisementMessage\obj\Debug\net5.0\P01.AdvertisementMessage.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P01.AdvertisementMessage\obj\Debug\net5.0\ref\P01.AdvertisementMessage.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P01.AdvertisementMessage\bin\Debug\net5.0\ref\P01.AdvertisementMessage.dll

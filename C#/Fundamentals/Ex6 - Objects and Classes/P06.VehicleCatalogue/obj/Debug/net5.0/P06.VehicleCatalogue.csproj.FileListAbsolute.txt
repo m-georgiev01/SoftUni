@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P06.VehicleCatalogue\bin\Debug\net5.0\P06.VehicleCatalogue.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P06.VehicleCatalogue\bin\Debug\net5.0\P06.VehicleCatalogue.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P06.VehicleCatalogue\bin\Debug\net5.0\P06.VehicleCatalogue.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P06.VehicleCatalogue\bin\Debug\net5.0\P06.VehicleCatalogue.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P06.VehicleCatalogue\bin\Debug\net5.0\P06.VehicleCatalogue.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P06.VehicleCatalogue\bin\Debug\net5.0\P06.VehicleCatalogue.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P06.VehicleCatalogue\obj\Debug\net5.0\P06.VehicleCatalogue.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P06.VehicleCatalogue\obj\Debug\net5.0\P06.VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P06.VehicleCatalogue\obj\Debug\net5.0\P06.VehicleCatalogue.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P06.VehicleCatalogue\obj\Debug\net5.0\P06.VehicleCatalogue.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P06.VehicleCatalogue\obj\Debug\net5.0\P06.VehicleCatalogue.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P06.VehicleCatalogue\obj\Debug\net5.0\P06.VehicleCatalogue.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P06.VehicleCatalogue\obj\Debug\net5.0\P06.VehicleCatalogue.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P06.VehicleCatalogue\obj\Debug\net5.0\P06.VehicleCatalogue.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P06.VehicleCatalogue\obj\Debug\net5.0\ref\P06.VehicleCatalogue.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P06.VehicleCatalogue\bin\Debug\net5.0\ref\P06.VehicleCatalogue.dll

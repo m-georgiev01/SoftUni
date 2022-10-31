@@ -6,7 +6,7 @@ namespace P01.RandomizeWords
     {
         static void Main(string[] args)
         {
-            string[] words = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
+             string[] words = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
 
             Random rnd = new Random();
 

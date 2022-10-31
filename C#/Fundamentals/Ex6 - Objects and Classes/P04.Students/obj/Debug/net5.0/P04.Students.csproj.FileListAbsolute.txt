@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P04.Students\bin\Debug\net5.0\P04.Students.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P04.Students\bin\Debug\net5.0\P04.Students.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P04.Students\bin\Debug\net5.0\P04.Students.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P04.Students\bin\Debug\net5.0\P04.Students.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P04.Students\bin\Debug\net5.0\P04.Students.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P04.Students\bin\Debug\net5.0\P04.Students.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P04.Students\obj\Debug\net5.0\P04.Students.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P04.Students\obj\Debug\net5.0\P04.Students.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P04.Students\obj\Debug\net5.0\P04.Students.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P04.Students\obj\Debug\net5.0\P04.Students.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P04.Students\obj\Debug\net5.0\P04.Students.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P04.Students\obj\Debug\net5.0\P04.Students.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P04.Students\obj\Debug\net5.0\refint\P04.Students.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P04.Students\obj\Debug\net5.0\P04.Students.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P04.Students\obj\Debug\net5.0\P04.Students.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P04.Students\obj\Debug\net5.0\ref\P04.Students.dll

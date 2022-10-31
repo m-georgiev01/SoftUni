@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P07.OrderByAge\bin\Debug\net5.0\P07.OrderByAge.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P07.OrderByAge\bin\Debug\net5.0\P07.OrderByAge.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P07.OrderByAge\bin\Debug\net5.0\P07.OrderByAge.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P07.OrderByAge\bin\Debug\net5.0\P07.OrderByAge.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P07.OrderByAge\bin\Debug\net5.0\P07.OrderByAge.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P07.OrderByAge\bin\Debug\net5.0\P07.OrderByAge.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P07.OrderByAge\obj\Debug\net5.0\P07.OrderByAge.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P07.OrderByAge\obj\Debug\net5.0\P07.OrderByAge.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P07.OrderByAge\obj\Debug\net5.0\P07.OrderByAge.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P07.OrderByAge\obj\Debug\net5.0\P07.OrderByAge.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P07.OrderByAge\obj\Debug\net5.0\P07.OrderByAge.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P07.OrderByAge\obj\Debug\net5.0\P07.OrderByAge.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P07.OrderByAge\obj\Debug\net5.0\refint\P07.OrderByAge.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P07.OrderByAge\obj\Debug\net5.0\P07.OrderByAge.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P07.OrderByAge\obj\Debug\net5.0\P07.OrderByAge.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Ex6 - Objects and Classes\P07.OrderByAge\obj\Debug\net5.0\ref\P07.OrderByAge.dll
