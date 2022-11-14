@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P02.Repeat Strings\bin\Debug\net5.0\P02.Repeat Strings.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P02.Repeat Strings\bin\Debug\net5.0\P02.Repeat Strings.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P02.Repeat Strings\bin\Debug\net5.0\P02.Repeat Strings.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P02.Repeat Strings\bin\Debug\net5.0\P02.Repeat Strings.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P02.Repeat Strings\bin\Debug\net5.0\P02.Repeat Strings.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P02.Repeat Strings\bin\Debug\net5.0\P02.Repeat Strings.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P02.Repeat Strings\obj\Debug\net5.0\P02.Repeat Strings.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P02.Repeat Strings\obj\Debug\net5.0\P02.Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P02.Repeat Strings\obj\Debug\net5.0\P02.Repeat Strings.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P02.Repeat Strings\obj\Debug\net5.0\P02.Repeat Strings.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P02.Repeat Strings\obj\Debug\net5.0\P02.Repeat Strings.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P02.Repeat Strings\obj\Debug\net5.0\P02.Repeat Strings.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P02.Repeat Strings\obj\Debug\net5.0\refint\P02.Repeat Strings.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P02.Repeat Strings\obj\Debug\net5.0\P02.Repeat Strings.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P02.Repeat Strings\obj\Debug\net5.0\P02.Repeat Strings.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P02.Repeat Strings\obj\Debug\net5.0\ref\P02.Repeat Strings.dll

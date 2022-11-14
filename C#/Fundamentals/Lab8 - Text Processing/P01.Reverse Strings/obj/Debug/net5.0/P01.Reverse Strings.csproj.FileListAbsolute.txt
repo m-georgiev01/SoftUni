@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P01.Reverse Strings\bin\Debug\net5.0\P01.Reverse Strings.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P01.Reverse Strings\bin\Debug\net5.0\P01.Reverse Strings.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P01.Reverse Strings\bin\Debug\net5.0\P01.Reverse Strings.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P01.Reverse Strings\bin\Debug\net5.0\P01.Reverse Strings.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P01.Reverse Strings\bin\Debug\net5.0\P01.Reverse Strings.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P01.Reverse Strings\bin\Debug\net5.0\P01.Reverse Strings.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P01.Reverse Strings\obj\Debug\net5.0\P01.Reverse Strings.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P01.Reverse Strings\obj\Debug\net5.0\P01.Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P01.Reverse Strings\obj\Debug\net5.0\P01.Reverse Strings.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P01.Reverse Strings\obj\Debug\net5.0\P01.Reverse Strings.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P01.Reverse Strings\obj\Debug\net5.0\P01.Reverse Strings.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P01.Reverse Strings\obj\Debug\net5.0\P01.Reverse Strings.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P01.Reverse Strings\obj\Debug\net5.0\refint\P01.Reverse Strings.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P01.Reverse Strings\obj\Debug\net5.0\P01.Reverse Strings.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P01.Reverse Strings\obj\Debug\net5.0\P01.Reverse Strings.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Lab8 - Text Processing\P01.Reverse Strings\obj\Debug\net5.0\ref\P01.Reverse Strings.dll
