@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P01.TheImitationGame\bin\Debug\net5.0\P01.TheImitationGame.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P01.TheImitationGame\bin\Debug\net5.0\P01.TheImitationGame.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P01.TheImitationGame\bin\Debug\net5.0\P01.TheImitationGame.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P01.TheImitationGame\bin\Debug\net5.0\P01.TheImitationGame.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P01.TheImitationGame\bin\Debug\net5.0\P01.TheImitationGame.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P01.TheImitationGame\bin\Debug\net5.0\P01.TheImitationGame.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P01.TheImitationGame\obj\Debug\net5.0\P01.TheImitationGame.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P01.TheImitationGame\obj\Debug\net5.0\P01.TheImitationGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P01.TheImitationGame\obj\Debug\net5.0\P01.TheImitationGame.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P01.TheImitationGame\obj\Debug\net5.0\P01.TheImitationGame.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P01.TheImitationGame\obj\Debug\net5.0\P01.TheImitationGame.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P01.TheImitationGame\obj\Debug\net5.0\P01.TheImitationGame.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P01.TheImitationGame\obj\Debug\net5.0\refint\P01.TheImitationGame.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P01.TheImitationGame\obj\Debug\net5.0\P01.TheImitationGame.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P01.TheImitationGame\obj\Debug\net5.0\P01.TheImitationGame.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P01.TheImitationGame\obj\Debug\net5.0\ref\P01.TheImitationGame.dll

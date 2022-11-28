@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P03.ThePianist\bin\Debug\net5.0\P03.ThePianist.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P03.ThePianist\bin\Debug\net5.0\P03.ThePianist.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P03.ThePianist\bin\Debug\net5.0\P03.ThePianist.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P03.ThePianist\bin\Debug\net5.0\P03.ThePianist.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P03.ThePianist\bin\Debug\net5.0\P03.ThePianist.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P03.ThePianist\bin\Debug\net5.0\P03.ThePianist.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P03.ThePianist\obj\Debug\net5.0\P03.ThePianist.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P03.ThePianist\obj\Debug\net5.0\P03.ThePianist.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P03.ThePianist\obj\Debug\net5.0\P03.ThePianist.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P03.ThePianist\obj\Debug\net5.0\P03.ThePianist.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P03.ThePianist\obj\Debug\net5.0\P03.ThePianist.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P03.ThePianist\obj\Debug\net5.0\P03.ThePianist.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P03.ThePianist\obj\Debug\net5.0\refint\P03.ThePianist.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P03.ThePianist\obj\Debug\net5.0\P03.ThePianist.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P03.ThePianist\obj\Debug\net5.0\P03.ThePianist.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P03.ThePianist\obj\Debug\net5.0\ref\P03.ThePianist.dll

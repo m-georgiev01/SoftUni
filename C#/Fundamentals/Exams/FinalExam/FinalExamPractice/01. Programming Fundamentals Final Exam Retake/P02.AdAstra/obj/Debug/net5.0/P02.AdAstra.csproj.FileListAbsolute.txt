@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P02.AdAstra\bin\Debug\net5.0\P02.AdAstra.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P02.AdAstra\bin\Debug\net5.0\P02.AdAstra.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P02.AdAstra\bin\Debug\net5.0\P02.AdAstra.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P02.AdAstra\bin\Debug\net5.0\P02.AdAstra.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P02.AdAstra\bin\Debug\net5.0\P02.AdAstra.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P02.AdAstra\bin\Debug\net5.0\P02.AdAstra.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P02.AdAstra\obj\Debug\net5.0\P02.AdAstra.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P02.AdAstra\obj\Debug\net5.0\P02.AdAstra.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P02.AdAstra\obj\Debug\net5.0\P02.AdAstra.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P02.AdAstra\obj\Debug\net5.0\P02.AdAstra.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P02.AdAstra\obj\Debug\net5.0\P02.AdAstra.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P02.AdAstra\obj\Debug\net5.0\P02.AdAstra.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P02.AdAstra\obj\Debug\net5.0\refint\P02.AdAstra.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P02.AdAstra\obj\Debug\net5.0\P02.AdAstra.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P02.AdAstra\obj\Debug\net5.0\P02.AdAstra.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\01. Programming Fundamentals Final Exam Retake\P02.AdAstra\obj\Debug\net5.0\ref\P02.AdAstra.dll
