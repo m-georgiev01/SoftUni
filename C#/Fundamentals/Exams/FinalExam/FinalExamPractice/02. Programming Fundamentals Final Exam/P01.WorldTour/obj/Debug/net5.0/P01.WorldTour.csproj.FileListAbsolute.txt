@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P01.WorldTour\bin\Debug\net5.0\P01.WorldTour.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P01.WorldTour\bin\Debug\net5.0\P01.WorldTour.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P01.WorldTour\bin\Debug\net5.0\P01.WorldTour.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P01.WorldTour\bin\Debug\net5.0\P01.WorldTour.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P01.WorldTour\bin\Debug\net5.0\P01.WorldTour.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P01.WorldTour\bin\Debug\net5.0\P01.WorldTour.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P01.WorldTour\obj\Debug\net5.0\P01.WorldTour.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P01.WorldTour\obj\Debug\net5.0\P01.WorldTour.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P01.WorldTour\obj\Debug\net5.0\P01.WorldTour.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P01.WorldTour\obj\Debug\net5.0\P01.WorldTour.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P01.WorldTour\obj\Debug\net5.0\P01.WorldTour.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P01.WorldTour\obj\Debug\net5.0\P01.WorldTour.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P01.WorldTour\obj\Debug\net5.0\refint\P01.WorldTour.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P01.WorldTour\obj\Debug\net5.0\P01.WorldTour.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P01.WorldTour\obj\Debug\net5.0\P01.WorldTour.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P01.WorldTour\obj\Debug\net5.0\ref\P01.WorldTour.dll

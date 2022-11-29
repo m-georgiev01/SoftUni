@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P02.DestinationMapper\bin\Debug\net5.0\P02.DestinationMapper.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P02.DestinationMapper\bin\Debug\net5.0\P02.DestinationMapper.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P02.DestinationMapper\bin\Debug\net5.0\P02.DestinationMapper.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P02.DestinationMapper\bin\Debug\net5.0\P02.DestinationMapper.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P02.DestinationMapper\bin\Debug\net5.0\P02.DestinationMapper.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P02.DestinationMapper\bin\Debug\net5.0\P02.DestinationMapper.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P02.DestinationMapper\obj\Debug\net5.0\P02.DestinationMapper.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P02.DestinationMapper\obj\Debug\net5.0\P02.DestinationMapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P02.DestinationMapper\obj\Debug\net5.0\P02.DestinationMapper.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P02.DestinationMapper\obj\Debug\net5.0\P02.DestinationMapper.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P02.DestinationMapper\obj\Debug\net5.0\P02.DestinationMapper.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P02.DestinationMapper\obj\Debug\net5.0\P02.DestinationMapper.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P02.DestinationMapper\obj\Debug\net5.0\refint\P02.DestinationMapper.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P02.DestinationMapper\obj\Debug\net5.0\P02.DestinationMapper.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P02.DestinationMapper\obj\Debug\net5.0\P02.DestinationMapper.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P02.DestinationMapper\obj\Debug\net5.0\ref\P02.DestinationMapper.dll

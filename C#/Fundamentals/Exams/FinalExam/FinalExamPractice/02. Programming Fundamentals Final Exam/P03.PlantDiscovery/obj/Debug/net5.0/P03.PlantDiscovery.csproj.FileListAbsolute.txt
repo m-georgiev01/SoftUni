@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P03.PlantDiscovery\bin\Debug\net5.0\P03.PlantDiscovery.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P03.PlantDiscovery\bin\Debug\net5.0\P03.PlantDiscovery.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P03.PlantDiscovery\bin\Debug\net5.0\P03.PlantDiscovery.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P03.PlantDiscovery\bin\Debug\net5.0\P03.PlantDiscovery.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P03.PlantDiscovery\bin\Debug\net5.0\P03.PlantDiscovery.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P03.PlantDiscovery\bin\Debug\net5.0\P03.PlantDiscovery.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P03.PlantDiscovery\obj\Debug\net5.0\P03.PlantDiscovery.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P03.PlantDiscovery\obj\Debug\net5.0\P03.PlantDiscovery.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P03.PlantDiscovery\obj\Debug\net5.0\P03.PlantDiscovery.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P03.PlantDiscovery\obj\Debug\net5.0\P03.PlantDiscovery.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P03.PlantDiscovery\obj\Debug\net5.0\P03.PlantDiscovery.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P03.PlantDiscovery\obj\Debug\net5.0\P03.PlantDiscovery.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P03.PlantDiscovery\obj\Debug\net5.0\refint\P03.PlantDiscovery.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P03.PlantDiscovery\obj\Debug\net5.0\P03.PlantDiscovery.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P03.PlantDiscovery\obj\Debug\net5.0\P03.PlantDiscovery.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\02. Programming Fundamentals Final Exam\P03.PlantDiscovery\obj\Debug\net5.0\ref\P03.PlantDiscovery.dll
