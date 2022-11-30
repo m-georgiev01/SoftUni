@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P01.ActivationKeys\bin\Debug\net5.0\P01.ActivationKeys.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P01.ActivationKeys\bin\Debug\net5.0\P01.ActivationKeys.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P01.ActivationKeys\bin\Debug\net5.0\P01.ActivationKeys.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P01.ActivationKeys\bin\Debug\net5.0\P01.ActivationKeys.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P01.ActivationKeys\bin\Debug\net5.0\P01.ActivationKeys.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P01.ActivationKeys\bin\Debug\net5.0\P01.ActivationKeys.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P01.ActivationKeys\obj\Debug\net5.0\P01.ActivationKeys.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P01.ActivationKeys\obj\Debug\net5.0\P01.ActivationKeys.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P01.ActivationKeys\obj\Debug\net5.0\P01.ActivationKeys.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P01.ActivationKeys\obj\Debug\net5.0\P01.ActivationKeys.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P01.ActivationKeys\obj\Debug\net5.0\P01.ActivationKeys.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P01.ActivationKeys\obj\Debug\net5.0\P01.ActivationKeys.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P01.ActivationKeys\obj\Debug\net5.0\refint\P01.ActivationKeys.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P01.ActivationKeys\obj\Debug\net5.0\P01.ActivationKeys.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P01.ActivationKeys\obj\Debug\net5.0\P01.ActivationKeys.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P01.ActivationKeys\obj\Debug\net5.0\ref\P01.ActivationKeys.dll

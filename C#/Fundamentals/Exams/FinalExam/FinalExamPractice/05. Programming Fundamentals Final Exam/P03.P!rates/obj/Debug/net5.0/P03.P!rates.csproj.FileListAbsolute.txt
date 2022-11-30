@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P03.P!rates\bin\Debug\net5.0\P03.P!rates.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P03.P!rates\bin\Debug\net5.0\P03.P!rates.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P03.P!rates\bin\Debug\net5.0\P03.P!rates.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P03.P!rates\bin\Debug\net5.0\P03.P!rates.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P03.P!rates\bin\Debug\net5.0\P03.P!rates.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P03.P!rates\bin\Debug\net5.0\P03.P!rates.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P03.P!rates\obj\Debug\net5.0\P03.P!rates.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P03.P!rates\obj\Debug\net5.0\P03.P!rates.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P03.P!rates\obj\Debug\net5.0\P03.P!rates.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P03.P!rates\obj\Debug\net5.0\P03.P!rates.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P03.P!rates\obj\Debug\net5.0\P03.P!rates.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P03.P!rates\obj\Debug\net5.0\P03.P!rates.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P03.P!rates\obj\Debug\net5.0\refint\P03.P!rates.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P03.P!rates\obj\Debug\net5.0\P03.P!rates.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P03.P!rates\obj\Debug\net5.0\P03.P!rates.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P03.P!rates\obj\Debug\net5.0\ref\P03.P!rates.dll

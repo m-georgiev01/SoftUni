@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P02.EmojiDetector\bin\Debug\net5.0\P02.EmojiDetector.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P02.EmojiDetector\bin\Debug\net5.0\P02.EmojiDetector.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P02.EmojiDetector\bin\Debug\net5.0\P02.EmojiDetector.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P02.EmojiDetector\bin\Debug\net5.0\P02.EmojiDetector.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P02.EmojiDetector\bin\Debug\net5.0\P02.EmojiDetector.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P02.EmojiDetector\bin\Debug\net5.0\P02.EmojiDetector.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P02.EmojiDetector\obj\Debug\net5.0\P02.EmojiDetector.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P02.EmojiDetector\obj\Debug\net5.0\P02.EmojiDetector.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P02.EmojiDetector\obj\Debug\net5.0\P02.EmojiDetector.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P02.EmojiDetector\obj\Debug\net5.0\P02.EmojiDetector.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P02.EmojiDetector\obj\Debug\net5.0\P02.EmojiDetector.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P02.EmojiDetector\obj\Debug\net5.0\P02.EmojiDetector.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P02.EmojiDetector\obj\Debug\net5.0\refint\P02.EmojiDetector.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P02.EmojiDetector\obj\Debug\net5.0\P02.EmojiDetector.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P02.EmojiDetector\obj\Debug\net5.0\P02.EmojiDetector.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\05. Programming Fundamentals Final Exam\P02.EmojiDetector\obj\Debug\net5.0\ref\P02.EmojiDetector.dll
