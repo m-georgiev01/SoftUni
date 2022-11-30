@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P03.NeedForSpeedIII\bin\Debug\net5.0\P03.NeedForSpeedIII.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P03.NeedForSpeedIII\bin\Debug\net5.0\P03.NeedForSpeedIII.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P03.NeedForSpeedIII\bin\Debug\net5.0\P03.NeedForSpeedIII.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P03.NeedForSpeedIII\bin\Debug\net5.0\P03.NeedForSpeedIII.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P03.NeedForSpeedIII\bin\Debug\net5.0\P03.NeedForSpeedIII.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P03.NeedForSpeedIII\bin\Debug\net5.0\P03.NeedForSpeedIII.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P03.NeedForSpeedIII\obj\Debug\net5.0\P03.NeedForSpeedIII.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P03.NeedForSpeedIII\obj\Debug\net5.0\P03.NeedForSpeedIII.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P03.NeedForSpeedIII\obj\Debug\net5.0\P03.NeedForSpeedIII.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P03.NeedForSpeedIII\obj\Debug\net5.0\P03.NeedForSpeedIII.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P03.NeedForSpeedIII\obj\Debug\net5.0\P03.NeedForSpeedIII.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P03.NeedForSpeedIII\obj\Debug\net5.0\P03.NeedForSpeedIII.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P03.NeedForSpeedIII\obj\Debug\net5.0\refint\P03.NeedForSpeedIII.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P03.NeedForSpeedIII\obj\Debug\net5.0\P03.NeedForSpeedIII.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P03.NeedForSpeedIII\obj\Debug\net5.0\P03.NeedForSpeedIII.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P03.NeedForSpeedIII\obj\Debug\net5.0\ref\P03.NeedForSpeedIII.dll

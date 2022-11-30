@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P02.MirrorWords\bin\Debug\net5.0\P02.MirrorWords.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P02.MirrorWords\bin\Debug\net5.0\P02.MirrorWords.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P02.MirrorWords\bin\Debug\net5.0\P02.MirrorWords.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P02.MirrorWords\bin\Debug\net5.0\P02.MirrorWords.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P02.MirrorWords\bin\Debug\net5.0\P02.MirrorWords.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P02.MirrorWords\bin\Debug\net5.0\P02.MirrorWords.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P02.MirrorWords\obj\Debug\net5.0\P02.MirrorWords.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P02.MirrorWords\obj\Debug\net5.0\P02.MirrorWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P02.MirrorWords\obj\Debug\net5.0\P02.MirrorWords.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P02.MirrorWords\obj\Debug\net5.0\P02.MirrorWords.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P02.MirrorWords\obj\Debug\net5.0\P02.MirrorWords.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P02.MirrorWords\obj\Debug\net5.0\P02.MirrorWords.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P02.MirrorWords\obj\Debug\net5.0\refint\P02.MirrorWords.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P02.MirrorWords\obj\Debug\net5.0\P02.MirrorWords.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P02.MirrorWords\obj\Debug\net5.0\P02.MirrorWords.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\03. Programming Fundamentals Final Exam Retake\P02.MirrorWords\obj\Debug\net5.0\ref\P02.MirrorWords.dll
