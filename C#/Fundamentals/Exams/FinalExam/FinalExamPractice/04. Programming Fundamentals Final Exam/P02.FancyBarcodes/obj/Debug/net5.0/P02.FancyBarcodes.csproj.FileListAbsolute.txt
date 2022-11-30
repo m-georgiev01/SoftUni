@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P02.FancyBarcodes\bin\Debug\net5.0\P02.FancyBarcodes.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P02.FancyBarcodes\bin\Debug\net5.0\P02.FancyBarcodes.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P02.FancyBarcodes\bin\Debug\net5.0\P02.FancyBarcodes.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P02.FancyBarcodes\bin\Debug\net5.0\P02.FancyBarcodes.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P02.FancyBarcodes\bin\Debug\net5.0\P02.FancyBarcodes.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P02.FancyBarcodes\bin\Debug\net5.0\P02.FancyBarcodes.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P02.FancyBarcodes\obj\Debug\net5.0\P02.FancyBarcodes.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P02.FancyBarcodes\obj\Debug\net5.0\P02.FancyBarcodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P02.FancyBarcodes\obj\Debug\net5.0\P02.FancyBarcodes.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P02.FancyBarcodes\obj\Debug\net5.0\P02.FancyBarcodes.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P02.FancyBarcodes\obj\Debug\net5.0\P02.FancyBarcodes.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P02.FancyBarcodes\obj\Debug\net5.0\P02.FancyBarcodes.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P02.FancyBarcodes\obj\Debug\net5.0\refint\P02.FancyBarcodes.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P02.FancyBarcodes\obj\Debug\net5.0\P02.FancyBarcodes.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P02.FancyBarcodes\obj\Debug\net5.0\P02.FancyBarcodes.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P02.FancyBarcodes\obj\Debug\net5.0\ref\P02.FancyBarcodes.dll

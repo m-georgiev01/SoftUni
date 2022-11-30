@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P03.HeroesOfCodeAndLogicVII\bin\Debug\net5.0\P03.HeroesOfCodeAndLogicVII.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P03.HeroesOfCodeAndLogicVII\bin\Debug\net5.0\P03.HeroesOfCodeAndLogicVII.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P03.HeroesOfCodeAndLogicVII\bin\Debug\net5.0\P03.HeroesOfCodeAndLogicVII.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P03.HeroesOfCodeAndLogicVII\bin\Debug\net5.0\P03.HeroesOfCodeAndLogicVII.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P03.HeroesOfCodeAndLogicVII\bin\Debug\net5.0\P03.HeroesOfCodeAndLogicVII.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P03.HeroesOfCodeAndLogicVII\bin\Debug\net5.0\P03.HeroesOfCodeAndLogicVII.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P03.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\P03.HeroesOfCodeAndLogicVII.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P03.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\P03.HeroesOfCodeAndLogicVII.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P03.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\P03.HeroesOfCodeAndLogicVII.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P03.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\P03.HeroesOfCodeAndLogicVII.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P03.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\P03.HeroesOfCodeAndLogicVII.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P03.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\P03.HeroesOfCodeAndLogicVII.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P03.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\refint\P03.HeroesOfCodeAndLogicVII.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P03.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\P03.HeroesOfCodeAndLogicVII.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P03.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\P03.HeroesOfCodeAndLogicVII.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\FinalExamPractice\04. Programming Fundamentals Final Exam\P03.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\ref\P03.HeroesOfCodeAndLogicVII.dll
