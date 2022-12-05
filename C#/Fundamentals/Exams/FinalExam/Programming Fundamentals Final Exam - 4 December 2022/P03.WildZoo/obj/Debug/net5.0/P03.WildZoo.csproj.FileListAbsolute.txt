@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P03.WildZoo\obj\Debug\net5.0\P03.WildZoo.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P03.WildZoo\obj\Debug\net5.0\P03.WildZoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P03.WildZoo\obj\Debug\net5.0\P03.WildZoo.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P03.WildZoo\obj\Debug\net5.0\P03.WildZoo.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P03.WildZoo\obj\Debug\net5.0\P03.WildZoo.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P03.WildZoo\bin\Debug\net5.0\P03.WildZoo.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P03.WildZoo\bin\Debug\net5.0\P03.WildZoo.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P03.WildZoo\bin\Debug\net5.0\P03.WildZoo.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P03.WildZoo\bin\Debug\net5.0\P03.WildZoo.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P03.WildZoo\bin\Debug\net5.0\P03.WildZoo.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P03.WildZoo\bin\Debug\net5.0\P03.WildZoo.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P03.WildZoo\obj\Debug\net5.0\P03.WildZoo.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P03.WildZoo\obj\Debug\net5.0\refint\P03.WildZoo.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P03.WildZoo\obj\Debug\net5.0\P03.WildZoo.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P03.WildZoo\obj\Debug\net5.0\P03.WildZoo.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P03.WildZoo\obj\Debug\net5.0\ref\P03.WildZoo.dll

@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P01.StringGame\bin\Debug\net5.0\P01.StringGame.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P01.StringGame\bin\Debug\net5.0\P01.StringGame.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P01.StringGame\bin\Debug\net5.0\P01.StringGame.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P01.StringGame\bin\Debug\net5.0\P01.StringGame.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P01.StringGame\bin\Debug\net5.0\P01.StringGame.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P01.StringGame\bin\Debug\net5.0\P01.StringGame.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P01.StringGame\obj\Debug\net5.0\P01.StringGame.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P01.StringGame\obj\Debug\net5.0\P01.StringGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P01.StringGame\obj\Debug\net5.0\P01.StringGame.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P01.StringGame\obj\Debug\net5.0\P01.StringGame.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P01.StringGame\obj\Debug\net5.0\P01.StringGame.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P01.StringGame\obj\Debug\net5.0\P01.StringGame.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P01.StringGame\obj\Debug\net5.0\refint\P01.StringGame.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P01.StringGame\obj\Debug\net5.0\P01.StringGame.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P01.StringGame\obj\Debug\net5.0\P01.StringGame.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P01.StringGame\obj\Debug\net5.0\ref\P01.StringGame.dll

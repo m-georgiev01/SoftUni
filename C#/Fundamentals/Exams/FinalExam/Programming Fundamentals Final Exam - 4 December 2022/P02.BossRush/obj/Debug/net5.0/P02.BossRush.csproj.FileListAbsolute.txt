@@ -1,0 +1,16 @@
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P02.BossRush\bin\Debug\net5.0\P02.BossRush.exe
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P02.BossRush\bin\Debug\net5.0\P02.BossRush.deps.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P02.BossRush\bin\Debug\net5.0\P02.BossRush.runtimeconfig.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P02.BossRush\bin\Debug\net5.0\P02.BossRush.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P02.BossRush\bin\Debug\net5.0\P02.BossRush.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P02.BossRush\bin\Debug\net5.0\P02.BossRush.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P02.BossRush\obj\Debug\net5.0\P02.BossRush.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P02.BossRush\obj\Debug\net5.0\P02.BossRush.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P02.BossRush\obj\Debug\net5.0\P02.BossRush.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P02.BossRush\obj\Debug\net5.0\P02.BossRush.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P02.BossRush\obj\Debug\net5.0\P02.BossRush.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P02.BossRush\obj\Debug\net5.0\P02.BossRush.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P02.BossRush\obj\Debug\net5.0\refint\P02.BossRush.dll
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P02.BossRush\obj\Debug\net5.0\P02.BossRush.pdb
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P02.BossRush\obj\Debug\net5.0\P02.BossRush.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\Fundamentals\Exams\FinalExam\Programming Fundamentals Final Exam - 4 December 2022\P02.BossRush\obj\Debug\net5.0\ref\P02.BossRush.dll
