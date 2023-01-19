@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P04.MatchingBrackets\bin\Debug\net6.0\P04.MatchingBrackets.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P04.MatchingBrackets\bin\Debug\net6.0\P04.MatchingBrackets.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P04.MatchingBrackets\bin\Debug\net6.0\P04.MatchingBrackets.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P04.MatchingBrackets\bin\Debug\net6.0\P04.MatchingBrackets.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P04.MatchingBrackets\bin\Debug\net6.0\P04.MatchingBrackets.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P04.MatchingBrackets\obj\Debug\net6.0\P04.MatchingBrackets.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P04.MatchingBrackets\obj\Debug\net6.0\P04.MatchingBrackets.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P04.MatchingBrackets\obj\Debug\net6.0\P04.MatchingBrackets.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P04.MatchingBrackets\obj\Debug\net6.0\P04.MatchingBrackets.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P04.MatchingBrackets\obj\Debug\net6.0\P04.MatchingBrackets.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P04.MatchingBrackets\obj\Debug\net6.0\P04.MatchingBrackets.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P04.MatchingBrackets\obj\Debug\net6.0\refint\P04.MatchingBrackets.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P04.MatchingBrackets\obj\Debug\net6.0\P04.MatchingBrackets.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P04.MatchingBrackets\obj\Debug\net6.0\P04.MatchingBrackets.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P04.MatchingBrackets\obj\Debug\net6.0\ref\P04.MatchingBrackets.dll

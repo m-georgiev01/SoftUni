@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P07.HotPotato\bin\Debug\net6.0\P07.HotPotato.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P07.HotPotato\bin\Debug\net6.0\P07.HotPotato.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P07.HotPotato\bin\Debug\net6.0\P07.HotPotato.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P07.HotPotato\bin\Debug\net6.0\P07.HotPotato.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P07.HotPotato\bin\Debug\net6.0\P07.HotPotato.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P07.HotPotato\obj\Debug\net6.0\P07.HotPotato.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P07.HotPotato\obj\Debug\net6.0\P07.HotPotato.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P07.HotPotato\obj\Debug\net6.0\P07.HotPotato.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P07.HotPotato\obj\Debug\net6.0\P07.HotPotato.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P07.HotPotato\obj\Debug\net6.0\P07.HotPotato.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P07.HotPotato\obj\Debug\net6.0\P07.HotPotato.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P07.HotPotato\obj\Debug\net6.0\refint\P07.HotPotato.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P07.HotPotato\obj\Debug\net6.0\P07.HotPotato.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P07.HotPotato\obj\Debug\net6.0\P07.HotPotato.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab1 - Stacks and Queues\P07.HotPotato\obj\Debug\net6.0\ref\P07.HotPotato.dll
