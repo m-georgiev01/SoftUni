@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P12.CupsAndBottles\bin\Debug\net6.0\P12.CupsAndBottles.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P12.CupsAndBottles\bin\Debug\net6.0\P12.CupsAndBottles.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P12.CupsAndBottles\bin\Debug\net6.0\P12.CupsAndBottles.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P12.CupsAndBottles\bin\Debug\net6.0\P12.CupsAndBottles.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P12.CupsAndBottles\bin\Debug\net6.0\P12.CupsAndBottles.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P12.CupsAndBottles\obj\Debug\net6.0\P12.CupsAndBottles.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P12.CupsAndBottles\obj\Debug\net6.0\P12.CupsAndBottles.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P12.CupsAndBottles\obj\Debug\net6.0\P12.CupsAndBottles.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P12.CupsAndBottles\obj\Debug\net6.0\P12.CupsAndBottles.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P12.CupsAndBottles\obj\Debug\net6.0\P12.CupsAndBottles.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P12.CupsAndBottles\obj\Debug\net6.0\P12.CupsAndBottles.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P12.CupsAndBottles\obj\Debug\net6.0\refint\P12.CupsAndBottles.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P12.CupsAndBottles\obj\Debug\net6.0\P12.CupsAndBottles.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P12.CupsAndBottles\obj\Debug\net6.0\P12.CupsAndBottles.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P12.CupsAndBottles\obj\Debug\net6.0\ref\P12.CupsAndBottles.dll

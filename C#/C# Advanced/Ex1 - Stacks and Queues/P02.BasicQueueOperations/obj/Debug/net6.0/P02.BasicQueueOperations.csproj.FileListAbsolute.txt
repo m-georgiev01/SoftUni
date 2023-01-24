@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P02.BasicQueueOperations\bin\Debug\net6.0\P02.BasicQueueOperations.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P02.BasicQueueOperations\bin\Debug\net6.0\P02.BasicQueueOperations.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P02.BasicQueueOperations\bin\Debug\net6.0\P02.BasicQueueOperations.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P02.BasicQueueOperations\bin\Debug\net6.0\P02.BasicQueueOperations.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P02.BasicQueueOperations\bin\Debug\net6.0\P02.BasicQueueOperations.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P02.BasicQueueOperations\obj\Debug\net6.0\P02.BasicQueueOperations.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P02.BasicQueueOperations\obj\Debug\net6.0\P02.BasicQueueOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P02.BasicQueueOperations\obj\Debug\net6.0\P02.BasicQueueOperations.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P02.BasicQueueOperations\obj\Debug\net6.0\P02.BasicQueueOperations.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P02.BasicQueueOperations\obj\Debug\net6.0\P02.BasicQueueOperations.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P02.BasicQueueOperations\obj\Debug\net6.0\P02.BasicQueueOperations.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P02.BasicQueueOperations\obj\Debug\net6.0\refint\P02.BasicQueueOperations.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P02.BasicQueueOperations\obj\Debug\net6.0\P02.BasicQueueOperations.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P02.BasicQueueOperations\obj\Debug\net6.0\P02.BasicQueueOperations.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P02.BasicQueueOperations\obj\Debug\net6.0\ref\P02.BasicQueueOperations.dll

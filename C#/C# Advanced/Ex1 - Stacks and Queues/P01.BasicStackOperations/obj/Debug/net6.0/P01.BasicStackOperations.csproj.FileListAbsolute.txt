@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P01.BasicStackOperations\bin\Debug\net6.0\P01.BasicStackOperations.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P01.BasicStackOperations\bin\Debug\net6.0\P01.BasicStackOperations.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P01.BasicStackOperations\bin\Debug\net6.0\P01.BasicStackOperations.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P01.BasicStackOperations\bin\Debug\net6.0\P01.BasicStackOperations.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P01.BasicStackOperations\bin\Debug\net6.0\P01.BasicStackOperations.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P01.BasicStackOperations\obj\Debug\net6.0\P01.BasicStackOperations.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P01.BasicStackOperations\obj\Debug\net6.0\P01.BasicStackOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P01.BasicStackOperations\obj\Debug\net6.0\P01.BasicStackOperations.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P01.BasicStackOperations\obj\Debug\net6.0\P01.BasicStackOperations.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P01.BasicStackOperations\obj\Debug\net6.0\P01.BasicStackOperations.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P01.BasicStackOperations\obj\Debug\net6.0\P01.BasicStackOperations.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P01.BasicStackOperations\obj\Debug\net6.0\refint\P01.BasicStackOperations.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P01.BasicStackOperations\obj\Debug\net6.0\P01.BasicStackOperations.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P01.BasicStackOperations\obj\Debug\net6.0\P01.BasicStackOperations.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P01.BasicStackOperations\obj\Debug\net6.0\ref\P01.BasicStackOperations.dll

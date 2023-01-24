@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P11.KeyRevolver\bin\Debug\net6.0\P11.KeyRevolver.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P11.KeyRevolver\bin\Debug\net6.0\P11.KeyRevolver.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P11.KeyRevolver\bin\Debug\net6.0\P11.KeyRevolver.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P11.KeyRevolver\bin\Debug\net6.0\P11.KeyRevolver.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P11.KeyRevolver\bin\Debug\net6.0\P11.KeyRevolver.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P11.KeyRevolver\obj\Debug\net6.0\P11.KeyRevolver.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P11.KeyRevolver\obj\Debug\net6.0\P11.KeyRevolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P11.KeyRevolver\obj\Debug\net6.0\P11.KeyRevolver.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P11.KeyRevolver\obj\Debug\net6.0\P11.KeyRevolver.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P11.KeyRevolver\obj\Debug\net6.0\P11.KeyRevolver.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P11.KeyRevolver\obj\Debug\net6.0\P11.KeyRevolver.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P11.KeyRevolver\obj\Debug\net6.0\refint\P11.KeyRevolver.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P11.KeyRevolver\obj\Debug\net6.0\P11.KeyRevolver.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P11.KeyRevolver\obj\Debug\net6.0\P11.KeyRevolver.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P11.KeyRevolver\obj\Debug\net6.0\ref\P11.KeyRevolver.dll

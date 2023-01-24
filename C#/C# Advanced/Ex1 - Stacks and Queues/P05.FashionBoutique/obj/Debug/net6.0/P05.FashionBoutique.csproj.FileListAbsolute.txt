@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P05.FashionBoutique\bin\Debug\net6.0\P05.FashionBoutique.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P05.FashionBoutique\bin\Debug\net6.0\P05.FashionBoutique.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P05.FashionBoutique\bin\Debug\net6.0\P05.FashionBoutique.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P05.FashionBoutique\bin\Debug\net6.0\P05.FashionBoutique.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P05.FashionBoutique\bin\Debug\net6.0\P05.FashionBoutique.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P05.FashionBoutique\obj\Debug\net6.0\P05.FashionBoutique.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P05.FashionBoutique\obj\Debug\net6.0\P05.FashionBoutique.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P05.FashionBoutique\obj\Debug\net6.0\P05.FashionBoutique.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P05.FashionBoutique\obj\Debug\net6.0\P05.FashionBoutique.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P05.FashionBoutique\obj\Debug\net6.0\P05.FashionBoutique.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P05.FashionBoutique\obj\Debug\net6.0\P05.FashionBoutique.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P05.FashionBoutique\obj\Debug\net6.0\refint\P05.FashionBoutique.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P05.FashionBoutique\obj\Debug\net6.0\P05.FashionBoutique.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P05.FashionBoutique\obj\Debug\net6.0\P05.FashionBoutique.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P05.FashionBoutique\obj\Debug\net6.0\ref\P05.FashionBoutique.dll

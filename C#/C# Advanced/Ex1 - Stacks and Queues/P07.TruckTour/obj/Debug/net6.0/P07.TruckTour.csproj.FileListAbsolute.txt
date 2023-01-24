@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P07.TruckTour\bin\Debug\net6.0\P07.TruckTour.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P07.TruckTour\bin\Debug\net6.0\P07.TruckTour.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P07.TruckTour\bin\Debug\net6.0\P07.TruckTour.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P07.TruckTour\bin\Debug\net6.0\P07.TruckTour.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P07.TruckTour\bin\Debug\net6.0\P07.TruckTour.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P07.TruckTour\obj\Debug\net6.0\P07.TruckTour.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P07.TruckTour\obj\Debug\net6.0\P07.TruckTour.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P07.TruckTour\obj\Debug\net6.0\P07.TruckTour.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P07.TruckTour\obj\Debug\net6.0\P07.TruckTour.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P07.TruckTour\obj\Debug\net6.0\P07.TruckTour.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P07.TruckTour\obj\Debug\net6.0\P07.TruckTour.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P07.TruckTour\obj\Debug\net6.0\refint\P07.TruckTour.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P07.TruckTour\obj\Debug\net6.0\P07.TruckTour.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P07.TruckTour\obj\Debug\net6.0\P07.TruckTour.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P07.TruckTour\obj\Debug\net6.0\ref\P07.TruckTour.dll

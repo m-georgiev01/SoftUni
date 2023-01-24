@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P04.FastFood\bin\Debug\net6.0\P04.FastFood.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P04.FastFood\bin\Debug\net6.0\P04.FastFood.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P04.FastFood\bin\Debug\net6.0\P04.FastFood.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P04.FastFood\bin\Debug\net6.0\P04.FastFood.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P04.FastFood\bin\Debug\net6.0\P04.FastFood.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P04.FastFood\obj\Debug\net6.0\P04.FastFood.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P04.FastFood\obj\Debug\net6.0\P04.FastFood.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P04.FastFood\obj\Debug\net6.0\P04.FastFood.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P04.FastFood\obj\Debug\net6.0\P04.FastFood.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P04.FastFood\obj\Debug\net6.0\P04.FastFood.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P04.FastFood\obj\Debug\net6.0\P04.FastFood.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P04.FastFood\obj\Debug\net6.0\refint\P04.FastFood.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P04.FastFood\obj\Debug\net6.0\P04.FastFood.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P04.FastFood\obj\Debug\net6.0\P04.FastFood.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P04.FastFood\obj\Debug\net6.0\ref\P04.FastFood.dll

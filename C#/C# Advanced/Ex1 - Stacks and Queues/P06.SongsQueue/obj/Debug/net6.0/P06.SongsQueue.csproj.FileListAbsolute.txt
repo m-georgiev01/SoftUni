@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P06.SongsQueue\bin\Debug\net6.0\P06.SongsQueue.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P06.SongsQueue\bin\Debug\net6.0\P06.SongsQueue.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P06.SongsQueue\bin\Debug\net6.0\P06.SongsQueue.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P06.SongsQueue\bin\Debug\net6.0\P06.SongsQueue.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P06.SongsQueue\bin\Debug\net6.0\P06.SongsQueue.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P06.SongsQueue\obj\Debug\net6.0\P06.SongsQueue.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P06.SongsQueue\obj\Debug\net6.0\P06.SongsQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P06.SongsQueue\obj\Debug\net6.0\P06.SongsQueue.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P06.SongsQueue\obj\Debug\net6.0\P06.SongsQueue.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P06.SongsQueue\obj\Debug\net6.0\P06.SongsQueue.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P06.SongsQueue\obj\Debug\net6.0\P06.SongsQueue.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P06.SongsQueue\obj\Debug\net6.0\refint\P06.SongsQueue.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P06.SongsQueue\obj\Debug\net6.0\P06.SongsQueue.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P06.SongsQueue\obj\Debug\net6.0\P06.SongsQueue.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P06.SongsQueue\obj\Debug\net6.0\ref\P06.SongsQueue.dll

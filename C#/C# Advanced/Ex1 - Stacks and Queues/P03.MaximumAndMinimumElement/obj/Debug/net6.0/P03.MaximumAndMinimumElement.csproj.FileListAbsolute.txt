@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P03.MaximumAndMinimumElement\bin\Debug\net6.0\P03.MaximumAndMinimumElement.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P03.MaximumAndMinimumElement\bin\Debug\net6.0\P03.MaximumAndMinimumElement.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P03.MaximumAndMinimumElement\bin\Debug\net6.0\P03.MaximumAndMinimumElement.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P03.MaximumAndMinimumElement\bin\Debug\net6.0\P03.MaximumAndMinimumElement.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P03.MaximumAndMinimumElement\bin\Debug\net6.0\P03.MaximumAndMinimumElement.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P03.MaximumAndMinimumElement\obj\Debug\net6.0\P03.MaximumAndMinimumElement.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P03.MaximumAndMinimumElement\obj\Debug\net6.0\P03.MaximumAndMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P03.MaximumAndMinimumElement\obj\Debug\net6.0\P03.MaximumAndMinimumElement.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P03.MaximumAndMinimumElement\obj\Debug\net6.0\P03.MaximumAndMinimumElement.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P03.MaximumAndMinimumElement\obj\Debug\net6.0\P03.MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P03.MaximumAndMinimumElement\obj\Debug\net6.0\P03.MaximumAndMinimumElement.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P03.MaximumAndMinimumElement\obj\Debug\net6.0\refint\P03.MaximumAndMinimumElement.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P03.MaximumAndMinimumElement\obj\Debug\net6.0\P03.MaximumAndMinimumElement.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P03.MaximumAndMinimumElement\obj\Debug\net6.0\P03.MaximumAndMinimumElement.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex1 - Stacks and Queues\P03.MaximumAndMinimumElement\obj\Debug\net6.0\ref\P03.MaximumAndMinimumElement.dll
