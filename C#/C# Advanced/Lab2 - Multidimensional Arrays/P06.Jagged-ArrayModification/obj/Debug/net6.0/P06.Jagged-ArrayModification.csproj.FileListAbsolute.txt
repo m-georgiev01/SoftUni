@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P06.Jagged-ArrayModification\bin\Debug\net6.0\P06.Jagged-ArrayModification.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P06.Jagged-ArrayModification\bin\Debug\net6.0\P06.Jagged-ArrayModification.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P06.Jagged-ArrayModification\bin\Debug\net6.0\P06.Jagged-ArrayModification.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P06.Jagged-ArrayModification\bin\Debug\net6.0\P06.Jagged-ArrayModification.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P06.Jagged-ArrayModification\bin\Debug\net6.0\P06.Jagged-ArrayModification.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P06.Jagged-ArrayModification\obj\Debug\net6.0\P06.Jagged-ArrayModification.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P06.Jagged-ArrayModification\obj\Debug\net6.0\P06.Jagged-ArrayModification.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P06.Jagged-ArrayModification\obj\Debug\net6.0\P06.Jagged-ArrayModification.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P06.Jagged-ArrayModification\obj\Debug\net6.0\P06.Jagged-ArrayModification.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P06.Jagged-ArrayModification\obj\Debug\net6.0\P06.Jagged-ArrayModification.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P06.Jagged-ArrayModification\obj\Debug\net6.0\P06.Jagged-ArrayModification.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P06.Jagged-ArrayModification\obj\Debug\net6.0\refint\P06.Jagged-ArrayModification.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P06.Jagged-ArrayModification\obj\Debug\net6.0\P06.Jagged-ArrayModification.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P06.Jagged-ArrayModification\obj\Debug\net6.0\P06.Jagged-ArrayModification.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P06.Jagged-ArrayModification\obj\Debug\net6.0\ref\P06.Jagged-ArrayModification.dll

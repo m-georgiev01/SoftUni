@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P07.PascalTriangle\bin\Debug\net6.0\P07.PascalTriangle.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P07.PascalTriangle\bin\Debug\net6.0\P07.PascalTriangle.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P07.PascalTriangle\bin\Debug\net6.0\P07.PascalTriangle.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P07.PascalTriangle\bin\Debug\net6.0\P07.PascalTriangle.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P07.PascalTriangle\bin\Debug\net6.0\P07.PascalTriangle.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P07.PascalTriangle\obj\Debug\net6.0\P07.PascalTriangle.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P07.PascalTriangle\obj\Debug\net6.0\P07.PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P07.PascalTriangle\obj\Debug\net6.0\P07.PascalTriangle.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P07.PascalTriangle\obj\Debug\net6.0\P07.PascalTriangle.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P07.PascalTriangle\obj\Debug\net6.0\P07.PascalTriangle.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P07.PascalTriangle\obj\Debug\net6.0\P07.PascalTriangle.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P07.PascalTriangle\obj\Debug\net6.0\refint\P07.PascalTriangle.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P07.PascalTriangle\obj\Debug\net6.0\P07.PascalTriangle.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P07.PascalTriangle\obj\Debug\net6.0\P07.PascalTriangle.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P07.PascalTriangle\obj\Debug\net6.0\ref\P07.PascalTriangle.dll

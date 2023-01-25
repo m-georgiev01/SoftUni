@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P03.PrimaryDiagonal\obj\Debug\net6.0\P03.PrimaryDiagonal.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P03.PrimaryDiagonal\obj\Debug\net6.0\P03.PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P03.PrimaryDiagonal\obj\Debug\net6.0\P03.PrimaryDiagonal.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P03.PrimaryDiagonal\obj\Debug\net6.0\P03.PrimaryDiagonal.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P03.PrimaryDiagonal\obj\Debug\net6.0\P03.PrimaryDiagonal.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P03.PrimaryDiagonal\bin\Debug\net6.0\P03.PrimaryDiagonal.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P03.PrimaryDiagonal\bin\Debug\net6.0\P03.PrimaryDiagonal.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P03.PrimaryDiagonal\bin\Debug\net6.0\P03.PrimaryDiagonal.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P03.PrimaryDiagonal\bin\Debug\net6.0\P03.PrimaryDiagonal.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P03.PrimaryDiagonal\bin\Debug\net6.0\P03.PrimaryDiagonal.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P03.PrimaryDiagonal\obj\Debug\net6.0\P03.PrimaryDiagonal.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P03.PrimaryDiagonal\obj\Debug\net6.0\refint\P03.PrimaryDiagonal.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P03.PrimaryDiagonal\obj\Debug\net6.0\P03.PrimaryDiagonal.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P03.PrimaryDiagonal\obj\Debug\net6.0\P03.PrimaryDiagonal.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P03.PrimaryDiagonal\obj\Debug\net6.0\ref\P03.PrimaryDiagonal.dll

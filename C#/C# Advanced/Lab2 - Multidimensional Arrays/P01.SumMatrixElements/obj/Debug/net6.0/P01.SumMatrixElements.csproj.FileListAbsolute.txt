@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P01.SumMatrixElements\bin\Debug\net6.0\P01.SumMatrixElements.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P01.SumMatrixElements\bin\Debug\net6.0\P01.SumMatrixElements.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P01.SumMatrixElements\bin\Debug\net6.0\P01.SumMatrixElements.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P01.SumMatrixElements\bin\Debug\net6.0\P01.SumMatrixElements.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P01.SumMatrixElements\bin\Debug\net6.0\P01.SumMatrixElements.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P01.SumMatrixElements\obj\Debug\net6.0\P01.SumMatrixElements.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P01.SumMatrixElements\obj\Debug\net6.0\P01.SumMatrixElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P01.SumMatrixElements\obj\Debug\net6.0\P01.SumMatrixElements.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P01.SumMatrixElements\obj\Debug\net6.0\P01.SumMatrixElements.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P01.SumMatrixElements\obj\Debug\net6.0\P01.SumMatrixElements.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P01.SumMatrixElements\obj\Debug\net6.0\P01.SumMatrixElements.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P01.SumMatrixElements\obj\Debug\net6.0\refint\P01.SumMatrixElements.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P01.SumMatrixElements\obj\Debug\net6.0\P01.SumMatrixElements.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P01.SumMatrixElements\obj\Debug\net6.0\P01.SumMatrixElements.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab2 - Multidimensional Arrays\P01.SumMatrixElements\obj\Debug\net6.0\ref\P01.SumMatrixElements.dll
