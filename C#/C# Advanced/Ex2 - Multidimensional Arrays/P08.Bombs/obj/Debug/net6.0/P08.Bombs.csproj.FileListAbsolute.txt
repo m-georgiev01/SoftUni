@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P08.Bombs\bin\Debug\net6.0\P08.Bombs.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P08.Bombs\bin\Debug\net6.0\P08.Bombs.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P08.Bombs\bin\Debug\net6.0\P08.Bombs.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P08.Bombs\bin\Debug\net6.0\P08.Bombs.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P08.Bombs\bin\Debug\net6.0\P08.Bombs.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P08.Bombs\obj\Debug\net6.0\P08.Bombs.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P08.Bombs\obj\Debug\net6.0\P08.Bombs.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P08.Bombs\obj\Debug\net6.0\P08.Bombs.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P08.Bombs\obj\Debug\net6.0\P08.Bombs.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P08.Bombs\obj\Debug\net6.0\P08.Bombs.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P08.Bombs\obj\Debug\net6.0\P08.Bombs.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P08.Bombs\obj\Debug\net6.0\refint\P08.Bombs.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P08.Bombs\obj\Debug\net6.0\P08.Bombs.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P08.Bombs\obj\Debug\net6.0\P08.Bombs.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P08.Bombs\obj\Debug\net6.0\ref\P08.Bombs.dll

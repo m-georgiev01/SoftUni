@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P03.MaximalSum\bin\Debug\net6.0\P03.MaximalSum.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P03.MaximalSum\bin\Debug\net6.0\P03.MaximalSum.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P03.MaximalSum\bin\Debug\net6.0\P03.MaximalSum.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P03.MaximalSum\bin\Debug\net6.0\P03.MaximalSum.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P03.MaximalSum\bin\Debug\net6.0\P03.MaximalSum.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P03.MaximalSum\obj\Debug\net6.0\P03.MaximalSum.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P03.MaximalSum\obj\Debug\net6.0\P03.MaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P03.MaximalSum\obj\Debug\net6.0\P03.MaximalSum.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P03.MaximalSum\obj\Debug\net6.0\P03.MaximalSum.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P03.MaximalSum\obj\Debug\net6.0\P03.MaximalSum.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P03.MaximalSum\obj\Debug\net6.0\P03.MaximalSum.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P03.MaximalSum\obj\Debug\net6.0\refint\P03.MaximalSum.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P03.MaximalSum\obj\Debug\net6.0\P03.MaximalSum.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P03.MaximalSum\obj\Debug\net6.0\P03.MaximalSum.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P03.MaximalSum\obj\Debug\net6.0\ref\P03.MaximalSum.dll

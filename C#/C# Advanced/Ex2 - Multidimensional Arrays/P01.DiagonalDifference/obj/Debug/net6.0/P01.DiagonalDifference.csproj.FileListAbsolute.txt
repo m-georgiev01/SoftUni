@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P01.DiagonalDifference\bin\Debug\net6.0\P01.DiagonalDifference.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P01.DiagonalDifference\bin\Debug\net6.0\P01.DiagonalDifference.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P01.DiagonalDifference\bin\Debug\net6.0\P01.DiagonalDifference.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P01.DiagonalDifference\bin\Debug\net6.0\P01.DiagonalDifference.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P01.DiagonalDifference\bin\Debug\net6.0\P01.DiagonalDifference.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P01.DiagonalDifference\obj\Debug\net6.0\P01.DiagonalDifference.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P01.DiagonalDifference\obj\Debug\net6.0\P01.DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P01.DiagonalDifference\obj\Debug\net6.0\P01.DiagonalDifference.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P01.DiagonalDifference\obj\Debug\net6.0\P01.DiagonalDifference.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P01.DiagonalDifference\obj\Debug\net6.0\P01.DiagonalDifference.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P01.DiagonalDifference\obj\Debug\net6.0\P01.DiagonalDifference.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P01.DiagonalDifference\obj\Debug\net6.0\refint\P01.DiagonalDifference.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P01.DiagonalDifference\obj\Debug\net6.0\P01.DiagonalDifference.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P01.DiagonalDifference\obj\Debug\net6.0\P01.DiagonalDifference.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P01.DiagonalDifference\obj\Debug\net6.0\ref\P01.DiagonalDifference.dll

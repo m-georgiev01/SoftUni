@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P06.JaggedArrayManipulator\bin\Debug\net6.0\P06.JaggedArrayManipulator.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P06.JaggedArrayManipulator\bin\Debug\net6.0\P06.JaggedArrayManipulator.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P06.JaggedArrayManipulator\bin\Debug\net6.0\P06.JaggedArrayManipulator.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P06.JaggedArrayManipulator\bin\Debug\net6.0\P06.JaggedArrayManipulator.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P06.JaggedArrayManipulator\bin\Debug\net6.0\P06.JaggedArrayManipulator.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P06.JaggedArrayManipulator\obj\Debug\net6.0\P06.JaggedArrayManipulator.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P06.JaggedArrayManipulator\obj\Debug\net6.0\P06.JaggedArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P06.JaggedArrayManipulator\obj\Debug\net6.0\P06.JaggedArrayManipulator.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P06.JaggedArrayManipulator\obj\Debug\net6.0\P06.JaggedArrayManipulator.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P06.JaggedArrayManipulator\obj\Debug\net6.0\P06.JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P06.JaggedArrayManipulator\obj\Debug\net6.0\P06.JaggedArrayManipulator.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P06.JaggedArrayManipulator\obj\Debug\net6.0\refint\P06.JaggedArrayManipulator.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P06.JaggedArrayManipulator\obj\Debug\net6.0\P06.JaggedArrayManipulator.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P06.JaggedArrayManipulator\obj\Debug\net6.0\P06.JaggedArrayManipulator.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P06.JaggedArrayManipulator\obj\Debug\net6.0\ref\P06.JaggedArrayManipulator.dll

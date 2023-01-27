@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P04.MatrixShuffling\bin\Debug\net6.0\P04.MatrixShuffling.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P04.MatrixShuffling\bin\Debug\net6.0\P04.MatrixShuffling.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P04.MatrixShuffling\bin\Debug\net6.0\P04.MatrixShuffling.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P04.MatrixShuffling\bin\Debug\net6.0\P04.MatrixShuffling.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P04.MatrixShuffling\bin\Debug\net6.0\P04.MatrixShuffling.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P04.MatrixShuffling\obj\Debug\net6.0\P04.MatrixShuffling.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P04.MatrixShuffling\obj\Debug\net6.0\P04.MatrixShuffling.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P04.MatrixShuffling\obj\Debug\net6.0\P04.MatrixShuffling.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P04.MatrixShuffling\obj\Debug\net6.0\P04.MatrixShuffling.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P04.MatrixShuffling\obj\Debug\net6.0\P04.MatrixShuffling.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P04.MatrixShuffling\obj\Debug\net6.0\P04.MatrixShuffling.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P04.MatrixShuffling\obj\Debug\net6.0\refint\P04.MatrixShuffling.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P04.MatrixShuffling\obj\Debug\net6.0\P04.MatrixShuffling.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P04.MatrixShuffling\obj\Debug\net6.0\P04.MatrixShuffling.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P04.MatrixShuffling\obj\Debug\net6.0\ref\P04.MatrixShuffling.dll

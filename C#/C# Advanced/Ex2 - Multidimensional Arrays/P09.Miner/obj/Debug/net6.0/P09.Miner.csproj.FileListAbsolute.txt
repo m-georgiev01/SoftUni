@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P09.Miner\bin\Debug\net6.0\P09.Miner.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P09.Miner\bin\Debug\net6.0\P09.Miner.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P09.Miner\bin\Debug\net6.0\P09.Miner.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P09.Miner\bin\Debug\net6.0\P09.Miner.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P09.Miner\bin\Debug\net6.0\P09.Miner.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P09.Miner\obj\Debug\net6.0\P09.Miner.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P09.Miner\obj\Debug\net6.0\P09.Miner.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P09.Miner\obj\Debug\net6.0\P09.Miner.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P09.Miner\obj\Debug\net6.0\P09.Miner.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P09.Miner\obj\Debug\net6.0\P09.Miner.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P09.Miner\obj\Debug\net6.0\P09.Miner.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P09.Miner\obj\Debug\net6.0\refint\P09.Miner.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P09.Miner\obj\Debug\net6.0\P09.Miner.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P09.Miner\obj\Debug\net6.0\P09.Miner.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P09.Miner\obj\Debug\net6.0\ref\P09.Miner.dll

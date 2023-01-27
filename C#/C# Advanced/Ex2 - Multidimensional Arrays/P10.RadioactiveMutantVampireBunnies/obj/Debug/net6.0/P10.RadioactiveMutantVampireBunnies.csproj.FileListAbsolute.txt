@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P10.RadioactiveMutantVampireBunnies\bin\Debug\net6.0\P10.RadioactiveMutantVampireBunnies.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P10.RadioactiveMutantVampireBunnies\bin\Debug\net6.0\P10.RadioactiveMutantVampireBunnies.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P10.RadioactiveMutantVampireBunnies\bin\Debug\net6.0\P10.RadioactiveMutantVampireBunnies.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P10.RadioactiveMutantVampireBunnies\bin\Debug\net6.0\P10.RadioactiveMutantVampireBunnies.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P10.RadioactiveMutantVampireBunnies\bin\Debug\net6.0\P10.RadioactiveMutantVampireBunnies.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P10.RadioactiveMutantVampireBunnies\obj\Debug\net6.0\P10.RadioactiveMutantVampireBunnies.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P10.RadioactiveMutantVampireBunnies\obj\Debug\net6.0\P10.RadioactiveMutantVampireBunnies.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P10.RadioactiveMutantVampireBunnies\obj\Debug\net6.0\P10.RadioactiveMutantVampireBunnies.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P10.RadioactiveMutantVampireBunnies\obj\Debug\net6.0\P10.RadioactiveMutantVampireBunnies.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P10.RadioactiveMutantVampireBunnies\obj\Debug\net6.0\P10.RadioactiveMutantVampireBunnies.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P10.RadioactiveMutantVampireBunnies\obj\Debug\net6.0\P10.RadioactiveMutantVampireBunnies.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P10.RadioactiveMutantVampireBunnies\obj\Debug\net6.0\refint\P10.RadioactiveMutantVampireBunnies.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P10.RadioactiveMutantVampireBunnies\obj\Debug\net6.0\P10.RadioactiveMutantVampireBunnies.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P10.RadioactiveMutantVampireBunnies\obj\Debug\net6.0\P10.RadioactiveMutantVampireBunnies.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex2 - Multidimensional Arrays\P10.RadioactiveMutantVampireBunnies\obj\Debug\net6.0\ref\P10.RadioactiveMutantVampireBunnies.dll
