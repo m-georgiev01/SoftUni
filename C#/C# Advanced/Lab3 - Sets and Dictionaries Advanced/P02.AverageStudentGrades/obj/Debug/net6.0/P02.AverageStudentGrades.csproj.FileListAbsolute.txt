@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P02.AverageStudentGrades\bin\Debug\net6.0\P02.AverageStudentGrades.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P02.AverageStudentGrades\bin\Debug\net6.0\P02.AverageStudentGrades.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P02.AverageStudentGrades\bin\Debug\net6.0\P02.AverageStudentGrades.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P02.AverageStudentGrades\bin\Debug\net6.0\P02.AverageStudentGrades.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P02.AverageStudentGrades\bin\Debug\net6.0\P02.AverageStudentGrades.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P02.AverageStudentGrades\obj\Debug\net6.0\P02.AverageStudentGrades.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P02.AverageStudentGrades\obj\Debug\net6.0\P02.AverageStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P02.AverageStudentGrades\obj\Debug\net6.0\P02.AverageStudentGrades.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P02.AverageStudentGrades\obj\Debug\net6.0\P02.AverageStudentGrades.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P02.AverageStudentGrades\obj\Debug\net6.0\P02.AverageStudentGrades.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P02.AverageStudentGrades\obj\Debug\net6.0\P02.AverageStudentGrades.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P02.AverageStudentGrades\obj\Debug\net6.0\refint\P02.AverageStudentGrades.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P02.AverageStudentGrades\obj\Debug\net6.0\P02.AverageStudentGrades.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P02.AverageStudentGrades\obj\Debug\net6.0\P02.AverageStudentGrades.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P02.AverageStudentGrades\obj\Debug\net6.0\ref\P02.AverageStudentGrades.dll

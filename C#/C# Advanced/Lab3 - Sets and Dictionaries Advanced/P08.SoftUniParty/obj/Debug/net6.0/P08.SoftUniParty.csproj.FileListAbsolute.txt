@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P08.SoftUniParty\bin\Debug\net6.0\P08.SoftUniParty.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P08.SoftUniParty\bin\Debug\net6.0\P08.SoftUniParty.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P08.SoftUniParty\bin\Debug\net6.0\P08.SoftUniParty.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P08.SoftUniParty\bin\Debug\net6.0\P08.SoftUniParty.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P08.SoftUniParty\bin\Debug\net6.0\P08.SoftUniParty.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P08.SoftUniParty\obj\Debug\net6.0\P08.SoftUniParty.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P08.SoftUniParty\obj\Debug\net6.0\P08.SoftUniParty.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P08.SoftUniParty\obj\Debug\net6.0\P08.SoftUniParty.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P08.SoftUniParty\obj\Debug\net6.0\P08.SoftUniParty.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P08.SoftUniParty\obj\Debug\net6.0\P08.SoftUniParty.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P08.SoftUniParty\obj\Debug\net6.0\P08.SoftUniParty.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P08.SoftUniParty\obj\Debug\net6.0\refint\P08.SoftUniParty.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P08.SoftUniParty\obj\Debug\net6.0\P08.SoftUniParty.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P08.SoftUniParty\obj\Debug\net6.0\P08.SoftUniParty.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P08.SoftUniParty\obj\Debug\net6.0\ref\P08.SoftUniParty.dll

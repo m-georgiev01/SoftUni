@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P04.ProductShop\bin\Debug\net6.0\P04.ProductShop.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P04.ProductShop\bin\Debug\net6.0\P04.ProductShop.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P04.ProductShop\bin\Debug\net6.0\P04.ProductShop.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P04.ProductShop\bin\Debug\net6.0\P04.ProductShop.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P04.ProductShop\bin\Debug\net6.0\P04.ProductShop.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P04.ProductShop\obj\Debug\net6.0\P04.ProductShop.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P04.ProductShop\obj\Debug\net6.0\P04.ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P04.ProductShop\obj\Debug\net6.0\P04.ProductShop.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P04.ProductShop\obj\Debug\net6.0\P04.ProductShop.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P04.ProductShop\obj\Debug\net6.0\P04.ProductShop.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P04.ProductShop\obj\Debug\net6.0\P04.ProductShop.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P04.ProductShop\obj\Debug\net6.0\refint\P04.ProductShop.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P04.ProductShop\obj\Debug\net6.0\P04.ProductShop.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P04.ProductShop\obj\Debug\net6.0\P04.ProductShop.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P04.ProductShop\obj\Debug\net6.0\ref\P04.ProductShop.dll

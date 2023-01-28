@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P07.ParkingLot\bin\Debug\net6.0\P07.ParkingLot.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P07.ParkingLot\bin\Debug\net6.0\P07.ParkingLot.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P07.ParkingLot\bin\Debug\net6.0\P07.ParkingLot.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P07.ParkingLot\bin\Debug\net6.0\P07.ParkingLot.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P07.ParkingLot\bin\Debug\net6.0\P07.ParkingLot.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P07.ParkingLot\obj\Debug\net6.0\P07.ParkingLot.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P07.ParkingLot\obj\Debug\net6.0\P07.ParkingLot.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P07.ParkingLot\obj\Debug\net6.0\P07.ParkingLot.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P07.ParkingLot\obj\Debug\net6.0\P07.ParkingLot.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P07.ParkingLot\obj\Debug\net6.0\P07.ParkingLot.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P07.ParkingLot\obj\Debug\net6.0\P07.ParkingLot.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P07.ParkingLot\obj\Debug\net6.0\refint\P07.ParkingLot.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P07.ParkingLot\obj\Debug\net6.0\P07.ParkingLot.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P07.ParkingLot\obj\Debug\net6.0\P07.ParkingLot.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab3 - Sets and Dictionaries Advanced\P07.ParkingLot\obj\Debug\net6.0\ref\P07.ParkingLot.dll
