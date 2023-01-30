@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P03.PeriodicTable\bin\Debug\net6.0\P03.PeriodicTable.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P03.PeriodicTable\bin\Debug\net6.0\P03.PeriodicTable.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P03.PeriodicTable\bin\Debug\net6.0\P03.PeriodicTable.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P03.PeriodicTable\bin\Debug\net6.0\P03.PeriodicTable.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P03.PeriodicTable\bin\Debug\net6.0\P03.PeriodicTable.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P03.PeriodicTable\obj\Debug\net6.0\P03.PeriodicTable.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P03.PeriodicTable\obj\Debug\net6.0\P03.PeriodicTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P03.PeriodicTable\obj\Debug\net6.0\P03.PeriodicTable.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P03.PeriodicTable\obj\Debug\net6.0\P03.PeriodicTable.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P03.PeriodicTable\obj\Debug\net6.0\P03.PeriodicTable.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P03.PeriodicTable\obj\Debug\net6.0\P03.PeriodicTable.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P03.PeriodicTable\obj\Debug\net6.0\refint\P03.PeriodicTable.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P03.PeriodicTable\obj\Debug\net6.0\P03.PeriodicTable.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P03.PeriodicTable\obj\Debug\net6.0\P03.PeriodicTable.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P03.PeriodicTable\obj\Debug\net6.0\ref\P03.PeriodicTable.dll

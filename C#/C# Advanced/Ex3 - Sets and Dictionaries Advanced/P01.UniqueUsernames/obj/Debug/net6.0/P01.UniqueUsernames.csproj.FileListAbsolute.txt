@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P01.UniqueUsernames\bin\Debug\net6.0\P01.UniqueUsernames.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P01.UniqueUsernames\bin\Debug\net6.0\P01.UniqueUsernames.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P01.UniqueUsernames\bin\Debug\net6.0\P01.UniqueUsernames.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P01.UniqueUsernames\bin\Debug\net6.0\P01.UniqueUsernames.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P01.UniqueUsernames\bin\Debug\net6.0\P01.UniqueUsernames.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P01.UniqueUsernames\obj\Debug\net6.0\P01.UniqueUsernames.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P01.UniqueUsernames\obj\Debug\net6.0\P01.UniqueUsernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P01.UniqueUsernames\obj\Debug\net6.0\P01.UniqueUsernames.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P01.UniqueUsernames\obj\Debug\net6.0\P01.UniqueUsernames.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P01.UniqueUsernames\obj\Debug\net6.0\P01.UniqueUsernames.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P01.UniqueUsernames\obj\Debug\net6.0\P01.UniqueUsernames.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P01.UniqueUsernames\obj\Debug\net6.0\refint\P01.UniqueUsernames.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P01.UniqueUsernames\obj\Debug\net6.0\P01.UniqueUsernames.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P01.UniqueUsernames\obj\Debug\net6.0\P01.UniqueUsernames.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P01.UniqueUsernames\obj\Debug\net6.0\ref\P01.UniqueUsernames.dll

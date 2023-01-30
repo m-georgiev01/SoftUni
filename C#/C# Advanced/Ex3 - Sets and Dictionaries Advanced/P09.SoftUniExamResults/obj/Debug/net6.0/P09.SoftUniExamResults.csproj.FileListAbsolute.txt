@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P09.SoftUniExamResults\bin\Debug\net6.0\P09.SoftUniExamResults.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P09.SoftUniExamResults\bin\Debug\net6.0\P09.SoftUniExamResults.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P09.SoftUniExamResults\bin\Debug\net6.0\P09.SoftUniExamResults.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P09.SoftUniExamResults\bin\Debug\net6.0\P09.SoftUniExamResults.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P09.SoftUniExamResults\bin\Debug\net6.0\P09.SoftUniExamResults.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P09.SoftUniExamResults\obj\Debug\net6.0\P09.SoftUniExamResults.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P09.SoftUniExamResults\obj\Debug\net6.0\P09.SoftUniExamResults.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P09.SoftUniExamResults\obj\Debug\net6.0\P09.SoftUniExamResults.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P09.SoftUniExamResults\obj\Debug\net6.0\P09.SoftUniExamResults.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P09.SoftUniExamResults\obj\Debug\net6.0\P09.SoftUniExamResults.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P09.SoftUniExamResults\obj\Debug\net6.0\P09.SoftUniExamResults.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P09.SoftUniExamResults\obj\Debug\net6.0\refint\P09.SoftUniExamResults.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P09.SoftUniExamResults\obj\Debug\net6.0\P09.SoftUniExamResults.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P09.SoftUniExamResults\obj\Debug\net6.0\P09.SoftUniExamResults.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P09.SoftUniExamResults\obj\Debug\net6.0\ref\P09.SoftUniExamResults.dll

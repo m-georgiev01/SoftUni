@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P10.ForceBook\bin\Debug\net6.0\P10.ForceBook.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P10.ForceBook\bin\Debug\net6.0\P10.ForceBook.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P10.ForceBook\bin\Debug\net6.0\P10.ForceBook.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P10.ForceBook\bin\Debug\net6.0\P10.ForceBook.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P10.ForceBook\bin\Debug\net6.0\P10.ForceBook.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P10.ForceBook\obj\Debug\net6.0\P10.ForceBook.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P10.ForceBook\obj\Debug\net6.0\P10.ForceBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P10.ForceBook\obj\Debug\net6.0\P10.ForceBook.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P10.ForceBook\obj\Debug\net6.0\P10.ForceBook.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P10.ForceBook\obj\Debug\net6.0\P10.ForceBook.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P10.ForceBook\obj\Debug\net6.0\P10.ForceBook.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P10.ForceBook\obj\Debug\net6.0\refint\P10.ForceBook.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P10.ForceBook\obj\Debug\net6.0\P10.ForceBook.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P10.ForceBook\obj\Debug\net6.0\P10.ForceBook.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P10.ForceBook\obj\Debug\net6.0\ref\P10.ForceBook.dll

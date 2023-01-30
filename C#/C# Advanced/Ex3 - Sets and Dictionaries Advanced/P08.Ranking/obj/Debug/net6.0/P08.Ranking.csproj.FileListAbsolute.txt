@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P08.Ranking\bin\Debug\net6.0\P08.Ranking.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P08.Ranking\bin\Debug\net6.0\P08.Ranking.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P08.Ranking\bin\Debug\net6.0\P08.Ranking.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P08.Ranking\bin\Debug\net6.0\P08.Ranking.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P08.Ranking\bin\Debug\net6.0\P08.Ranking.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P08.Ranking\obj\Debug\net6.0\P08.Ranking.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P08.Ranking\obj\Debug\net6.0\P08.Ranking.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P08.Ranking\obj\Debug\net6.0\P08.Ranking.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P08.Ranking\obj\Debug\net6.0\P08.Ranking.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P08.Ranking\obj\Debug\net6.0\P08.Ranking.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P08.Ranking\obj\Debug\net6.0\P08.Ranking.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P08.Ranking\obj\Debug\net6.0\refint\P08.Ranking.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P08.Ranking\obj\Debug\net6.0\P08.Ranking.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P08.Ranking\obj\Debug\net6.0\P08.Ranking.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex3 - Sets and Dictionaries Advanced\P08.Ranking\obj\Debug\net6.0\ref\P08.Ranking.dll
