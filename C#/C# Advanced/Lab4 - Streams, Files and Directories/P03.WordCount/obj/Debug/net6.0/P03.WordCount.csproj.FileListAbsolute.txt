@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P03.WordCount\bin\Debug\net6.0\P03.WordCount.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P03.WordCount\bin\Debug\net6.0\P03.WordCount.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P03.WordCount\bin\Debug\net6.0\P03.WordCount.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P03.WordCount\bin\Debug\net6.0\P03.WordCount.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P03.WordCount\bin\Debug\net6.0\P03.WordCount.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P03.WordCount\obj\Debug\net6.0\P03.WordCount.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P03.WordCount\obj\Debug\net6.0\P03.WordCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P03.WordCount\obj\Debug\net6.0\P03.WordCount.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P03.WordCount\obj\Debug\net6.0\P03.WordCount.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P03.WordCount\obj\Debug\net6.0\P03.WordCount.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P03.WordCount\obj\Debug\net6.0\P03.WordCount.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P03.WordCount\obj\Debug\net6.0\refint\P03.WordCount.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P03.WordCount\obj\Debug\net6.0\P03.WordCount.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P03.WordCount\obj\Debug\net6.0\P03.WordCount.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P03.WordCount\obj\Debug\net6.0\ref\P03.WordCount.dll

@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P02.LineNumbers\bin\Debug\net6.0\P02.LineNumbers.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P02.LineNumbers\bin\Debug\net6.0\P02.LineNumbers.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P02.LineNumbers\bin\Debug\net6.0\P02.LineNumbers.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P02.LineNumbers\bin\Debug\net6.0\P02.LineNumbers.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P02.LineNumbers\bin\Debug\net6.0\P02.LineNumbers.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P02.LineNumbers\obj\Debug\net6.0\P02.LineNumbers.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P02.LineNumbers\obj\Debug\net6.0\P02.LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P02.LineNumbers\obj\Debug\net6.0\P02.LineNumbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P02.LineNumbers\obj\Debug\net6.0\P02.LineNumbers.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P02.LineNumbers\obj\Debug\net6.0\P02.LineNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P02.LineNumbers\obj\Debug\net6.0\P02.LineNumbers.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P02.LineNumbers\obj\Debug\net6.0\refint\P02.LineNumbers.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P02.LineNumbers\obj\Debug\net6.0\P02.LineNumbers.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P02.LineNumbers\obj\Debug\net6.0\P02.LineNumbers.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab4 - Streams, Files and Directories\P02.LineNumbers\obj\Debug\net6.0\ref\P02.LineNumbers.dll
