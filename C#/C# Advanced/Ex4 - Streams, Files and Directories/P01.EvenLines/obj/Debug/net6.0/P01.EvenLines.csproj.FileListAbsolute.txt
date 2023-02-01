@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex4 - Streams, Files and Directories\P01.EvenLines\bin\Debug\net6.0\P01.EvenLines.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex4 - Streams, Files and Directories\P01.EvenLines\bin\Debug\net6.0\P01.EvenLines.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex4 - Streams, Files and Directories\P01.EvenLines\bin\Debug\net6.0\P01.EvenLines.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex4 - Streams, Files and Directories\P01.EvenLines\bin\Debug\net6.0\P01.EvenLines.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex4 - Streams, Files and Directories\P01.EvenLines\bin\Debug\net6.0\P01.EvenLines.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex4 - Streams, Files and Directories\P01.EvenLines\obj\Debug\net6.0\P01.EvenLines.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex4 - Streams, Files and Directories\P01.EvenLines\obj\Debug\net6.0\P01.EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex4 - Streams, Files and Directories\P01.EvenLines\obj\Debug\net6.0\P01.EvenLines.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex4 - Streams, Files and Directories\P01.EvenLines\obj\Debug\net6.0\P01.EvenLines.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex4 - Streams, Files and Directories\P01.EvenLines\obj\Debug\net6.0\P01.EvenLines.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex4 - Streams, Files and Directories\P01.EvenLines\obj\Debug\net6.0\P01.EvenLines.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex4 - Streams, Files and Directories\P01.EvenLines\obj\Debug\net6.0\refint\P01.EvenLines.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex4 - Streams, Files and Directories\P01.EvenLines\obj\Debug\net6.0\P01.EvenLines.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex4 - Streams, Files and Directories\P01.EvenLines\obj\Debug\net6.0\P01.EvenLines.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex4 - Streams, Files and Directories\P01.EvenLines\obj\Debug\net6.0\ref\P01.EvenLines.dll
