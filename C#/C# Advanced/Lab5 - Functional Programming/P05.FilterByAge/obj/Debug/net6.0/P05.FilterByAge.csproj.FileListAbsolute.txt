@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P05.FilterByAge\bin\Debug\net6.0\P05.FilterByAge.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P05.FilterByAge\bin\Debug\net6.0\P05.FilterByAge.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P05.FilterByAge\bin\Debug\net6.0\P05.FilterByAge.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P05.FilterByAge\bin\Debug\net6.0\P05.FilterByAge.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P05.FilterByAge\bin\Debug\net6.0\P05.FilterByAge.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P05.FilterByAge\obj\Debug\net6.0\P05.FilterByAge.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P05.FilterByAge\obj\Debug\net6.0\P05.FilterByAge.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P05.FilterByAge\obj\Debug\net6.0\P05.FilterByAge.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P05.FilterByAge\obj\Debug\net6.0\P05.FilterByAge.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P05.FilterByAge\obj\Debug\net6.0\P05.FilterByAge.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P05.FilterByAge\obj\Debug\net6.0\P05.FilterByAge.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P05.FilterByAge\obj\Debug\net6.0\refint\P05.FilterByAge.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P05.FilterByAge\obj\Debug\net6.0\P05.FilterByAge.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P05.FilterByAge\obj\Debug\net6.0\P05.FilterByAge.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P05.FilterByAge\obj\Debug\net6.0\ref\P05.FilterByAge.dll

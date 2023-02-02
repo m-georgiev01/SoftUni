@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P01.SortEvenNumbers\obj\Debug\net6.0\P01.SortEvenNumbers.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P01.SortEvenNumbers\obj\Debug\net6.0\P01.SortEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P01.SortEvenNumbers\obj\Debug\net6.0\P01.SortEvenNumbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P01.SortEvenNumbers\obj\Debug\net6.0\P01.SortEvenNumbers.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P01.SortEvenNumbers\obj\Debug\net6.0\P01.SortEvenNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P01.SortEvenNumbers\bin\Debug\net6.0\P01.SortEvenNumbers.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P01.SortEvenNumbers\bin\Debug\net6.0\P01.SortEvenNumbers.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P01.SortEvenNumbers\bin\Debug\net6.0\P01.SortEvenNumbers.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P01.SortEvenNumbers\bin\Debug\net6.0\P01.SortEvenNumbers.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P01.SortEvenNumbers\bin\Debug\net6.0\P01.SortEvenNumbers.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P01.SortEvenNumbers\obj\Debug\net6.0\P01.SortEvenNumbers.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P01.SortEvenNumbers\obj\Debug\net6.0\refint\P01.SortEvenNumbers.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P01.SortEvenNumbers\obj\Debug\net6.0\P01.SortEvenNumbers.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P01.SortEvenNumbers\obj\Debug\net6.0\P01.SortEvenNumbers.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P01.SortEvenNumbers\obj\Debug\net6.0\ref\P01.SortEvenNumbers.dll

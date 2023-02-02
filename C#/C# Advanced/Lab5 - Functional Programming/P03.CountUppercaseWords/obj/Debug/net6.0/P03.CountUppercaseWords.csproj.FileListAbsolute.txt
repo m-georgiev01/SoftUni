@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P03.CountUppercaseWords\bin\Debug\net6.0\P03.CountUppercaseWords.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P03.CountUppercaseWords\bin\Debug\net6.0\P03.CountUppercaseWords.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P03.CountUppercaseWords\bin\Debug\net6.0\P03.CountUppercaseWords.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P03.CountUppercaseWords\bin\Debug\net6.0\P03.CountUppercaseWords.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P03.CountUppercaseWords\bin\Debug\net6.0\P03.CountUppercaseWords.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P03.CountUppercaseWords\obj\Debug\net6.0\P03.CountUppercaseWords.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P03.CountUppercaseWords\obj\Debug\net6.0\P03.CountUppercaseWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P03.CountUppercaseWords\obj\Debug\net6.0\P03.CountUppercaseWords.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P03.CountUppercaseWords\obj\Debug\net6.0\P03.CountUppercaseWords.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P03.CountUppercaseWords\obj\Debug\net6.0\P03.CountUppercaseWords.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P03.CountUppercaseWords\obj\Debug\net6.0\P03.CountUppercaseWords.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P03.CountUppercaseWords\obj\Debug\net6.0\refint\P03.CountUppercaseWords.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P03.CountUppercaseWords\obj\Debug\net6.0\P03.CountUppercaseWords.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P03.CountUppercaseWords\obj\Debug\net6.0\P03.CountUppercaseWords.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab5 - Functional Programming\P03.CountUppercaseWords\obj\Debug\net6.0\ref\P03.CountUppercaseWords.dll
