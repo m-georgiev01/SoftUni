@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P01.ActionPrint\bin\Debug\net6.0\P01.ActionPrint.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P01.ActionPrint\bin\Debug\net6.0\P01.ActionPrint.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P01.ActionPrint\bin\Debug\net6.0\P01.ActionPrint.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P01.ActionPrint\bin\Debug\net6.0\P01.ActionPrint.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P01.ActionPrint\bin\Debug\net6.0\P01.ActionPrint.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P01.ActionPrint\obj\Debug\net6.0\P01.ActionPrint.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P01.ActionPrint\obj\Debug\net6.0\P01.ActionPrint.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P01.ActionPrint\obj\Debug\net6.0\P01.ActionPrint.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P01.ActionPrint\obj\Debug\net6.0\P01.ActionPrint.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P01.ActionPrint\obj\Debug\net6.0\P01.ActionPrint.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P01.ActionPrint\obj\Debug\net6.0\P01.ActionPrint.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P01.ActionPrint\obj\Debug\net6.0\refint\P01.ActionPrint.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P01.ActionPrint\obj\Debug\net6.0\P01.ActionPrint.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P01.ActionPrint\obj\Debug\net6.0\P01.ActionPrint.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P01.ActionPrint\obj\Debug\net6.0\ref\P01.ActionPrint.dll

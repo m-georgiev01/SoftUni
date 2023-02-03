@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P05.AppliedArithmetics\bin\Debug\net6.0\P05.AppliedArithmetics.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P05.AppliedArithmetics\bin\Debug\net6.0\P05.AppliedArithmetics.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P05.AppliedArithmetics\bin\Debug\net6.0\P05.AppliedArithmetics.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P05.AppliedArithmetics\bin\Debug\net6.0\P05.AppliedArithmetics.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P05.AppliedArithmetics\bin\Debug\net6.0\P05.AppliedArithmetics.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P05.AppliedArithmetics\obj\Debug\net6.0\P05.AppliedArithmetics.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P05.AppliedArithmetics\obj\Debug\net6.0\P05.AppliedArithmetics.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P05.AppliedArithmetics\obj\Debug\net6.0\P05.AppliedArithmetics.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P05.AppliedArithmetics\obj\Debug\net6.0\P05.AppliedArithmetics.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P05.AppliedArithmetics\obj\Debug\net6.0\P05.AppliedArithmetics.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P05.AppliedArithmetics\obj\Debug\net6.0\P05.AppliedArithmetics.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P05.AppliedArithmetics\obj\Debug\net6.0\refint\P05.AppliedArithmetics.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P05.AppliedArithmetics\obj\Debug\net6.0\P05.AppliedArithmetics.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P05.AppliedArithmetics\obj\Debug\net6.0\P05.AppliedArithmetics.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P05.AppliedArithmetics\obj\Debug\net6.0\ref\P05.AppliedArithmetics.dll

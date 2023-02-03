@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P02.KnightsOfHonor\bin\Debug\net6.0\P02.KnightsOfHonor.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P02.KnightsOfHonor\bin\Debug\net6.0\P02.KnightsOfHonor.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P02.KnightsOfHonor\bin\Debug\net6.0\P02.KnightsOfHonor.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P02.KnightsOfHonor\bin\Debug\net6.0\P02.KnightsOfHonor.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P02.KnightsOfHonor\bin\Debug\net6.0\P02.KnightsOfHonor.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P02.KnightsOfHonor\obj\Debug\net6.0\P02.KnightsOfHonor.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P02.KnightsOfHonor\obj\Debug\net6.0\P02.KnightsOfHonor.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P02.KnightsOfHonor\obj\Debug\net6.0\P02.KnightsOfHonor.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P02.KnightsOfHonor\obj\Debug\net6.0\P02.KnightsOfHonor.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P02.KnightsOfHonor\obj\Debug\net6.0\P02.KnightsOfHonor.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P02.KnightsOfHonor\obj\Debug\net6.0\P02.KnightsOfHonor.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P02.KnightsOfHonor\obj\Debug\net6.0\refint\P02.KnightsOfHonor.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P02.KnightsOfHonor\obj\Debug\net6.0\P02.KnightsOfHonor.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P02.KnightsOfHonor\obj\Debug\net6.0\P02.KnightsOfHonor.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P02.KnightsOfHonor\obj\Debug\net6.0\ref\P02.KnightsOfHonor.dll

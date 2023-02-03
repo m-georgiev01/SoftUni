@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P09.PredicateParty!\bin\Debug\net6.0\P09.PredicateParty!.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P09.PredicateParty!\bin\Debug\net6.0\P09.PredicateParty!.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P09.PredicateParty!\bin\Debug\net6.0\P09.PredicateParty!.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P09.PredicateParty!\bin\Debug\net6.0\P09.PredicateParty!.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P09.PredicateParty!\bin\Debug\net6.0\P09.PredicateParty!.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P09.PredicateParty!\obj\Debug\net6.0\P09.PredicateParty!.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P09.PredicateParty!\obj\Debug\net6.0\P09.PredicateParty!.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P09.PredicateParty!\obj\Debug\net6.0\P09.PredicateParty!.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P09.PredicateParty!\obj\Debug\net6.0\P09.PredicateParty!.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P09.PredicateParty!\obj\Debug\net6.0\P09.PredicateParty!.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P09.PredicateParty!\obj\Debug\net6.0\P09.PredicateParty!.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P09.PredicateParty!\obj\Debug\net6.0\refint\P09.PredicateParty!.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P09.PredicateParty!\obj\Debug\net6.0\P09.PredicateParty!.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P09.PredicateParty!\obj\Debug\net6.0\P09.PredicateParty!.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P09.PredicateParty!\obj\Debug\net6.0\ref\P09.PredicateParty!.dll

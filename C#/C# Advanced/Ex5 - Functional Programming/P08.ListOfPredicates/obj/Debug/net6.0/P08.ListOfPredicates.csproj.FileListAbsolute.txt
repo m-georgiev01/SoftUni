@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P08.ListOfPredicates\bin\Debug\net6.0\P08.ListOfPredicates.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P08.ListOfPredicates\bin\Debug\net6.0\P08.ListOfPredicates.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P08.ListOfPredicates\bin\Debug\net6.0\P08.ListOfPredicates.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P08.ListOfPredicates\bin\Debug\net6.0\P08.ListOfPredicates.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P08.ListOfPredicates\bin\Debug\net6.0\P08.ListOfPredicates.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P08.ListOfPredicates\obj\Debug\net6.0\P08.ListOfPredicates.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P08.ListOfPredicates\obj\Debug\net6.0\P08.ListOfPredicates.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P08.ListOfPredicates\obj\Debug\net6.0\P08.ListOfPredicates.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P08.ListOfPredicates\obj\Debug\net6.0\P08.ListOfPredicates.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P08.ListOfPredicates\obj\Debug\net6.0\P08.ListOfPredicates.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P08.ListOfPredicates\obj\Debug\net6.0\P08.ListOfPredicates.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P08.ListOfPredicates\obj\Debug\net6.0\refint\P08.ListOfPredicates.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P08.ListOfPredicates\obj\Debug\net6.0\P08.ListOfPredicates.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P08.ListOfPredicates\obj\Debug\net6.0\P08.ListOfPredicates.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex5 - Functional Programming\P08.ListOfPredicates\obj\Debug\net6.0\ref\P08.ListOfPredicates.dll
