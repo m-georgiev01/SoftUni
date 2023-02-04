@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Lab6 - Defining Classes\P02.CarExtension\bin\Debug\net6.0\P02.CarExtension.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Lab6 - Defining Classes\P02.CarExtension\bin\Debug\net6.0\P02.CarExtension.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab6 - Defining Classes\P02.CarExtension\bin\Debug\net6.0\P02.CarExtension.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab6 - Defining Classes\P02.CarExtension\bin\Debug\net6.0\P02.CarExtension.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab6 - Defining Classes\P02.CarExtension\bin\Debug\net6.0\P02.CarExtension.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab6 - Defining Classes\P02.CarExtension\obj\Debug\net6.0\P02.CarExtension.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab6 - Defining Classes\P02.CarExtension\obj\Debug\net6.0\P02.CarExtension.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Lab6 - Defining Classes\P02.CarExtension\obj\Debug\net6.0\P02.CarExtension.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab6 - Defining Classes\P02.CarExtension\obj\Debug\net6.0\P02.CarExtension.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Lab6 - Defining Classes\P02.CarExtension\obj\Debug\net6.0\P02.CarExtension.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab6 - Defining Classes\P02.CarExtension\obj\Debug\net6.0\P02.CarExtension.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab6 - Defining Classes\P02.CarExtension\obj\Debug\net6.0\refint\P02.CarExtension.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab6 - Defining Classes\P02.CarExtension\obj\Debug\net6.0\P02.CarExtension.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab6 - Defining Classes\P02.CarExtension\obj\Debug\net6.0\P02.CarExtension.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab6 - Defining Classes\P02.CarExtension\obj\Debug\net6.0\ref\P02.CarExtension.dll
