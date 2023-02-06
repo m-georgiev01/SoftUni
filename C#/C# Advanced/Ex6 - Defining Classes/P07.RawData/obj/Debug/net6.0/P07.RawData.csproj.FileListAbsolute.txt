@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P07.RawData\bin\Debug\net6.0\P07.RawData.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P07.RawData\bin\Debug\net6.0\P07.RawData.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P07.RawData\bin\Debug\net6.0\P07.RawData.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P07.RawData\bin\Debug\net6.0\P07.RawData.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P07.RawData\bin\Debug\net6.0\P07.RawData.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P07.RawData\obj\Debug\net6.0\P07.RawData.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P07.RawData\obj\Debug\net6.0\P07.RawData.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P07.RawData\obj\Debug\net6.0\P07.RawData.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P07.RawData\obj\Debug\net6.0\P07.RawData.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P07.RawData\obj\Debug\net6.0\P07.RawData.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P07.RawData\obj\Debug\net6.0\P07.RawData.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P07.RawData\obj\Debug\net6.0\refint\P07.RawData.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P07.RawData\obj\Debug\net6.0\P07.RawData.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P07.RawData\obj\Debug\net6.0\P07.RawData.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P07.RawData\obj\Debug\net6.0\ref\P07.RawData.dll

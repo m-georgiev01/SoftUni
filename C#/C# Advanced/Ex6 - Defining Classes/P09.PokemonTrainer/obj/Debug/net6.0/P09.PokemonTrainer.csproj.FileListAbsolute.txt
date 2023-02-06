@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P09.PokemonTrainer\bin\Debug\net6.0\P09.PokemonTrainer.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P09.PokemonTrainer\bin\Debug\net6.0\P09.PokemonTrainer.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P09.PokemonTrainer\bin\Debug\net6.0\P09.PokemonTrainer.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P09.PokemonTrainer\bin\Debug\net6.0\P09.PokemonTrainer.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P09.PokemonTrainer\bin\Debug\net6.0\P09.PokemonTrainer.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P09.PokemonTrainer\obj\Debug\net6.0\P09.PokemonTrainer.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P09.PokemonTrainer\obj\Debug\net6.0\P09.PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P09.PokemonTrainer\obj\Debug\net6.0\P09.PokemonTrainer.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P09.PokemonTrainer\obj\Debug\net6.0\P09.PokemonTrainer.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P09.PokemonTrainer\obj\Debug\net6.0\P09.PokemonTrainer.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P09.PokemonTrainer\obj\Debug\net6.0\P09.PokemonTrainer.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P09.PokemonTrainer\obj\Debug\net6.0\refint\P09.PokemonTrainer.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P09.PokemonTrainer\obj\Debug\net6.0\P09.PokemonTrainer.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P09.PokemonTrainer\obj\Debug\net6.0\P09.PokemonTrainer.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P09.PokemonTrainer\obj\Debug\net6.0\ref\P09.PokemonTrainer.dll

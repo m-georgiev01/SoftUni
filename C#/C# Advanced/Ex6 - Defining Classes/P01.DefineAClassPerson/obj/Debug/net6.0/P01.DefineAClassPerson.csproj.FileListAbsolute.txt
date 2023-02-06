@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P01.DefineAClassPerson\bin\Debug\net6.0\P01.DefineAClassPerson.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P01.DefineAClassPerson\bin\Debug\net6.0\P01.DefineAClassPerson.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P01.DefineAClassPerson\bin\Debug\net6.0\P01.DefineAClassPerson.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P01.DefineAClassPerson\bin\Debug\net6.0\P01.DefineAClassPerson.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P01.DefineAClassPerson\bin\Debug\net6.0\P01.DefineAClassPerson.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P01.DefineAClassPerson\obj\Debug\net6.0\P01.DefineAClassPerson.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P01.DefineAClassPerson\obj\Debug\net6.0\P01.DefineAClassPerson.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P01.DefineAClassPerson\obj\Debug\net6.0\P01.DefineAClassPerson.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P01.DefineAClassPerson\obj\Debug\net6.0\P01.DefineAClassPerson.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P01.DefineAClassPerson\obj\Debug\net6.0\P01.DefineAClassPerson.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P01.DefineAClassPerson\obj\Debug\net6.0\P01.DefineAClassPerson.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P01.DefineAClassPerson\obj\Debug\net6.0\refint\P01.DefineAClassPerson.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P01.DefineAClassPerson\obj\Debug\net6.0\P01.DefineAClassPerson.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P01.DefineAClassPerson\obj\Debug\net6.0\P01.DefineAClassPerson.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P01.DefineAClassPerson\obj\Debug\net6.0\ref\P01.DefineAClassPerson.dll

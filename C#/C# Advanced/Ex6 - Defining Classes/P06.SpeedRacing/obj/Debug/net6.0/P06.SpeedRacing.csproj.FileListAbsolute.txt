@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P06.SpeedRacing\bin\Debug\net6.0\P06.SpeedRacing.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P06.SpeedRacing\bin\Debug\net6.0\P06.SpeedRacing.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P06.SpeedRacing\bin\Debug\net6.0\P06.SpeedRacing.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P06.SpeedRacing\bin\Debug\net6.0\P06.SpeedRacing.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P06.SpeedRacing\bin\Debug\net6.0\P06.SpeedRacing.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P06.SpeedRacing\obj\Debug\net6.0\P06.SpeedRacing.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P06.SpeedRacing\obj\Debug\net6.0\P06.SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P06.SpeedRacing\obj\Debug\net6.0\P06.SpeedRacing.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P06.SpeedRacing\obj\Debug\net6.0\P06.SpeedRacing.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P06.SpeedRacing\obj\Debug\net6.0\P06.SpeedRacing.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P06.SpeedRacing\obj\Debug\net6.0\P06.SpeedRacing.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P06.SpeedRacing\obj\Debug\net6.0\refint\P06.SpeedRacing.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P06.SpeedRacing\obj\Debug\net6.0\P06.SpeedRacing.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P06.SpeedRacing\obj\Debug\net6.0\P06.SpeedRacing.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P06.SpeedRacing\obj\Debug\net6.0\ref\P06.SpeedRacing.dll

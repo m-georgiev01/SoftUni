@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P02.CreatingConstructors\bin\Debug\net6.0\P02.CreatingConstructors.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P02.CreatingConstructors\bin\Debug\net6.0\P02.CreatingConstructors.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P02.CreatingConstructors\bin\Debug\net6.0\P02.CreatingConstructors.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P02.CreatingConstructors\bin\Debug\net6.0\P02.CreatingConstructors.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P02.CreatingConstructors\bin\Debug\net6.0\P02.CreatingConstructors.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P02.CreatingConstructors\obj\Debug\net6.0\P02.CreatingConstructors.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P02.CreatingConstructors\obj\Debug\net6.0\P02.CreatingConstructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P02.CreatingConstructors\obj\Debug\net6.0\P02.CreatingConstructors.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P02.CreatingConstructors\obj\Debug\net6.0\P02.CreatingConstructors.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P02.CreatingConstructors\obj\Debug\net6.0\P02.CreatingConstructors.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P02.CreatingConstructors\obj\Debug\net6.0\P02.CreatingConstructors.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P02.CreatingConstructors\obj\Debug\net6.0\refint\P02.CreatingConstructors.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P02.CreatingConstructors\obj\Debug\net6.0\P02.CreatingConstructors.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P02.CreatingConstructors\obj\Debug\net6.0\P02.CreatingConstructors.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex6 - Defining Classes\P02.CreatingConstructors\obj\Debug\net6.0\ref\P02.CreatingConstructors.dll
