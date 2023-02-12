@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P02.Collection\bin\Debug\net6.0\P02.Collection.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P02.Collection\bin\Debug\net6.0\P02.Collection.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P02.Collection\bin\Debug\net6.0\P02.Collection.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P02.Collection\bin\Debug\net6.0\P02.Collection.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P02.Collection\bin\Debug\net6.0\P02.Collection.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P02.Collection\obj\Debug\net6.0\P02.Collection.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P02.Collection\obj\Debug\net6.0\P02.Collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P02.Collection\obj\Debug\net6.0\P02.Collection.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P02.Collection\obj\Debug\net6.0\P02.Collection.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P02.Collection\obj\Debug\net6.0\P02.Collection.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P02.Collection\obj\Debug\net6.0\P02.Collection.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P02.Collection\obj\Debug\net6.0\refint\P02.Collection.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P02.Collection\obj\Debug\net6.0\P02.Collection.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P02.Collection\obj\Debug\net6.0\P02.Collection.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P02.Collection\obj\Debug\net6.0\ref\P02.Collection.dll

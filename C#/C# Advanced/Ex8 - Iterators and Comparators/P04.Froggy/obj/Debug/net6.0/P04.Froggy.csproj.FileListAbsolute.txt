@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P04.Froggy\bin\Debug\net6.0\P04.Froggy.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P04.Froggy\bin\Debug\net6.0\P04.Froggy.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P04.Froggy\bin\Debug\net6.0\P04.Froggy.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P04.Froggy\bin\Debug\net6.0\P04.Froggy.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P04.Froggy\bin\Debug\net6.0\P04.Froggy.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P04.Froggy\obj\Debug\net6.0\P04.Froggy.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P04.Froggy\obj\Debug\net6.0\P04.Froggy.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P04.Froggy\obj\Debug\net6.0\P04.Froggy.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P04.Froggy\obj\Debug\net6.0\P04.Froggy.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P04.Froggy\obj\Debug\net6.0\P04.Froggy.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P04.Froggy\obj\Debug\net6.0\P04.Froggy.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P04.Froggy\obj\Debug\net6.0\refint\P04.Froggy.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P04.Froggy\obj\Debug\net6.0\P04.Froggy.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P04.Froggy\obj\Debug\net6.0\P04.Froggy.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P04.Froggy\obj\Debug\net6.0\ref\P04.Froggy.dll

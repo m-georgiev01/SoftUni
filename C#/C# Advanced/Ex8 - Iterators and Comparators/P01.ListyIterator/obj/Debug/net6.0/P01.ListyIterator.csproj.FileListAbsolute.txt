@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P01.ListyIterator\bin\Debug\net6.0\P01.ListyIterator.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P01.ListyIterator\bin\Debug\net6.0\P01.ListyIterator.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P01.ListyIterator\bin\Debug\net6.0\P01.ListyIterator.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P01.ListyIterator\bin\Debug\net6.0\P01.ListyIterator.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P01.ListyIterator\bin\Debug\net6.0\P01.ListyIterator.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P01.ListyIterator\obj\Debug\net6.0\P01.ListyIterator.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P01.ListyIterator\obj\Debug\net6.0\P01.ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P01.ListyIterator\obj\Debug\net6.0\P01.ListyIterator.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P01.ListyIterator\obj\Debug\net6.0\P01.ListyIterator.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P01.ListyIterator\obj\Debug\net6.0\P01.ListyIterator.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P01.ListyIterator\obj\Debug\net6.0\P01.ListyIterator.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P01.ListyIterator\obj\Debug\net6.0\refint\P01.ListyIterator.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P01.ListyIterator\obj\Debug\net6.0\P01.ListyIterator.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P01.ListyIterator\obj\Debug\net6.0\P01.ListyIterator.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P01.ListyIterator\obj\Debug\net6.0\ref\P01.ListyIterator.dll

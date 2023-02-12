@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P03.Stack\bin\Debug\net6.0\P03.Stack.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P03.Stack\bin\Debug\net6.0\P03.Stack.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P03.Stack\bin\Debug\net6.0\P03.Stack.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P03.Stack\bin\Debug\net6.0\P03.Stack.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P03.Stack\bin\Debug\net6.0\P03.Stack.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P03.Stack\obj\Debug\net6.0\P03.Stack.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P03.Stack\obj\Debug\net6.0\P03.Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P03.Stack\obj\Debug\net6.0\P03.Stack.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P03.Stack\obj\Debug\net6.0\P03.Stack.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P03.Stack\obj\Debug\net6.0\P03.Stack.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P03.Stack\obj\Debug\net6.0\P03.Stack.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P03.Stack\obj\Debug\net6.0\refint\P03.Stack.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P03.Stack\obj\Debug\net6.0\P03.Stack.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P03.Stack\obj\Debug\net6.0\P03.Stack.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P03.Stack\obj\Debug\net6.0\ref\P03.Stack.dll

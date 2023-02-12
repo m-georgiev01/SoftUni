@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P07.CustomComparator\bin\Debug\net6.0\P07.CustomComparator.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P07.CustomComparator\bin\Debug\net6.0\P07.CustomComparator.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P07.CustomComparator\bin\Debug\net6.0\P07.CustomComparator.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P07.CustomComparator\bin\Debug\net6.0\P07.CustomComparator.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P07.CustomComparator\bin\Debug\net6.0\P07.CustomComparator.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P07.CustomComparator\obj\Debug\net6.0\P07.CustomComparator.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P07.CustomComparator\obj\Debug\net6.0\P07.CustomComparator.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P07.CustomComparator\obj\Debug\net6.0\P07.CustomComparator.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P07.CustomComparator\obj\Debug\net6.0\P07.CustomComparator.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P07.CustomComparator\obj\Debug\net6.0\P07.CustomComparator.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P07.CustomComparator\obj\Debug\net6.0\P07.CustomComparator.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P07.CustomComparator\obj\Debug\net6.0\refint\P07.CustomComparator.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P07.CustomComparator\obj\Debug\net6.0\P07.CustomComparator.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P07.CustomComparator\obj\Debug\net6.0\P07.CustomComparator.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Ex8 - Iterators and Comparators\P07.CustomComparator\obj\Debug\net6.0\ref\P07.CustomComparator.dll
