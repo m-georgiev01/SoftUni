@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\NavyBattle\bin\Debug\net6.0\NavyBattle.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\NavyBattle\bin\Debug\net6.0\NavyBattle.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\NavyBattle\bin\Debug\net6.0\NavyBattle.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\NavyBattle\bin\Debug\net6.0\NavyBattle.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\NavyBattle\bin\Debug\net6.0\NavyBattle.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\NavyBattle\obj\Debug\net6.0\NavyBattle.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\NavyBattle\obj\Debug\net6.0\NavyBattle.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\NavyBattle\obj\Debug\net6.0\NavyBattle.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\NavyBattle\obj\Debug\net6.0\NavyBattle.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\NavyBattle\obj\Debug\net6.0\NavyBattle.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\NavyBattle\obj\Debug\net6.0\NavyBattle.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\NavyBattle\obj\Debug\net6.0\refint\NavyBattle.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\NavyBattle\obj\Debug\net6.0\NavyBattle.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\NavyBattle\obj\Debug\net6.0\NavyBattle.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\NavyBattle\obj\Debug\net6.0\ref\NavyBattle.dll

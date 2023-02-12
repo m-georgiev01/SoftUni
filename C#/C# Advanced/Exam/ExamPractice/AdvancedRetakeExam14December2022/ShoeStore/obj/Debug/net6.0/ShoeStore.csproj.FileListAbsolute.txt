@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\ShoeStore\obj\Debug\net6.0\ShoeStore.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\ShoeStore\obj\Debug\net6.0\ShoeStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\ShoeStore\obj\Debug\net6.0\ShoeStore.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\ShoeStore\obj\Debug\net6.0\ShoeStore.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\ShoeStore\obj\Debug\net6.0\ShoeStore.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\ShoeStore\bin\Debug\net6.0\ShoeStore.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\ShoeStore\bin\Debug\net6.0\ShoeStore.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\ShoeStore\bin\Debug\net6.0\ShoeStore.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\ShoeStore\bin\Debug\net6.0\ShoeStore.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\ShoeStore\bin\Debug\net6.0\ShoeStore.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\ShoeStore\obj\Debug\net6.0\ShoeStore.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\ShoeStore\obj\Debug\net6.0\refint\ShoeStore.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\ShoeStore\obj\Debug\net6.0\ShoeStore.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\ShoeStore\obj\Debug\net6.0\ShoeStore.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam14December2022\ShoeStore\obj\Debug\net6.0\ref\ShoeStore.dll
