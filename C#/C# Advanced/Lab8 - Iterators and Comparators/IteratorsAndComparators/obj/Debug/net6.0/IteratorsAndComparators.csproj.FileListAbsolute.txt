@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Lab8 - Iterators and Comparators\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Lab8 - Iterators and Comparators\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab8 - Iterators and Comparators\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Lab8 - Iterators and Comparators\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab8 - Iterators and Comparators\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab8 - Iterators and Comparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab8 - Iterators and Comparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Lab8 - Iterators and Comparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab8 - Iterators and Comparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Lab8 - Iterators and Comparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab8 - Iterators and Comparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab8 - Iterators and Comparators\IteratorsAndComparators\obj\Debug\net6.0\refint\IteratorsAndComparators.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Lab8 - Iterators and Comparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Lab8 - Iterators and Comparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Lab8 - Iterators and Comparators\IteratorsAndComparators\obj\Debug\net6.0\ref\IteratorsAndComparators.dll
