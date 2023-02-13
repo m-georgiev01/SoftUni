@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\EnergyDrinks\bin\Debug\net6.0\EnergyDrinks.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\EnergyDrinks\bin\Debug\net6.0\EnergyDrinks.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\EnergyDrinks\bin\Debug\net6.0\EnergyDrinks.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\EnergyDrinks\bin\Debug\net6.0\EnergyDrinks.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\EnergyDrinks\bin\Debug\net6.0\EnergyDrinks.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\EnergyDrinks\obj\Debug\net6.0\refint\EnergyDrinks.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\EnergyDrinks\obj\Debug\net6.0\ref\EnergyDrinks.dll

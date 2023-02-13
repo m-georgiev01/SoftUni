@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\RallyRacing\bin\Debug\net6.0\RallyRacing.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\RallyRacing\bin\Debug\net6.0\RallyRacing.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\RallyRacing\bin\Debug\net6.0\RallyRacing.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\RallyRacing\bin\Debug\net6.0\RallyRacing.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\RallyRacing\bin\Debug\net6.0\RallyRacing.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\RallyRacing\obj\Debug\net6.0\RallyRacing.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\RallyRacing\obj\Debug\net6.0\RallyRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\RallyRacing\obj\Debug\net6.0\RallyRacing.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\RallyRacing\obj\Debug\net6.0\RallyRacing.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\RallyRacing\obj\Debug\net6.0\RallyRacing.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\RallyRacing\obj\Debug\net6.0\RallyRacing.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\RallyRacing\obj\Debug\net6.0\refint\RallyRacing.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\RallyRacing\obj\Debug\net6.0\RallyRacing.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\RallyRacing\obj\Debug\net6.0\RallyRacing.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\RallyRacing\obj\Debug\net6.0\ref\RallyRacing.dll

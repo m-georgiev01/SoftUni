@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\ComputerArchitecture\bin\Debug\net6.0\ComputerArchitecture.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\ComputerArchitecture\bin\Debug\net6.0\ComputerArchitecture.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\ComputerArchitecture\bin\Debug\net6.0\ComputerArchitecture.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\ComputerArchitecture\bin\Debug\net6.0\ComputerArchitecture.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\ComputerArchitecture\bin\Debug\net6.0\ComputerArchitecture.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\ComputerArchitecture\obj\Debug\net6.0\refint\ComputerArchitecture.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedExam22October2022\ComputerArchitecture\obj\Debug\net6.0\ref\ComputerArchitecture.dll
