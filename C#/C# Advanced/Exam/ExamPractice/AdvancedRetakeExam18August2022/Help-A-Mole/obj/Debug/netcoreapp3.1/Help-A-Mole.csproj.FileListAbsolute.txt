@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam18August2022\Help-A-Mole\bin\Debug\netcoreapp3.1\Help-A-Mole.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam18August2022\Help-A-Mole\bin\Debug\netcoreapp3.1\Help-A-Mole.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam18August2022\Help-A-Mole\bin\Debug\netcoreapp3.1\Help-A-Mole.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam18August2022\Help-A-Mole\bin\Debug\netcoreapp3.1\Help-A-Mole.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam18August2022\Help-A-Mole\bin\Debug\netcoreapp3.1\Help-A-Mole.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam18August2022\Help-A-Mole\bin\Debug\netcoreapp3.1\Help-A-Mole.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam18August2022\Help-A-Mole\obj\Debug\netcoreapp3.1\Help-A-Mole.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam18August2022\Help-A-Mole\obj\Debug\netcoreapp3.1\Help-A-Mole.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam18August2022\Help-A-Mole\obj\Debug\netcoreapp3.1\Help-A-Mole.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam18August2022\Help-A-Mole\obj\Debug\netcoreapp3.1\Help-A-Mole.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam18August2022\Help-A-Mole\obj\Debug\netcoreapp3.1\Help-A-Mole.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam18August2022\Help-A-Mole\obj\Debug\netcoreapp3.1\Help-A-Mole.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam18August2022\Help-A-Mole\obj\Debug\netcoreapp3.1\Help-A-Mole.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\ExamPractice\AdvancedRetakeExam18August2022\Help-A-Mole\obj\Debug\netcoreapp3.1\Help-A-Mole.genruntimeconfig.cache
