@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\AdvancedExam18February2023\BlindMansBuff\bin\Debug\net6.0\BlindMansBuff.exe
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\AdvancedExam18February2023\BlindMansBuff\bin\Debug\net6.0\BlindMansBuff.deps.json
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\AdvancedExam18February2023\BlindMansBuff\bin\Debug\net6.0\BlindMansBuff.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\AdvancedExam18February2023\BlindMansBuff\bin\Debug\net6.0\BlindMansBuff.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\AdvancedExam18February2023\BlindMansBuff\bin\Debug\net6.0\BlindMansBuff.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\AdvancedExam18February2023\BlindMansBuff\obj\Debug\net6.0\BlindMansBuff.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\AdvancedExam18February2023\BlindMansBuff\obj\Debug\net6.0\BlindMansBuff.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\AdvancedExam18February2023\BlindMansBuff\obj\Debug\net6.0\BlindMansBuff.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\AdvancedExam18February2023\BlindMansBuff\obj\Debug\net6.0\BlindMansBuff.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\AdvancedExam18February2023\BlindMansBuff\obj\Debug\net6.0\BlindMansBuff.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\AdvancedExam18February2023\BlindMansBuff\obj\Debug\net6.0\BlindMansBuff.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\AdvancedExam18February2023\BlindMansBuff\obj\Debug\net6.0\refint\BlindMansBuff.dll
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\AdvancedExam18February2023\BlindMansBuff\obj\Debug\net6.0\BlindMansBuff.pdb
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\AdvancedExam18February2023\BlindMansBuff\obj\Debug\net6.0\BlindMansBuff.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# Advanced\Exam\AdvancedExam18February2023\BlindMansBuff\obj\Debug\net6.0\ref\BlindMansBuff.dll
