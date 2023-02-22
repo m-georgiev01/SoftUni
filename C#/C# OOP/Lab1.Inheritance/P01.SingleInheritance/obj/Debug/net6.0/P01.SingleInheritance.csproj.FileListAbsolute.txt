@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P01.SingleInheritance\bin\Debug\net6.0\P01.SingleInheritance.exe
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P01.SingleInheritance\bin\Debug\net6.0\P01.SingleInheritance.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P01.SingleInheritance\bin\Debug\net6.0\P01.SingleInheritance.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P01.SingleInheritance\bin\Debug\net6.0\P01.SingleInheritance.dll
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P01.SingleInheritance\bin\Debug\net6.0\P01.SingleInheritance.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P01.SingleInheritance\obj\Debug\net6.0\P01.SingleInheritance.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P01.SingleInheritance\obj\Debug\net6.0\P01.SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P01.SingleInheritance\obj\Debug\net6.0\P01.SingleInheritance.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P01.SingleInheritance\obj\Debug\net6.0\P01.SingleInheritance.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P01.SingleInheritance\obj\Debug\net6.0\P01.SingleInheritance.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P01.SingleInheritance\obj\Debug\net6.0\P01.SingleInheritance.dll
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P01.SingleInheritance\obj\Debug\net6.0\refint\P01.SingleInheritance.dll
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P01.SingleInheritance\obj\Debug\net6.0\P01.SingleInheritance.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P01.SingleInheritance\obj\Debug\net6.0\P01.SingleInheritance.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P01.SingleInheritance\obj\Debug\net6.0\ref\P01.SingleInheritance.dll

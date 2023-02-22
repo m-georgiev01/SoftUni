@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P03.HierarchicalInheritance\bin\Debug\net6.0\P03.HierarchicalInheritance.exe
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P03.HierarchicalInheritance\bin\Debug\net6.0\P03.HierarchicalInheritance.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P03.HierarchicalInheritance\bin\Debug\net6.0\P03.HierarchicalInheritance.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P03.HierarchicalInheritance\bin\Debug\net6.0\P03.HierarchicalInheritance.dll
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P03.HierarchicalInheritance\bin\Debug\net6.0\P03.HierarchicalInheritance.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P03.HierarchicalInheritance\obj\Debug\net6.0\P03.HierarchicalInheritance.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P03.HierarchicalInheritance\obj\Debug\net6.0\P03.HierarchicalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P03.HierarchicalInheritance\obj\Debug\net6.0\P03.HierarchicalInheritance.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P03.HierarchicalInheritance\obj\Debug\net6.0\P03.HierarchicalInheritance.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P03.HierarchicalInheritance\obj\Debug\net6.0\P03.HierarchicalInheritance.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P03.HierarchicalInheritance\obj\Debug\net6.0\P03.HierarchicalInheritance.dll
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P03.HierarchicalInheritance\obj\Debug\net6.0\refint\P03.HierarchicalInheritance.dll
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P03.HierarchicalInheritance\obj\Debug\net6.0\P03.HierarchicalInheritance.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P03.HierarchicalInheritance\obj\Debug\net6.0\P03.HierarchicalInheritance.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab1.Inheritance\P03.HierarchicalInheritance\obj\Debug\net6.0\ref\P03.HierarchicalInheritance.dll
