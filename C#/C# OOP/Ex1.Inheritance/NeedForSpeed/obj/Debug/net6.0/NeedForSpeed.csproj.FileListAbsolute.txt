@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.exe
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\NeedForSpeed\obj\Debug\net6.0\refint\NeedForSpeed.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\NeedForSpeed\obj\Debug\net6.0\ref\NeedForSpeed.dll

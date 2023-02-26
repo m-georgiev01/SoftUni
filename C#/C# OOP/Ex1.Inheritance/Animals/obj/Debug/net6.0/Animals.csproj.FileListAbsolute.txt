@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\Animals\obj\Debug\net6.0\Animals.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\Animals\bin\Debug\net6.0\Animals.exe
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\Animals\bin\Debug\net6.0\Animals.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\Animals\bin\Debug\net6.0\Animals.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\Animals\bin\Debug\net6.0\Animals.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\Animals\obj\Debug\net6.0\Animals.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\Animals\obj\Debug\net6.0\refint\Animals.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\Animals\obj\Debug\net6.0\Animals.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex1.Inheritance\Animals\obj\Debug\net6.0\ref\Animals.dll
