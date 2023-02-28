@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P01.Persons\bin\Debug\net6.0\P01.Persons.exe
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P01.Persons\bin\Debug\net6.0\P01.Persons.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P01.Persons\bin\Debug\net6.0\P01.Persons.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P01.Persons\bin\Debug\net6.0\P01.Persons.dll
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P01.Persons\bin\Debug\net6.0\P01.Persons.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P01.Persons\obj\Debug\net6.0\P01.Persons.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P01.Persons\obj\Debug\net6.0\P01.Persons.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P01.Persons\obj\Debug\net6.0\P01.Persons.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P01.Persons\obj\Debug\net6.0\P01.Persons.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P01.Persons\obj\Debug\net6.0\P01.Persons.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P01.Persons\obj\Debug\net6.0\P01.Persons.dll
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P01.Persons\obj\Debug\net6.0\refint\P01.Persons.dll
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P01.Persons\obj\Debug\net6.0\P01.Persons.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P01.Persons\obj\Debug\net6.0\P01.Persons.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P01.Persons\obj\Debug\net6.0\ref\P01.Persons.dll

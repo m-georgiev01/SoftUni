@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P02.Salary\bin\Debug\net6.0\P02.Salary.exe
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P02.Salary\bin\Debug\net6.0\P02.Salary.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P02.Salary\bin\Debug\net6.0\P02.Salary.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P02.Salary\bin\Debug\net6.0\P02.Salary.dll
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P02.Salary\bin\Debug\net6.0\P02.Salary.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P02.Salary\obj\Debug\net6.0\P02.Salary.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P02.Salary\obj\Debug\net6.0\P02.Salary.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P02.Salary\obj\Debug\net6.0\P02.Salary.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P02.Salary\obj\Debug\net6.0\P02.Salary.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P02.Salary\obj\Debug\net6.0\P02.Salary.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P02.Salary\obj\Debug\net6.0\P02.Salary.dll
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P02.Salary\obj\Debug\net6.0\refint\P02.Salary.dll
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P02.Salary\obj\Debug\net6.0\P02.Salary.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P02.Salary\obj\Debug\net6.0\P02.Salary.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab2.Encapsulation\P02.Salary\obj\Debug\net6.0\ref\P02.Salary.dll
