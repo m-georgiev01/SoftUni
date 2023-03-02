@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ClassBoxData\bin\Debug\net6.0\ClassBoxData.exe
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ClassBoxData\bin\Debug\net6.0\ClassBoxData.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ClassBoxData\bin\Debug\net6.0\ClassBoxData.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ClassBoxData\bin\Debug\net6.0\ClassBoxData.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ClassBoxData\bin\Debug\net6.0\ClassBoxData.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ClassBoxData\obj\Debug\net6.0\refint\ClassBoxData.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ClassBoxData\obj\Debug\net6.0\ref\ClassBoxData.dll

@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.exe
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ShoppingSpree\obj\Debug\net6.0\refint\ShoppingSpree.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\ShoppingSpree\obj\Debug\net6.0\ref\ShoppingSpree.dll

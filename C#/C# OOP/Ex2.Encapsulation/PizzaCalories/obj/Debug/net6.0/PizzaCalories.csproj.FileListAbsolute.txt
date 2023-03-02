@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\PizzaCalories\bin\Debug\net6.0\PizzaCalories.exe
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\PizzaCalories\bin\Debug\net6.0\PizzaCalories.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\PizzaCalories\bin\Debug\net6.0\PizzaCalories.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\PizzaCalories\bin\Debug\net6.0\PizzaCalories.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\PizzaCalories\bin\Debug\net6.0\PizzaCalories.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\PizzaCalories\obj\Debug\net6.0\PizzaCalories.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\PizzaCalories\obj\Debug\net6.0\PizzaCalories.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\PizzaCalories\obj\Debug\net6.0\PizzaCalories.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\PizzaCalories\obj\Debug\net6.0\PizzaCalories.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\PizzaCalories\obj\Debug\net6.0\PizzaCalories.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\PizzaCalories\obj\Debug\net6.0\PizzaCalories.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\PizzaCalories\obj\Debug\net6.0\refint\PizzaCalories.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\PizzaCalories\obj\Debug\net6.0\PizzaCalories.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\PizzaCalories\obj\Debug\net6.0\PizzaCalories.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex2.Encapsulation\PizzaCalories\obj\Debug\net6.0\ref\PizzaCalories.dll
