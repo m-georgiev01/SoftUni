@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.exe
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.dll
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.dll
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\refint\Shapes.dll
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\ref\Shapes.dll

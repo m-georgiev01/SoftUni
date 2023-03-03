@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Cars\bin\Debug\net6.0\Cars.exe
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Cars\bin\Debug\net6.0\Cars.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Cars\bin\Debug\net6.0\Cars.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Cars\bin\Debug\net6.0\Cars.dll
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Cars\bin\Debug\net6.0\Cars.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.dll
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\refint\Cars.dll
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab3.InterfacesAndAbstraction\Cars\obj\Debug\net6.0\ref\Cars.dll
