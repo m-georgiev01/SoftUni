@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# OOP\Lab4.Polymorphism\MathOperations\bin\Debug\net6.0\MathOperations.exe
+D:\GitHub\SoftUni\C#\C# OOP\Lab4.Polymorphism\MathOperations\bin\Debug\net6.0\MathOperations.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Lab4.Polymorphism\MathOperations\bin\Debug\net6.0\MathOperations.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Lab4.Polymorphism\MathOperations\bin\Debug\net6.0\MathOperations.dll
+D:\GitHub\SoftUni\C#\C# OOP\Lab4.Polymorphism\MathOperations\bin\Debug\net6.0\MathOperations.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Lab4.Polymorphism\MathOperations\obj\Debug\net6.0\MathOperations.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab4.Polymorphism\MathOperations\obj\Debug\net6.0\MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Lab4.Polymorphism\MathOperations\obj\Debug\net6.0\MathOperations.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab4.Polymorphism\MathOperations\obj\Debug\net6.0\MathOperations.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Lab4.Polymorphism\MathOperations\obj\Debug\net6.0\MathOperations.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab4.Polymorphism\MathOperations\obj\Debug\net6.0\MathOperations.dll
+D:\GitHub\SoftUni\C#\C# OOP\Lab4.Polymorphism\MathOperations\obj\Debug\net6.0\refint\MathOperations.dll
+D:\GitHub\SoftUni\C#\C# OOP\Lab4.Polymorphism\MathOperations\obj\Debug\net6.0\MathOperations.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Lab4.Polymorphism\MathOperations\obj\Debug\net6.0\MathOperations.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab4.Polymorphism\MathOperations\obj\Debug\net6.0\ref\MathOperations.dll
