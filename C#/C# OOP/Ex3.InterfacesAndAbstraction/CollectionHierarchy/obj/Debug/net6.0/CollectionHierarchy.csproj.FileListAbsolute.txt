@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\CollectionHierarchy\bin\Debug\net6.0\CollectionHierarchy.exe
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\CollectionHierarchy\bin\Debug\net6.0\CollectionHierarchy.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\CollectionHierarchy\bin\Debug\net6.0\CollectionHierarchy.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\CollectionHierarchy\bin\Debug\net6.0\CollectionHierarchy.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\CollectionHierarchy\bin\Debug\net6.0\CollectionHierarchy.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\net6.0\refint\CollectionHierarchy.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\net6.0\CollectionHierarchy.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\net6.0\ref\CollectionHierarchy.dll

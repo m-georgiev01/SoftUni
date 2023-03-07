@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\MilitaryElite\bin\Debug\net6.0\MilitaryElite.exe
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\MilitaryElite\bin\Debug\net6.0\MilitaryElite.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\MilitaryElite\bin\Debug\net6.0\MilitaryElite.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\MilitaryElite\bin\Debug\net6.0\MilitaryElite.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\MilitaryElite\bin\Debug\net6.0\MilitaryElite.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\MilitaryElite.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\MilitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\MilitaryElite.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\MilitaryElite.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\MilitaryElite.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\MilitaryElite.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\refint\MilitaryElite.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\MilitaryElite.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\MilitaryElite.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\ref\MilitaryElite.dll

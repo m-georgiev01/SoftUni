@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\Telephony\obj\Debug\net6.0\Telephony.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\Telephony\obj\Debug\net6.0\Telephony.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\Telephony\obj\Debug\net6.0\Telephony.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\Telephony\obj\Debug\net6.0\Telephony.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\Telephony\obj\Debug\net6.0\Telephony.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\Telephony\bin\Debug\net6.0\Telephony.exe
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\Telephony\bin\Debug\net6.0\Telephony.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\Telephony\bin\Debug\net6.0\Telephony.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\Telephony\bin\Debug\net6.0\Telephony.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\Telephony\bin\Debug\net6.0\Telephony.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\Telephony\obj\Debug\net6.0\Telephony.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\Telephony\obj\Debug\net6.0\refint\Telephony.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\Telephony\obj\Debug\net6.0\Telephony.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\Telephony\obj\Debug\net6.0\Telephony.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\Telephony\obj\Debug\net6.0\ref\Telephony.dll

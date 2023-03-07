@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\ExplicitInterfaces\bin\Debug\net6.0\ExplicitInterfaces.exe
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\ExplicitInterfaces\bin\Debug\net6.0\ExplicitInterfaces.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\ExplicitInterfaces\bin\Debug\net6.0\ExplicitInterfaces.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\ExplicitInterfaces\bin\Debug\net6.0\ExplicitInterfaces.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\ExplicitInterfaces\bin\Debug\net6.0\ExplicitInterfaces.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\net6.0\ExplicitInterfaces.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\net6.0\ExplicitInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\net6.0\ExplicitInterfaces.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\net6.0\ExplicitInterfaces.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\net6.0\ExplicitInterfaces.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\net6.0\ExplicitInterfaces.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\net6.0\refint\ExplicitInterfaces.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\net6.0\ExplicitInterfaces.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\net6.0\ExplicitInterfaces.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\net6.0\ref\ExplicitInterfaces.dll

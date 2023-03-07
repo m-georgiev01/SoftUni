@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\BorderControl\bin\Debug\net6.0\BorderControl.exe
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\BorderControl\bin\Debug\net6.0\BorderControl.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\BorderControl\bin\Debug\net6.0\BorderControl.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\BorderControl\bin\Debug\net6.0\BorderControl.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\BorderControl\bin\Debug\net6.0\BorderControl.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\BorderControl\obj\Debug\net6.0\BorderControl.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\BorderControl\obj\Debug\net6.0\BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\BorderControl\obj\Debug\net6.0\BorderControl.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\BorderControl\obj\Debug\net6.0\BorderControl.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\BorderControl\obj\Debug\net6.0\BorderControl.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\BorderControl\obj\Debug\net6.0\BorderControl.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\BorderControl\obj\Debug\net6.0\refint\BorderControl.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\BorderControl\obj\Debug\net6.0\BorderControl.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\BorderControl\obj\Debug\net6.0\BorderControl.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex3.InterfacesAndAbstraction\BorderControl\obj\Debug\net6.0\ref\BorderControl.dll
