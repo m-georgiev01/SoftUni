@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\WildFarm\bin\Debug\net6.0\WildFarm.exe
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\WildFarm\bin\Debug\net6.0\WildFarm.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\WildFarm\bin\Debug\net6.0\WildFarm.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\WildFarm\bin\Debug\net6.0\WildFarm.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\WildFarm\bin\Debug\net6.0\WildFarm.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\WildFarm\obj\Debug\net6.0\WildFarm.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\WildFarm\obj\Debug\net6.0\WildFarm.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\WildFarm\obj\Debug\net6.0\WildFarm.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\WildFarm\obj\Debug\net6.0\WildFarm.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\WildFarm\obj\Debug\net6.0\WildFarm.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\WildFarm\obj\Debug\net6.0\WildFarm.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\WildFarm\obj\Debug\net6.0\refint\WildFarm.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\WildFarm\obj\Debug\net6.0\WildFarm.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\WildFarm\obj\Debug\net6.0\WildFarm.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\WildFarm\obj\Debug\net6.0\ref\WildFarm.dll

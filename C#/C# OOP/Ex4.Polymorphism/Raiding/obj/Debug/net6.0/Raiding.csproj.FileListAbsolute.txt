@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\Raiding\bin\Debug\net6.0\Raiding.exe
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\Raiding\bin\Debug\net6.0\Raiding.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\Raiding\bin\Debug\net6.0\Raiding.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\Raiding\bin\Debug\net6.0\Raiding.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\Raiding\bin\Debug\net6.0\Raiding.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\Raiding\obj\Debug\net6.0\Raiding.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\Raiding\obj\Debug\net6.0\Raiding.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\Raiding\obj\Debug\net6.0\Raiding.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\Raiding\obj\Debug\net6.0\Raiding.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\Raiding\obj\Debug\net6.0\Raiding.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\Raiding\obj\Debug\net6.0\Raiding.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\Raiding\obj\Debug\net6.0\refint\Raiding.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\Raiding\obj\Debug\net6.0\Raiding.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\Raiding\obj\Debug\net6.0\Raiding.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex4.Polymorphism\Raiding\obj\Debug\net6.0\ref\Raiding.dll
