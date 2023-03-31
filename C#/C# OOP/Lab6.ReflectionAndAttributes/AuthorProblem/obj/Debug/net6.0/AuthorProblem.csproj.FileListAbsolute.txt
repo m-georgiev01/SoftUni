@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# OOP\Lab6.ReflectionAndAttributes\AuthorProblem\bin\Debug\net6.0\AuthorProblem.exe
+D:\GitHub\SoftUni\C#\C# OOP\Lab6.ReflectionAndAttributes\AuthorProblem\bin\Debug\net6.0\AuthorProblem.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Lab6.ReflectionAndAttributes\AuthorProblem\bin\Debug\net6.0\AuthorProblem.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Lab6.ReflectionAndAttributes\AuthorProblem\bin\Debug\net6.0\AuthorProblem.dll
+D:\GitHub\SoftUni\C#\C# OOP\Lab6.ReflectionAndAttributes\AuthorProblem\bin\Debug\net6.0\AuthorProblem.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Lab6.ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab6.ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Lab6.ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab6.ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Lab6.ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab6.ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.dll
+D:\GitHub\SoftUni\C#\C# OOP\Lab6.ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\refint\AuthorProblem.dll
+D:\GitHub\SoftUni\C#\C# OOP\Lab6.ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Lab6.ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab6.ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\ref\AuthorProblem.dll
