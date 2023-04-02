@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# OOP\Lab7.UnitTesting\Skeleton\bin\Debug\net6.0\Skeleton.exe
+D:\GitHub\SoftUni\C#\C# OOP\Lab7.UnitTesting\Skeleton\bin\Debug\net6.0\Skeleton.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Lab7.UnitTesting\Skeleton\bin\Debug\net6.0\Skeleton.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Lab7.UnitTesting\Skeleton\bin\Debug\net6.0\Skeleton.dll
+D:\GitHub\SoftUni\C#\C# OOP\Lab7.UnitTesting\Skeleton\bin\Debug\net6.0\Skeleton.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Lab7.UnitTesting\Skeleton\obj\Debug\net6.0\Skeleton.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab7.UnitTesting\Skeleton\obj\Debug\net6.0\Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Lab7.UnitTesting\Skeleton\obj\Debug\net6.0\Skeleton.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab7.UnitTesting\Skeleton\obj\Debug\net6.0\Skeleton.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Lab7.UnitTesting\Skeleton\obj\Debug\net6.0\Skeleton.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab7.UnitTesting\Skeleton\obj\Debug\net6.0\Skeleton.dll
+D:\GitHub\SoftUni\C#\C# OOP\Lab7.UnitTesting\Skeleton\obj\Debug\net6.0\refint\Skeleton.dll
+D:\GitHub\SoftUni\C#\C# OOP\Lab7.UnitTesting\Skeleton\obj\Debug\net6.0\Skeleton.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Lab7.UnitTesting\Skeleton\obj\Debug\net6.0\Skeleton.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# OOP\Lab7.UnitTesting\Skeleton\obj\Debug\net6.0\ref\Skeleton.dll
