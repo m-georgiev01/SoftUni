@@ -1,0 +1,12 @@
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\CarManager\bin\Debug\net6.0\CarManager.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\CarManager\bin\Debug\net6.0\CarManager.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\CarManager\bin\Debug\net6.0\CarManager.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\CarManager\obj\Debug\net6.0\CarManager.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\CarManager\obj\Debug\net6.0\CarManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\CarManager\obj\Debug\net6.0\CarManager.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\CarManager\obj\Debug\net6.0\CarManager.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\CarManager\obj\Debug\net6.0\CarManager.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\CarManager\obj\Debug\net6.0\CarManager.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\CarManager\obj\Debug\net6.0\refint\CarManager.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\CarManager\obj\Debug\net6.0\CarManager.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\CarManager\obj\Debug\net6.0\ref\CarManager.dll

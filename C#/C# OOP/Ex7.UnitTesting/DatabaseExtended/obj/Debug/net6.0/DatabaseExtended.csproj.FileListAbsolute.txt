@@ -1,0 +1,12 @@
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\DatabaseExtended\bin\Debug\net6.0\DatabaseExtended.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\DatabaseExtended\bin\Debug\net6.0\DatabaseExtended.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\DatabaseExtended\bin\Debug\net6.0\DatabaseExtended.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\DatabaseExtended\obj\Debug\net6.0\refint\DatabaseExtended.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\DatabaseExtended\obj\Debug\net6.0\ref\DatabaseExtended.dll

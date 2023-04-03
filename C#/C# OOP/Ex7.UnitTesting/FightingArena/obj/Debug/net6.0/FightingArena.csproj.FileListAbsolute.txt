@@ -1,0 +1,12 @@
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\FightingArena\bin\Debug\net6.0\FightingArena.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\FightingArena\bin\Debug\net6.0\FightingArena.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\FightingArena\bin\Debug\net6.0\FightingArena.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\FightingArena\obj\Debug\net6.0\FightingArena.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\FightingArena\obj\Debug\net6.0\FightingArena.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\FightingArena\obj\Debug\net6.0\FightingArena.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\FightingArena\obj\Debug\net6.0\FightingArena.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\FightingArena\obj\Debug\net6.0\FightingArena.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\FightingArena\obj\Debug\net6.0\FightingArena.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\FightingArena\obj\Debug\net6.0\refint\FightingArena.dll
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\FightingArena\obj\Debug\net6.0\FightingArena.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Ex7.UnitTesting\FightingArena\obj\Debug\net6.0\ref\FightingArena.dll
