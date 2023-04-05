@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\SecondPart\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.exe
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\SecondPart\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\SecondPart\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\SecondPart\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.dll
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\SecondPart\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\SecondPart\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\SecondPart\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\SecondPart\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\SecondPart\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\SecondPart\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\SecondPart\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.dll
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\SecondPart\SmartphoneShop\obj\Debug\net6.0\refint\SmartphoneShop.dll
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\SecondPart\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\SecondPart\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\SecondPart\SmartphoneShop\obj\Debug\net6.0\ref\SmartphoneShop.dll

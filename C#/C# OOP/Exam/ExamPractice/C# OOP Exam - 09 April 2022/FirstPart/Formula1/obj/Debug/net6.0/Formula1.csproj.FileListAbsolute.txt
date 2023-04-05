@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\FirstPart\Formula1\bin\Debug\net6.0\Formula1.exe
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\FirstPart\Formula1\bin\Debug\net6.0\Formula1.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\FirstPart\Formula1\bin\Debug\net6.0\Formula1.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\FirstPart\Formula1\bin\Debug\net6.0\Formula1.dll
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\FirstPart\Formula1\bin\Debug\net6.0\Formula1.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\FirstPart\Formula1\obj\Debug\net6.0\Formula1.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\FirstPart\Formula1\obj\Debug\net6.0\Formula1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\FirstPart\Formula1\obj\Debug\net6.0\Formula1.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\FirstPart\Formula1\obj\Debug\net6.0\Formula1.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\FirstPart\Formula1\obj\Debug\net6.0\Formula1.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\FirstPart\Formula1\obj\Debug\net6.0\Formula1.dll
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\FirstPart\Formula1\obj\Debug\net6.0\refint\Formula1.dll
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\FirstPart\Formula1\obj\Debug\net6.0\Formula1.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\FirstPart\Formula1\obj\Debug\net6.0\Formula1.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 09 April 2022\FirstPart\Formula1\obj\Debug\net6.0\ref\Formula1.dll
