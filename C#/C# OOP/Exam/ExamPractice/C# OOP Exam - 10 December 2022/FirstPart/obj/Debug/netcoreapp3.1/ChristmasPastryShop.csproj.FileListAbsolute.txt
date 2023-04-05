@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\FirstPart\bin\Debug\netcoreapp3.1\ChristmasPastryShop.exe
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\FirstPart\bin\Debug\netcoreapp3.1\ChristmasPastryShop.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\FirstPart\bin\Debug\netcoreapp3.1\ChristmasPastryShop.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\FirstPart\bin\Debug\netcoreapp3.1\ChristmasPastryShop.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\FirstPart\bin\Debug\netcoreapp3.1\ChristmasPastryShop.dll
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\FirstPart\bin\Debug\netcoreapp3.1\ChristmasPastryShop.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\FirstPart\obj\Debug\netcoreapp3.1\ChristmasPastryShop.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\FirstPart\obj\Debug\netcoreapp3.1\ChristmasPastryShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\FirstPart\obj\Debug\netcoreapp3.1\ChristmasPastryShop.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\FirstPart\obj\Debug\netcoreapp3.1\ChristmasPastryShop.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\FirstPart\obj\Debug\netcoreapp3.1\ChristmasPastryShop.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\FirstPart\obj\Debug\netcoreapp3.1\ChristmasPastryShop.dll
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\FirstPart\obj\Debug\netcoreapp3.1\ChristmasPastryShop.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\FirstPart\obj\Debug\netcoreapp3.1\ChristmasPastryShop.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\SecondPart\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.exe
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\SecondPart\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\SecondPart\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\SecondPart\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\SecondPart\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.dll
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\SecondPart\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\SecondPart\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\SecondPart\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\SecondPart\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\SecondPart\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\SecondPart\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\SecondPart\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.dll
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\SecondPart\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam - 10 December 2022\SecondPart\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.genruntimeconfig.cache
