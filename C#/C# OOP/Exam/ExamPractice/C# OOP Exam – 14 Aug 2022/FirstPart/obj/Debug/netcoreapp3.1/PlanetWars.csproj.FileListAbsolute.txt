@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam – 14 Aug 2022\FirstPart\bin\Debug\netcoreapp3.1\PlanetWars.exe
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam – 14 Aug 2022\FirstPart\bin\Debug\netcoreapp3.1\PlanetWars.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam – 14 Aug 2022\FirstPart\bin\Debug\netcoreapp3.1\PlanetWars.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam – 14 Aug 2022\FirstPart\bin\Debug\netcoreapp3.1\PlanetWars.runtimeconfig.dev.json
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam – 14 Aug 2022\FirstPart\bin\Debug\netcoreapp3.1\PlanetWars.dll
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam – 14 Aug 2022\FirstPart\bin\Debug\netcoreapp3.1\PlanetWars.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam – 14 Aug 2022\FirstPart\obj\Debug\netcoreapp3.1\PlanetWars.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam – 14 Aug 2022\FirstPart\obj\Debug\netcoreapp3.1\PlanetWars.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam – 14 Aug 2022\FirstPart\obj\Debug\netcoreapp3.1\PlanetWars.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam – 14 Aug 2022\FirstPart\obj\Debug\netcoreapp3.1\PlanetWars.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam – 14 Aug 2022\FirstPart\obj\Debug\netcoreapp3.1\PlanetWars.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam – 14 Aug 2022\FirstPart\obj\Debug\netcoreapp3.1\PlanetWars.dll
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam – 14 Aug 2022\FirstPart\obj\Debug\netcoreapp3.1\PlanetWars.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Exam – 14 Aug 2022\FirstPart\obj\Debug\netcoreapp3.1\PlanetWars.genruntimeconfig.cache
