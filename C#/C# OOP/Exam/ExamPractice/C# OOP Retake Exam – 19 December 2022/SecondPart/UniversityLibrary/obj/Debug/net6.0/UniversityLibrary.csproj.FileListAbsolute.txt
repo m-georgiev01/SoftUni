@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Retake Exam – 19 December 2022\SecondPart\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.exe
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Retake Exam – 19 December 2022\SecondPart\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Retake Exam – 19 December 2022\SecondPart\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Retake Exam – 19 December 2022\SecondPart\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.dll
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Retake Exam – 19 December 2022\SecondPart\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Retake Exam – 19 December 2022\SecondPart\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Retake Exam – 19 December 2022\SecondPart\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Retake Exam – 19 December 2022\SecondPart\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Retake Exam – 19 December 2022\SecondPart\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Retake Exam – 19 December 2022\SecondPart\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Retake Exam – 19 December 2022\SecondPart\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.dll
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Retake Exam – 19 December 2022\SecondPart\UniversityLibrary\obj\Debug\net6.0\refint\UniversityLibrary.dll
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Retake Exam – 19 December 2022\SecondPart\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Retake Exam – 19 December 2022\SecondPart\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# OOP\Exam\ExamPractice\C# OOP Retake Exam – 19 December 2022\SecondPart\UniversityLibrary\obj\Debug\net6.0\ref\UniversityLibrary.dll
