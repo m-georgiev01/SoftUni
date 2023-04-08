@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\C#\C# OOP\Exam\C# OOP Exam - 08 April 2023\FirstPart\bin\Debug\net6.0\RobotService.exe
+D:\GitHub\SoftUni\C#\C# OOP\Exam\C# OOP Exam - 08 April 2023\FirstPart\bin\Debug\net6.0\RobotService.deps.json
+D:\GitHub\SoftUni\C#\C# OOP\Exam\C# OOP Exam - 08 April 2023\FirstPart\bin\Debug\net6.0\RobotService.runtimeconfig.json
+D:\GitHub\SoftUni\C#\C# OOP\Exam\C# OOP Exam - 08 April 2023\FirstPart\bin\Debug\net6.0\RobotService.dll
+D:\GitHub\SoftUni\C#\C# OOP\Exam\C# OOP Exam - 08 April 2023\FirstPart\bin\Debug\net6.0\RobotService.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Exam\C# OOP Exam - 08 April 2023\FirstPart\obj\Debug\net6.0\RobotService.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\C#\C# OOP\Exam\C# OOP Exam - 08 April 2023\FirstPart\obj\Debug\net6.0\RobotService.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\C#\C# OOP\Exam\C# OOP Exam - 08 April 2023\FirstPart\obj\Debug\net6.0\RobotService.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Exam\C# OOP Exam - 08 April 2023\FirstPart\obj\Debug\net6.0\RobotService.AssemblyInfo.cs
+D:\GitHub\SoftUni\C#\C# OOP\Exam\C# OOP Exam - 08 April 2023\FirstPart\obj\Debug\net6.0\RobotService.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\C#\C# OOP\Exam\C# OOP Exam - 08 April 2023\FirstPart\obj\Debug\net6.0\RobotService.dll
+D:\GitHub\SoftUni\C#\C# OOP\Exam\C# OOP Exam - 08 April 2023\FirstPart\obj\Debug\net6.0\refint\RobotService.dll
+D:\GitHub\SoftUni\C#\C# OOP\Exam\C# OOP Exam - 08 April 2023\FirstPart\obj\Debug\net6.0\RobotService.pdb
+D:\GitHub\SoftUni\C#\C# OOP\Exam\C# OOP Exam - 08 April 2023\FirstPart\obj\Debug\net6.0\RobotService.genruntimeconfig.cache
+D:\GitHub\SoftUni\C#\C# OOP\Exam\C# OOP Exam - 08 April 2023\FirstPart\obj\Debug\net6.0\ref\RobotService.dll
