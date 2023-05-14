@@ -1,0 +1,20 @@
+body{
+    background-color: #f9f7cf;
+}
+
+header,
+main,
+footer{
+    box-sizing: border-box;
+    width: 480px;
+    margin: 0 auto;
+}
+
+header,
+footer{
+    background-color: #f2dcbb;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 15px;
+}
