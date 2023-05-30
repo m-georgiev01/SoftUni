@@ -1,0 +1,30 @@
+html{
+    font-family: Helvetica, sans-serif;
+    color: rgb(51, 51, 51);
+    padding: 2em;
+}
+
+body{
+    background-color: rgb(238, 238, 238);
+}
+
+article{
+    display: inline-block;
+    width: 65%;
+    overflow: hidden;
+}
+
+article img{
+    width: 80%;
+    aspect-ratio: 16/9;
+}
+
+aside{
+    display: inline-block;
+    width: 25%;
+    vertical-align: top;
+}
+
+a{
+    color: blue;
+}
