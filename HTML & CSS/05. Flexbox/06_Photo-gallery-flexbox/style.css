@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body,
+ul,
+li{
+    display: flex;
+}
+
+body{
+    padding: 2em;
+    background-color: #eee;
+}
+
+.gallery ul{
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 2em;
+}
+
+.gallery li{
+    flex: 0 0 25em;
+    align-items: center;
+    border: 0.5em solid black;
+    background-color: white;
+    padding: 0.5em;
+    box-shadow: 
+        0 0 0.5em 0 rgba(0,0,0,0.2) inset,
+        0 0 1em 0 rgba(0,0,0,0.4);
+}
+
+.gallery li img{
+    display: block;
+    width: 100%;
+    height: auto;
+}

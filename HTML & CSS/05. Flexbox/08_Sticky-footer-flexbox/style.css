@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    background-color: rgb(238, 238, 238);
+    height: 100vh;
+    font-family: Helvetica, sans-serif;
+    box-sizing: border-box;
+    margin:0;
+}
+
+body > header{
+    border-bottom: 6px solid grey;
+    flex: 1 1 100%;
+    padding: 1em 2em 0;
+}
+
+body > header h1{
+    text-transform: uppercase;
+}
+
+main{
+    padding: 2em;
+    flex-grow: 1;
+}
+
+footer{
+    margin-top: auto;
+    padding: 0 2em 0;
+    color: rgb(255, 255, 255);
+    background-color: rgb(102, 102, 102);
+}

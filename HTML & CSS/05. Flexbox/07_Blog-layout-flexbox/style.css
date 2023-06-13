@@ -1,0 +1,83 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    padding: 1em 10em;
+    background-color: rgb(238, 238, 238);
+}
+
+.page h1,
+.page h2,
+.page h3{
+    font-family: Georgia, serif;
+}
+
+.page{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.page > header{
+    flex-basis: 100%;
+    border-bottom: 4px solid grey;
+}
+
+.page > header h1{
+    text-transform: uppercase;
+}
+
+.page main{
+    flex: 1 0 35rem;
+}
+
+.page aside{
+    flex: 1 0 15rem;
+}
+
+article img{
+    display: block;
+    border: 5px solid black;
+    padding: 0.5em;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 
+        0 0 0.5em 0 rgba(0,0,0,0.2) inset,
+        0 0 2em 0 rgba(0,0,0,0.5);
+}
+
+article img.float-left{
+    float: left;
+    margin: 0 1em 1em 0;
+}
+
+article img.float-right{
+    float:right;
+    margin: 0 0 1em 1em;
+}
+
+blockquote{
+    font-family: Georgia, serif;
+    opacity: 0.5;
+    padding: 1em;
+    max-width: 40%;
+    float: right;
+    margin: 0 0 1em 1em;
+    font-style: italic;
+}
+
+blockquote p{
+    text-align: justify;
+}
+
+blockquote p:nth-child(2){
+    text-align: end;
+}
+
+.page aside{
+    padding-left: 3em;
+}
+
+.page aside nav ul li a{
+    text-decoration: none;
+    color: rgb(0, 153, 0);
+}
