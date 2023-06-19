@@ -1,0 +1,60 @@
+@media (max-width: 600px) {
+
+    .navigation-nav{
+        display: none;
+    }
+
+    .home-text-container{
+         margin-bottom: 1.5em;
+    }
+
+    .home-text{
+        display: none;
+    }
+
+    .Heading2{
+        margin-top: 50px;
+    }
+
+    .home-tab-selector-cards-container{
+        grid-template-columns: none;
+    }
+
+    .home-max-width{
+        margin-bottom: 2em;
+    }
+
+    .section-container{
+        padding: 2em 0;
+    }
+
+    .home-max-width1{
+        flex-direction: column;
+    }
+
+    .home-image{
+        display: none;
+    }
+
+    .home-text10{
+        margin-right: 30px;
+    }
+
+    .home-top-part{
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .home-links-container{
+        flex-direction: column;
+        gap: 2em;
+    }
+
+    .home-subscribe-container{
+        width: 100%;
+    }
+
+    .button-primary{
+        padding: 1.5em 2em;
+    }
+}

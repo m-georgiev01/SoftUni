@@ -1,0 +1,55 @@
+html{
+    font-family: Arial, sans-serif;
+    padding: 0 5em;
+}
+
+/* Header */
+header{
+    display: flex;
+    padding: 1em;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header h3{
+    margin-left: 3.5em;
+}
+
+header nav ul{
+    display: flex;
+    margin: 0 1em 0 0;
+
+}
+
+header nav ul li{
+    padding: 0.5em;
+    display: block;
+}
+
+header nav ul li a{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+
+/* Main */
+.main-section{
+    display: flex;
+    background-color: #85dcff;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 5em;
+}
+
+.main-section .info{
+    flex: 0 0 45%;
+}
+
+.main-section .img-container{
+    flex: 0 0 30%;
+}
+
+.main-section img{
+    width: 100%;
+    height: auto;
+}
