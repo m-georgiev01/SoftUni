@@ -1,0 +1,327 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url(' https://use.fontawesome.com/releases/v6.4.0/css/all.css');
+
+html{
+    font-family: Inter, sans-serif;
+}
+
+/* Header */
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em 10em;
+}
+
+nav ul{
+    display: flex;
+    padding-left: 0;
+}
+
+nav ul li{
+    padding-left: 2em;
+    list-style: none;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #000;
+}
+
+.auth a{
+    text-decoration: none;
+    color: #000;
+}
+
+.auth a:nth-child(1){
+    margin-right: 1em;
+}
+
+.auth .auth-colored{
+    background-color: #ade2df;
+    border-radius: 4px;
+    padding: 0.7em 1em;
+}
+
+/* Main */
+/* First section */
+
+.colored-section{
+    background-color: #ade2df;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 6em 0;
+    gap: 0.5em;
+}
+
+.colored-section h1{
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.colored-section .btns{
+    display: flex;
+    gap: 1em;
+    margin-top: 2em;
+}
+
+.colored-section .btns .download-btn{
+    text-decoration: none;
+    background-color: #000;
+    color: #fff;
+    padding: 1em 1.5em;
+    border-radius: 6px;
+    font-size: 14px;
+}
+
+/* Second section */
+
+.info-section{
+    display: flex;
+    justify-content: center;
+    padding: 6em 0;
+}
+
+.info-section .info-card{
+    flex: 0 0 27%;
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+    align-items: center;
+    gap: 2em;
+    height: 30vh;
+    border-left: 1px solid #dbdbdb;
+    border-right: 1px solid #dbdbdb;
+}
+
+.info-section .info-card h2{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.info-section .info-card p{
+    text-align: center;
+}
+
+/* Third section */
+
+.app-section{
+    display: flex;
+    background-color: #ade2df;
+    justify-content: center;
+    gap: 1em;
+}
+
+.app-section img{
+    border: 2px dashed rgba(0, 0, 0, 0.2);
+    width: 22em;
+}
+
+.app-info{
+    flex: 0 0 45%;
+    padding: 6.5em 4em 6em;
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+}
+
+.app-info h2{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.app-info h4{
+    font-size: 18px;
+}
+
+.app-info a{
+    color: #050606;
+}
+
+/* Forth section */
+
+.pricing-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3em 0;
+    gap: 2em;
+    background-color: #f3f5fa;
+}
+
+.pricing-section > h4{
+    padding: 5px 10px;
+    background-color: #ade2df;
+    border-radius: 8px;
+    font-weight: 500;
+}
+
+.pricing-section > h2{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.pricing-section .card-container{
+    flex: 0 0 100%;
+    display: flex;
+
+    background-color: #fff;
+    border-radius: 10px;
+    border: 1px solid #dbdbdb;
+    margin-top: 3em;
+}
+
+.pricing-section .card-container .card{
+    display: flex;
+    flex-direction: column;
+    border-right: 1px solid #dbdbdb;
+    padding: 2em;
+}
+
+.pricing-section .card-container .card h4{
+    font-size: 18px;
+    text-align: center;
+}
+
+.pricing-section .card-container .card .price{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 0.3em;
+    padding-bottom: 0.4em;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.pricing-section .card-container .card .price .smaller{
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.pricing-section .card-container .card .fa-ul{
+    margin-left: 0;
+}
+
+.pricing-section .card-container .card .fa-li{
+    position: unset;
+    margin-right: 0.5em;
+}
+
+.pricing-section .card-container .card li{
+    font-size: 14px;
+    line-height: 2em;
+}
+
+.pricing-section .card-container .card > a{
+    text-decoration: none;
+    color: #000;
+    background-color: #ade2df;
+    text-align: center;
+    padding: 1em;
+    border-radius: 8px;
+}
+
+
+.pricing-section .card-container .card-contact{
+    flex: 0 0 40%;
+    background-color: #ade2df;
+    padding: 2em;
+    display: flex;
+    flex-direction: column;
+}
+
+.pricing-section .card-container .card-contact > h4{
+    text-align: center;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.pricing-section .card-container .card-contact > h3{
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 1.2em;
+}
+
+.pricing-section .card-container .card-contact .fa-ul{
+    margin-left: 0;
+}
+
+.pricing-section .card-container .card-contact .fa-li{
+    position: unset;
+    margin-right: 0.5em;
+}
+
+.pricing-section .card-container .card-contact li{
+    font-size: 14px;
+    line-height: 1.89em;
+}
+
+.pricing-section .card-container .card-contact a{
+    margin-top: auto;
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    background-color: #000;
+    text-align: center;
+    padding: 1em;
+    border-radius: 8px;
+}
+
+/* Fifth section */
+.additional-info-section{
+    background-color: #ade2df;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 6em 0;
+    gap: 0.5em;
+}
+
+.additional-info-section .additional-info-content{
+    width: 40%;
+    text-align: center;
+}
+
+.additional-info-section h1{
+    font-size: 60px;
+    font-weight: 600;
+    text-align: center;
+    line-height: 1em;
+}
+
+.additional-info-section .btns{
+    display: flex;
+    gap: 1em;
+    margin-top: 2em;
+    justify-content: center;
+}
+
+.additional-info-section .btns .download-btn{
+    text-decoration: none;
+    background-color: #000;
+    color: #fff;
+    padding: 1em 1.5em;
+    border-radius: 6px;
+    font-size: 14px;
+}
+
+/* Footer */
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em 3em;
+}
+
+footer ul{
+    display: flex;
+}
+
+footer ul li{
+    margin-right: 1em;
+    list-style: none;
+}
+
+footer ul li a{
+    color: #000
+}
